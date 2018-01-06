@@ -7,15 +7,20 @@
 
 <body>
     <div class="container">
+        <div class="alert alert-danger center-block offset" {{!Session::has('error') ? 'hidden' : ''}}>{{Session::get('error')}}</div>
+        <div class="alert alert-success center-block offset"{{!Session::has('success') ? 'hidden' : ''}}>{{Session::get('success')}}</div>
         <div class="row">
             <div class="col-lg-2">
                 <div class="input-group">
-                    <form action="{{route('beer.results')}}" method="get">
-                        <label for="lat">Latitude</label>
-                        <input type="number" class="form-control" name="lat" step="0.0001" placeholder="0.0000" style="width: 150px">
+                    <form action="{{route('trip.results')}}" method="get">
+                        <label for="longitude">Longitude</label>
+                        <input type="number" value="51.355468" class="form-control"
+                               name="longitude" step="0.000001" placeholder="0.000001" style="width: 150px" required>
 
-                        <label for="long">Longitude</label>
-                        <input type="number" class="form-control" name="long" step="0.0001" placeholder="0.0000" style="width: 150px">
+                        <label for="latitude">Latitude</label>
+                        <input type="number" value="11.100790" class="form-control"
+                               name="latitude" step="0.000001" placeholder="0.000001"  style="width: 150px" required>
+
                         <br>
                         <button type="submit" class="btn btn-success">Calculate</button>
                     </form>

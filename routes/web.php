@@ -12,11 +12,11 @@
 */
 
 Route::get('/', [
-    'uses' => 'BeerController@getIndex',
-    'as' => 'beer.index'
+    'uses' => 'TripController@getIndex',
+    'as' => 'trip.index'
 ]);
 
 Route::get('/results', [
-    'uses' => 'BeerController@calculate',
-    'as' => 'beer.results'
+    'uses' => 'TripController@makeATrip',
+    'as' => 'trip.results'
 ]);
