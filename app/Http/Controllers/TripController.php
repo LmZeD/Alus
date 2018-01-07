@@ -37,9 +37,6 @@ class TripController extends Controller
         $start_latitude=$request->latitude;
         $start_longitude=$request->longitude;
 
-//        dd($this->calculateDistanceBetweenTwoPoints(51.74250300,19.43295600,
-//            49.96220016,20.60029984));
-
         //preparing data
         $breweries_data=$this->setUpBreweriesData($start_longitude,$start_latitude,$longitude_difference_allowed,$latitude_difference_allowed);
         //end of preparing data
@@ -48,6 +45,7 @@ class TripController extends Controller
         $current_long=$start_longitude;
         $current_lat=$start_latitude;
         $used_indexes=array();//contains indexes of visited breweries
+
         $distance_left=$trip_distance;
         $i=0;
         while($this->findClosestPoint($current_long,$current_lat,
@@ -64,15 +62,15 @@ class TripController extends Controller
             $current_long=$breweries_data[$closest_data['closest_brewery_index']]['longitude'];
             $i++;
         }
-
         //end of calculations
 
         //fetching data for output
         $results=$this->fetchDataForOutput($used_indexes,$breweries_data,$distance_left,$start_longitude
             ,$start_latitude,$trip_distance);
+        if($results==null){
+            return redirect()->route('trip.index')->with('error','No breweries are close enough...');
+        }
         //end of fetching
-
-
 
         //last block of time tracking
         $time = microtime();
@@ -87,7 +85,7 @@ class TripController extends Controller
             'start_longitude'=>$start_longitude,'run_time'=>$run_time]);
     }
 
-    private function fetchDataForOutput($used_indexes,$breweries_data,$distance_left,$start_long,
+    public function fetchDataForOutput($used_indexes,$breweries_data,$distance_left,$start_long,
                                         $start_lat,$trip_distance){
         $i=0;
         $results=array();
@@ -103,22 +101,30 @@ class TripController extends Controller
             $results[$i]['distance']=$breweries_data[$index]['distance'];
             $i++;
         }
-//        $brewery['id']=0;
-//        $brewery['name']='HOME';
 
-        $results[$i]['brewery']['id']='0';
-        $results[$i]['brewery']['name']='HOME';
-        $results[$i]['latitude']=$start_lat;
-        $results[$i]['longitude']=$start_long;
-        $results[$i]['distance']=$breweries_data[end($used_indexes)]['distance_from_home'];
-        $results['distance_left']=$distance_left-$breweries_data[end($used_indexes)]['distance_from_home'];
-        $results['max_trip_distance']=$trip_distance;
-        $results['beer_count']=$beer_count;
-        $results=$this->unsetSameBeer($results);
+        if(is_array($results) && $results != null) {
+            //hard-coded home location and additional data for output
+            $results[$i]['brewery']['id'] = '0';
+            $results[$i]['brewery']['name'] = 'HOME';
+            $results[$i]['latitude'] = $start_lat;
+            $results[$i]['longitude'] = $start_long;
+            $results[$i]['distance'] = $breweries_data[end($used_indexes)]['distance_from_home'];
+            $results['distance_left'] = $distance_left - $breweries_data[end($used_indexes)]['distance_from_home'];
+            $results['max_trip_distance'] = $trip_distance;
+            $results['beer_count'] = $beer_count;
+            $results=$this->unsetSameBeer($results);
+        }
+        else{
+            return null;
+        }
+
         return $results;
     }
 
-    private function unsetSameBeer($results){
+    public function unsetSameBeer($results){
+        if($results==null){
+            return null;
+        }
         $all_beer=array();
         $i=0;
         $j=0;//index for results
@@ -137,33 +143,41 @@ class TripController extends Controller
         return $results;
     }
 
-    private function findClosestPoint($current_long,$current_lat,$used_indexes,$distance_left,
+    public function findClosestPoint($current_long,$current_lat,$used_indexes,$distance_left,
                                       $breweries_data){
+        //validate input fields (overkill? Params come from function that I wrote. Maybe for multiple use purposes?)
+            if($this->validateInputFields($current_long,$current_lat) != 'Success'){
+                return null;
+            }
+        //
         $closest_data=array();//holder for return
         $closest_index=-1;//index of closest brewery
         $closest_distance=999999;//distance to closest brewery
 
-//dd($breweries_data);
         foreach ($breweries_data as $data){
             $distance=$this->calculateDistanceBetweenTwoPoints($current_long,$current_lat,$data['longitude'],
                 $data['latitude']);
-            if($distance<$closest_distance && !in_array($data['brewery_id'],$used_indexes)){
+            if($distance != null && $distance<$closest_distance && !in_array($data['brewery_id'],$used_indexes) && $distance!=false){
                 $closest_distance=$distance;
                 $closest_index=$data['brewery_id'];
             }
         }
-        if($distance_left<$closest_distance+$breweries_data[$closest_index]['distance_from_home']){
+        if($closest_index ==- 1){//nothing in range found
+            return null;
+        }
+        if($closest_index != -1 && $distance_left<$closest_distance+$breweries_data[$closest_index]['distance_from_home']){
             return null;//stops while @makeATrip method
         }
         if($closest_distance>$distance_left){
             return null;//stops while @makeATrip method
         }
+
         $closest_data['closest_brewery_index']=$closest_index;
         $closest_data['closest_distance']=$closest_distance;
         return $closest_data;
     }
 
-    private function setUpBreweriesData($start_long,$start_lat,$longitude_difference_allowed,$latitude_difference_allowed){
+    public function setUpBreweriesData($start_long,$start_lat,$longitude_difference_allowed,$latitude_difference_allowed){
 
         $breweries=DB::table('geocodes')->leftjoin('breweries', function($join) use ($start_long,$start_lat,$longitude_difference_allowed,$latitude_difference_allowed)
         {
@@ -198,8 +212,13 @@ class TripController extends Controller
         return $breweries_data;
     }
 
-    private function calculateDistanceBetweenTwoPoints($long1,$lat1,$long2,$lat2){//haversine formula
-
+    public function calculateDistanceBetweenTwoPoints($long1,$lat1,$long2,$lat2){//haversine formula
+        if($this->validateInputFields($long1,$lat1) !='Success'){
+            return false;
+        }
+        if($this->validateInputFields($long2,$lat2)!='Success'){
+            return false;
+        }
 //        $long1="19.432956";
 //        $lat1="51.742503";
 //        $long2="10.88260038";
@@ -230,11 +249,11 @@ class TripController extends Controller
         return $km;
     }
 
-    private function validateInputFields($longitude,$latitude){
-        if($latitude == null){
+    public function validateInputFields($longitude,$latitude){
+        if($latitude == null || $latitude==''){
             return 'Please fill latitude field';
         }
-        if($longitude == null){
+        if($longitude == null || $longitude==''){
             return 'Please fill longitude field';
         }
         if(!is_double(filter_var($latitude, FILTER_VALIDATE_FLOAT)) || !is_double(filter_var($longitude, FILTER_VALIDATE_FLOAT))){
