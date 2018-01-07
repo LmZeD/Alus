@@ -14,11 +14,11 @@
                 <div class="input-group">
                     <form action="{{route('trip.results')}}" method="get">
                         <label for="longitude">Longitude</label>
-                        <input type="number" value="51.355468" class="form-control"
+                        <input type="number" value="19.43295600" class="form-control"
                                name="longitude" step="0.000001" placeholder="0.000001" style="width: 150px" required>
 
                         <label for="latitude">Latitude</label>
-                        <input type="number" value="11.100790" class="form-control"
+                        <input type="number" value="51.742503" class="form-control"
                                name="latitude" step="0.000001" placeholder="0.000001"  style="width: 150px" required>
 
                         <br>
