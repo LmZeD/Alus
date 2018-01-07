@@ -17,7 +17,7 @@
         @php($i=1)
         @foreach($results as $result)
             @if(is_array($result) && array_key_exists('longitude',$result) && $result['longitude']!=null){{--for other data in result array--}}
-                <p>{{$i++}}. -> [{{$result['brewery']['id']}}] {{$result['brewery']['name']}} (lat/long)
+                <p>{{$i++}}. @if($i-1==1) [HOME] @endif -> [{{$result['brewery']['id']}}] {{$result['brewery']['name']}} (lat/long)
                 {{$result['latitude']}}, {{$result['longitude']}} distance {{$result['distance']}} km</p>
             @endif
         @endforeach

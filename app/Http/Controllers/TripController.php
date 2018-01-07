@@ -16,6 +16,9 @@ class TripController extends Controller
     }
 
     public function makeATrip(Request $request){
+        //used when traveling around the world (travel distance 200000)
+        ini_set('max_execution_time', 600);//oh boy, can' wait to travel around the world!
+
         //time tracking
         $time = microtime();
         $time = explode(' ', $time);
@@ -31,9 +34,9 @@ class TripController extends Controller
 
         //setting up data (from inputs, setting basic boundaries)
         $trip_distance=2000;//km
-        $latitude_difference_allowed=($trip_distance/2)/100; // divided by 2 - you have to go back
-        $longitude_difference_allowed=($trip_distance/2)/100;// divided by 100 - (+-110 km per whole
-                                                            // number of coordinate, so making 100 will be very generous)
+        $latitude_difference_allowed=($trip_distance)/100+1;// divided by 100 - (+-110 km per whole
+        $longitude_difference_allowed=($trip_distance)/100+1;// number of coordinate, so making 100 will be very generous)
+                                                            //+1 for rounding mistakes
         $start_latitude=$request->latitude;
         $start_longitude=$request->longitude;
 
@@ -129,14 +132,14 @@ class TripController extends Controller
         $i=0;
         $j=0;//index for results
         foreach ($results as $result) {
-            if (is_array($result) && array_key_exists('beer',$result)) {
+            if (is_array($result) && array_key_exists('beer', $result)) {
                 foreach ($result['beer'] as $beer) {
-                    if(!in_array($beer['name'],$all_beer)){//if beer is not unique
+                    if (!in_array($beer['name'], $all_beer)) {//if beer is not unique
                         $all_beer[$i++] = $beer['name'];
                     }
                 }
                 unset($result['beer']);//to avoid unnecessary data duplications
-                $results[$j++]=$result;
+                $results[$j++] = $result;
             }
         }
         $results['unique_beer']=$all_beer;//uniques left, merged to one array
@@ -153,17 +156,18 @@ class TripController extends Controller
         $closest_data=array();//holder for return
         $closest_index=-1;//index of closest brewery
         $closest_distance=999999;//distance to closest brewery
-
+        $cnt=0;
         foreach ($breweries_data as $data){
             $distance=$this->calculateDistanceBetweenTwoPoints($current_long,$current_lat,$data['longitude'],
                 $data['latitude']);
-            if($distance != null && $distance<$closest_distance && !in_array($data['brewery_id'],$used_indexes) && $distance!=false){
+            if(!($distance === 'fail') && $distance<$closest_distance && !in_array($data['brewery_id'],$used_indexes)){
                 $closest_distance=$distance;
                 $closest_index=$data['brewery_id'];
             }
+            $cnt++;
         }
         if($closest_index ==- 1){//nothing in range found
-            return null;
+            return null;//stops while @makeATrip method
         }
         if($closest_index != -1 && $distance_left<$closest_distance+$breweries_data[$closest_index]['distance_from_home']){
             return null;//stops while @makeATrip method
@@ -185,39 +189,29 @@ class TripController extends Controller
         })->whereBetween('longitude',[$start_long-$longitude_difference_allowed,$start_long+$longitude_difference_allowed])
             ->whereBetween('latitude',[($start_lat-$latitude_difference_allowed*2),($start_lat+$latitude_difference_allowed)*2])
             ->get();
-        $i=0;
 
-//        $test=array();
-//        foreach ($breweries as $brewery){
-//            $distance=$this->calculateDistanceBetweenTwoPoints($start_long,$start_lat,
-//                $brewery->longitude,$brewery->latitude);
-//            $test[$i]['home_to_brewery_distance']=$distance;
-//            $i++;
-//        }
-//        asort($test);
-//        dd($test);
-
-        //dd($breweries);
         $breweries_data=array();
         foreach ($breweries as $brewery){
-            $beersInBrewery=Beer::where('brewery_id',$brewery->id)->count();
-            $brewery_coordinates=Geocode::where('brewery_id',$brewery->id)->select('latitude','longitude')->first();
-            $breweries_data[$brewery->id]['beers_count']=$beersInBrewery;
-            $breweries_data[$brewery->id]['brewery_id']=$brewery->id;
-            $breweries_data[$brewery->id]['latitude']=$brewery_coordinates['latitude'];
-            $breweries_data[$brewery->id]['longitude']=$brewery_coordinates['longitude'];
-            $breweries_data[$brewery->id]['distance_from_home']=
-                $this->calculateDistanceBetweenTwoPoints($start_long,$start_lat,$brewery->longitude,$brewery->latitude);
+            if($brewery->id != null) {
+                $beersInBrewery = Beer::where('brewery_id', $brewery->id)->count();
+                $brewery_coordinates = Geocode::where('brewery_id', $brewery->id)->select('latitude', 'longitude')->first();
+                $breweries_data[$brewery->id]['beers_count'] = $beersInBrewery;
+                $breweries_data[$brewery->id]['brewery_id'] = $brewery->id;
+                $breweries_data[$brewery->id]['latitude'] = $brewery_coordinates['latitude'];
+                $breweries_data[$brewery->id]['longitude'] = $brewery_coordinates['longitude'];
+                $breweries_data[$brewery->id]['distance_from_home'] =
+                    $this->calculateDistanceBetweenTwoPoints($start_long, $start_lat, $brewery->longitude, $brewery->latitude);
+            }
         }
         return $breweries_data;
     }
 
     public function calculateDistanceBetweenTwoPoints($long1,$lat1,$long2,$lat2){//haversine formula
         if($this->validateInputFields($long1,$lat1) !='Success'){
-            return false;
+            return 'fail';
         }
         if($this->validateInputFields($long2,$lat2)!='Success'){
-            return false;
+            return 'fail';
         }
 //        $long1="19.432956";
 //        $lat1="51.742503";
@@ -259,10 +253,10 @@ class TripController extends Controller
         if(!is_double(filter_var($latitude, FILTER_VALIDATE_FLOAT)) || !is_double(filter_var($longitude, FILTER_VALIDATE_FLOAT))){
             return 'Please enter valid data to the fields';
         }
-        if($latitude>85.05112878 || $latitude<-85.05112878){
+        if($latitude>85 || $latitude<-85){
             return 'Please enter valid latitude value';
         }
-        if($longitude>85.05112878 || $longitude<-85.05112878){
+        if($longitude>180 || $longitude<-180){
             return 'Please enter valid longitude value';
         }
 

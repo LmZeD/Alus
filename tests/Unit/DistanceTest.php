@@ -12,13 +12,13 @@ class DistanceTest extends TestCase
 
     public function testNullInputGiven(){
         $trip=new TripController();
-        $this->assertFalse($trip->calculateDistanceBetweenTwoPoints('','','',''));
+        $this->assertEquals($trip->calculateDistanceBetweenTwoPoints('','','',''),'fail');
     }
 
     public function testStringInputGiven(){
         $trip=new TripController();
-        $this->assertFalse($trip->calculateDistanceBetweenTwoPoints('string',
-            'string','string','string'));
+        $this->assertEquals($trip->calculateDistanceBetweenTwoPoints('string',
+            'string','string','string'),'fail');
     }
 
     public function testValidInputGiven(){
