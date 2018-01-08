@@ -11,11 +11,11 @@ use Illuminate\Support\Facades\DB;
 
 class TripController extends Controller
 {
-    public function getIndex(){
+    public function getIndex(){//returns screen where you can input values for further calculations
         return view('input_screen');
     }
 
-    public function makeATrip(Request $request){
+    public function makeATrip(Request $request){//main method, initiates all calculations
         //used when traveling around the world (travel distance 200000)
         ini_set('max_execution_time', 600);//oh boy, can' wait to travel around the world!
 
@@ -39,6 +39,7 @@ class TripController extends Controller
                                                             //+1 for rounding mistakes
         $start_latitude=$request->latitude;
         $start_longitude=$request->longitude;
+        //end of setting up data
 
         //preparing data
         $breweries_data=$this->setUpBreweriesData($start_longitude,$start_latitude,$longitude_difference_allowed,$latitude_difference_allowed);
@@ -49,17 +50,18 @@ class TripController extends Controller
         $current_lat=$start_latitude;
         $used_indexes=array();//contains indexes of visited breweries
 
-        $distance_left=$trip_distance;
-        $i=0;
+        $distance_left=$trip_distance;//setting up starting data
+        $i=0;//index for used_indexes array
         while($this->findClosestPoint($current_long,$current_lat,
-                $used_indexes,$distance_left,$breweries_data) != null){
-
+                $used_indexes,$distance_left,$breweries_data) != null){//while closest point exists and you
+                                                                        //can go back home after visiting it
             $closest_data=$this->findClosestPoint($current_long,$current_lat,
-                $used_indexes,$distance_left,$breweries_data);
+                $used_indexes,$distance_left,$breweries_data);//finds closest point
 
-            $used_indexes[$i]=$closest_data['closest_brewery_index'];
-            $distance_left=$distance_left-$closest_data['closest_distance'];
+            $used_indexes[$i]=$closest_data['closest_brewery_index'];//inserts index of found point to visited indexes
+            $distance_left=$distance_left-$closest_data['closest_distance'];//subtracts trip distance
 
+            //setting up values for next iteration
             $breweries_data[$closest_data['closest_brewery_index']]['distance']=$closest_data['closest_distance'];
             $current_lat=$breweries_data[$closest_data['closest_brewery_index']]['latitude'];
             $current_long=$breweries_data[$closest_data['closest_brewery_index']]['longitude'];
@@ -90,9 +92,9 @@ class TripController extends Controller
 
     public function fetchDataForOutput($used_indexes,$breweries_data,$distance_left,$start_long,
                                         $start_lat,$trip_distance){
-        $i=0;
-        $results=array();
-        $beer_count=0;
+        $i=0;//index for results
+        $results=array();//to store data for return
+        $beer_count=0;//for output, since I'm already merging I can count as well
         foreach ($used_indexes as $index){
             $brewery=Brewery::where('id',$index)->select('id','name')->first();
             $beer_found=Beer::where('brewery_id',$index)->get();
@@ -125,11 +127,11 @@ class TripController extends Controller
     }
 
     public function unsetSameBeer($results){
-        if($results==null){
+        if($results==null){//validation block
             return null;
         }
-        $all_beer=array();
-        $i=0;
+        $all_beer=array();//will contain beer from all breweries in same place
+        $i=0;//index for all_beer array
         $j=0;//index for results
         foreach ($results as $result) {
             if (is_array($result) && array_key_exists('beer', $result)) {
@@ -156,7 +158,6 @@ class TripController extends Controller
         $closest_data=array();//holder for return
         $closest_index=-1;//index of closest brewery
         $closest_distance=999999;//distance to closest brewery
-        $cnt=0;
         foreach ($breweries_data as $data){
             $distance=$this->calculateDistanceBetweenTwoPoints($current_long,$current_lat,$data['longitude'],
                 $data['latitude']);
@@ -164,7 +165,6 @@ class TripController extends Controller
                 $closest_distance=$distance;
                 $closest_index=$data['brewery_id'];
             }
-            $cnt++;
         }
         if($closest_index ==- 1){//nothing in range found
             return null;//stops while @makeATrip method
@@ -175,14 +175,14 @@ class TripController extends Controller
         if($closest_distance>$distance_left){
             return null;//stops while @makeATrip method
         }
-
+        //if statements passed, setting up data to return
         $closest_data['closest_brewery_index']=$closest_index;
         $closest_data['closest_distance']=$closest_distance;
         return $closest_data;
     }
 
     public function setUpBreweriesData($start_long,$start_lat,$longitude_difference_allowed,$latitude_difference_allowed){
-
+        //db select of geocodes with breweries
         $breweries=DB::table('geocodes')->leftjoin('breweries', function($join) use ($start_long,$start_lat,$longitude_difference_allowed,$latitude_difference_allowed)
         {
             $join->on('breweries.id', '=', 'geocodes.brewery_id');
@@ -190,7 +190,8 @@ class TripController extends Controller
             ->whereBetween('latitude',[($start_lat-$latitude_difference_allowed*2),($start_lat+$latitude_difference_allowed)*2])
             ->get();
 
-        $breweries_data=array();
+        $breweries_data=array();//array for return data
+        //setting up data for calculations
         foreach ($breweries as $brewery){
             if($brewery->id != null) {
                 $beersInBrewery = Beer::where('brewery_id', $brewery->id)->count();
@@ -207,21 +208,14 @@ class TripController extends Controller
     }
 
     public function calculateDistanceBetweenTwoPoints($long1,$lat1,$long2,$lat2){//haversine formula
+        //validation
         if($this->validateInputFields($long1,$lat1) !='Success'){
             return 'fail';
         }
         if($this->validateInputFields($long2,$lat2)!='Success'){
             return 'fail';
         }
-//        $long1="19.432956";
-//        $lat1="51.742503";
-//        $long2="10.88260038";
-//        $lat2="49.88510132";
-
-//        $long1=round($long1,8);
-//        $long2=round($long2,8);
-//        $lat1=round($lat1,8);
-//        $lat2=round($lat2,8);
+        //end of validation
 
         $R = 6373;//radius of Earth in km
 
