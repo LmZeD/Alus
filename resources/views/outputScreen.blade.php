@@ -24,7 +24,8 @@
         @endforeach
         <p>Left: {{$results['distanceLeft']}} km (of {{$results['maxTripDistance']}} km)</p>
         <br>
-        <h5>Total unique beer found: <strong>{{$results['beerCount']}}</strong></h5>
+        <h5>Total beer found: <strong>{{$results['beerCount']}}</strong></h5>
+        <h5>Unique beer found: <strong>{{count($results['uniqueBeer'])}}</strong></h5>
         @php($i=1)
         @foreach($results['uniqueBeer'] as $beer)
             <p>{{$i++}}. {{$beer}}</p>
