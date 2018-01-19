@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\DB;
 class TripController extends Controller
 {
     public function getIndex(){//returns screen where you can input values for further calculations
-        return view('input_screen');
+        return view('inputScreen');
     }
 
     public function makeATrip(Request $request){//main method, initiates all calculations
@@ -86,7 +86,7 @@ class TripController extends Controller
         $runTime = $totalTime;
         //-------------------------
 
-        return view('output_screen',['results'=>$results,'startLatitude'=>$startLatitude,
+        return view('outputScreen',['results'=>$results,'startLatitude'=>$startLatitude,
             'startLongitude'=>$startLongitude,'runTime'=>$runTime]);
     }
 

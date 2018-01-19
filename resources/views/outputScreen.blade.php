@@ -3,16 +3,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{{URL::to('css/main.css')}}">
 </head>
 
 <body>
-<div class="container" style="padding-top: 20px">
+<div class="container">
     <div class="col-lg-12">
-        <h1 style="color: #67b168;font-size: 32px">Results</h1>
-        <h4 style="font-size: 20px">Starting longitude: <strong style="color: red;font-size: 25px">{{$start_longitude}}</strong></h4>
-        <h4 style="font-size: 20px">Starting latitude: <strong style="color: red;font-size: 25px">{{$start_latitude}}</strong></h4>
-        <h5>Calculated in {{$run_time}} seconds</h5>
-        <h5>Distance traveled: {{$results['max_trip_distance']-$results['distance_left']}} km</h5>
+        <h1>Results</h1>
+        <h4>Starting longitude: <strong class="big-red">{{$startLongitude}}</strong></h4>
+        <h4>Starting latitude: <strong class="big-red">{{$startLatitude}}</strong></h4>
+        <h5>Calculated in {{$runTime}} seconds</h5>
+        <h5>Distance traveled: {{$results['maxTripDistance']-$results['distanceLeft']}} km</h5>
         <br>
         @php($i=1)
         @foreach($results as $result)
@@ -21,11 +22,11 @@
                 {{$result['latitude']}}, {{$result['longitude']}} distance {{$result['distance']}} km</p>
             @endif
         @endforeach
-        <p>Left: {{$results['distance_left']}} km (of {{$results['max_trip_distance']}} km)</p>
+        <p>Left: {{$results['distanceLeft']}} km (of {{$results['maxTripDistance']}} km)</p>
         <br>
-        <h5>Total unique beer found: <strong>{{$results['beer_count']}}</strong></h5>
+        <h5>Total unique beer found: <strong>{{$results['beerCount']}}</strong></h5>
         @php($i=1)
-        @foreach($results['unique_beer'] as $beer)
+        @foreach($results['uniqueBeer'] as $beer)
             <p>{{$i++}}. {{$beer}}</p>
         @endforeach
     </div>
