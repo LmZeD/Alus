@@ -1,0 +1,17 @@
+input{
+    width: 150px;
+}
+.container{
+    padding-top: 20px;
+}
+h1{
+    color: #67b168;
+    font-size: 32px;
+}
+h4{
+    font-size: 20px;
+}
+.big-red{
+    color: red;
+    font-size: 25px
+}
