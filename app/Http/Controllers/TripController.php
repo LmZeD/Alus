@@ -26,28 +26,29 @@ class TripController extends Controller
             return redirect(route('trip.index'))->with('error',$validationMsg);
         }
         //end of input validation
-
-        //setting up data (from inputs, setting basic boundaries)
+        $startLongitude=$request->longitude;
+        $startLatitude=$request->latitude;
+        //setting up data (setting basic boundaries)
         $tripDistance=2000;//km
         $latitudeDifferenceAllowed=($tripDistance)/100+1;// divided by 100 - (+-110 km per whole
         $longitudeDifferenceAllowed=($tripDistance)/100+1;// number of coordinate, so making 100 will be very generous)
                                                             //+1 for rounding mistakes
-        $startLatitude=$request->latitude;
-        $startLongitude=$request->longitude;
         //end of setting up data
 
         $results=$this->calculateWholeTrip($startLongitude,$startLatitude,$longitudeDifferenceAllowed,$latitudeDifferenceAllowed,$tripDistance);
+        if($results==='failed'){
+            return redirect()->route('trip.index')->with('error','No breweries are close enough...');
+        }
         //last block of time tracking
         $finish=$this->getCurrentMicroTime();
         $totalTime = round(($finish - $start), 4);
         $runTime = $totalTime;
         //-------------------------
-
         return view('outputScreen',['results'=>$results,'startLatitude'=>$startLatitude,
             'startLongitude'=>$startLongitude,'runTime'=>$runTime]);
     }
 
-    private function calculateWholeTrip($startLongitude,$startLatitude,$longitudeDifferenceAllowed,
+    public function calculateWholeTrip($startLongitude,$startLatitude,$longitudeDifferenceAllowed,
                                         $latitudeDifferenceAllowed,$tripDistance){
         //preparing data
         $breweriesData=$this->setUpBreweriesData($startLongitude,$startLatitude,$longitudeDifferenceAllowed,$latitudeDifferenceAllowed);
@@ -64,13 +65,13 @@ class TripController extends Controller
         $results=$this->fetchDataForOutput($usedIndexes,$breweriesData,$distanceLeft,$startLongitude
             ,$startLatitude,$tripDistance);
         if($results==null){
-            return redirect()->route('trip.index')->with('error','No breweries are close enough...');
+            return 'failed';
         }
         //end of fetching
         return $results;
     }
 
-    private function calculateRoute($startLongitude,$startLatitude,$tripDistance,$breweriesData
+    public function calculateRoute($startLongitude,$startLatitude,$tripDistance,$breweriesData
                 ){
         $currentLong=$startLongitude;
         $currentLat=$startLatitude;
@@ -96,7 +97,7 @@ class TripController extends Controller
         return [$usedIndexes,$distanceLeft,$breweriesData];
     }
 
-    private function getCurrentMicroTime(){
+    public function getCurrentMicroTime(){
         $time = microtime();
         $time = explode(' ', $time);
         $time = $time[1] + $time[0];
@@ -115,7 +116,7 @@ class TripController extends Controller
         }
 
         if(is_array($results) && $results != null) {
-            //hard-coded home location and additional data for output
+            //home location and additional data for output
             $results=$this->setLastDataBeforeOutput($i,$results,$startLat,$startLong,
                 $breweriesData,$distanceLeft,$tripDistance,$beerCount,$usedIndexes);
         }
@@ -125,7 +126,7 @@ class TripController extends Controller
         return $results;
     }
 
-    private function getBeerAndBreweryDataByIndex($results,$index,$indexForResults,$breweriesData){
+    public function getBeerAndBreweryDataByIndex($results,$index,$indexForResults,$breweriesData){
         $brewery=Brewery::where('id',$index)->select('id','name')->first();
         $beerFound=Beer::where('brewery_id',$index)->get();
         $results[$indexForResults]['brewery']=$brewery;
@@ -137,7 +138,7 @@ class TripController extends Controller
         return $results;
     }
 
-    private function setLastDataBeforeOutput($index,$results,$lat,$long,$breweriesData,
+    public function setLastDataBeforeOutput($index,$results,$lat,$long,$breweriesData,
                                              $distanceLeft,$tripDistance,$beerCount,$usedIndexes){
         $results[$index]['brewery']['id'] = '0';
         $results[$index]['brewery']['name'] = 'HOME';
@@ -263,22 +264,22 @@ class TripController extends Controller
     }
 
     public function validateInputFields($longitude,$latitude){
+        $error_msg="Please enter valid coordinates";
         if($latitude == null || $latitude==''){
-            return 'Please fill latitude field';
+            return $error_msg;
         }
         if($longitude == null || $longitude==''){
-            return 'Please fill longitude field';
+            return $error_msg;
         }
         if(!is_double(filter_var($latitude, FILTER_VALIDATE_FLOAT)) || !is_double(filter_var($longitude, FILTER_VALIDATE_FLOAT))){
-            return 'Please enter valid data to the fields';
+            return $error_msg;
         }
         if($latitude>85 || $latitude<-85){
-            return 'Please enter valid latitude value';
+            return $error_msg;
         }
         if($longitude>180 || $longitude<-180){
-            return 'Please enter valid longitude value';
+            return $error_msg;
         }
-
         return 'Success';
     }
 }

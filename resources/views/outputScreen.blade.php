@@ -9,7 +9,7 @@
 <body>
 <div class="container">
     <div class="col-lg-12">
-        <h1>Results</h1>
+        <h1 class="heading">Results</h1>
         <h4>Starting longitude: <strong class="big-red">{{$startLongitude}}</strong></h4>
         <h4>Starting latitude: <strong class="big-red">{{$startLatitude}}</strong></h4>
         <h5>Calculated in {{$runTime}} seconds</h5>

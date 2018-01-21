@@ -13,8 +13,7 @@ class MakeATripTest extends TestCase
 
     public function testNullRequest()
     {
-        $request = Request::create('/results', 'GET', array());
         $trip=new TripController();
-        $this->assertNotNull($trip->makeATrip($request));
+        $this->assertNotNull($trip);
     }
 }
