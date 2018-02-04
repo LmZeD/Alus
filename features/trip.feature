@@ -19,4 +19,3 @@ Feature: Make a route
     Given I am in root page
     When I provide coordinates: "500" "500"
     Then I get redirected to root page
-    And I get message that no input values are invalid

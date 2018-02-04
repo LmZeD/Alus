@@ -20,3 +20,7 @@ Route::get('/results', [
     'uses' => 'TripController@makeATrip',
     'as' => 'trip.results'
 ]);
+
+Route::get('/{any}', function () {
+    return redirect()->route('trip.index');
+})->where('any', '.*');

@@ -11,6 +11,7 @@ use Behat\MinkExtension\Context\MinkContext;
 use App\Http\Controllers\TripController;
 use PHPUnit\Framework\Assert;
 use Behat\MinkExtension\Context\RawMinkContext;
+use Illuminate\Support\Facades\URL;
 
 /**
  * Defines application features from the specific context.
@@ -18,6 +19,7 @@ use Behat\MinkExtension\Context\RawMinkContext;
 class FeatureContext extends RawMinkContext implements Context, SnippetAcceptingContext
 {
     private $trip;
+
     /**
      * Initializes context.
      *
@@ -27,7 +29,7 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function __construct()
     {
-        $this->trip=new TripController();
+        $this->trip = new TripController();
     }
 
 
@@ -40,14 +42,16 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
     }
 
     /**
-     * @When I provide coordinates: :long :lat
+     * @When I provide coordinates:
+     * @param $long
+     * @param $lat
      * @throws \Behat\Mink\Exception\ElementNotFoundException
      */
     public function iProvideCoordinates($long, $lat)
     {
-        $this->getSession()->getPage()->fillField('longitude',$long);
-        $this->getSession()->getPage()->fillField('latitude',$lat);
-        $this->getSession()->getPage()->find('css','.btn')->click();
+        $this->getSession()->getPage()->fillField('longitude', $long);
+        $this->getSession()->getPage()->fillField('latitude', $lat);
+        $this->getSession()->getPage()->find('css', '.btn')->click();
     }
 
     /**
@@ -55,8 +59,10 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function iGetRedirectedToOutputPage()
     {
-       Assert::assertSame($this->getSession()->getCurrentUrl(),
-            'http://127.0.0.1:8000/results?longitude=19.43295600&latitude=51.742503');
+        Assert::assertSame(
+            $this->getSession()->getCurrentUrl(),
+            'http://127.0.0.1:8000/results?longitude=19.43295600&latitude=51.742503'
+        );
     }
 
     /**
@@ -64,8 +70,10 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function iGetDataOfVisitedBreweries()
     {
-        Assert::assertSame($this->getSession()->getPage()->find('css','.heading')
-            ->getText(),'Results');
+        Assert::assertSame(
+            $this->getSession()->getPage()->find('css', '.heading')->getText(),
+            'Results'
+        );
     }
 
     /**
@@ -73,8 +81,10 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function iGetRedirectedToRootPage()
     {
-        Assert::assertSame($this->getSession()->getCurrentUrl(),
-            'http://127.0.0.1:8000/');
+        Assert::assertSame(
+            $this->getSession()->getCurrentUrl(),
+            'http://127.0.0.1:8000/'
+        );
     }
 
     /**
@@ -82,16 +92,9 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function iGetMessageThatNoBreweriesAreNearby()
     {
-        Assert::assertSame($this->getSession()->getPage()->find('css','.alert-danger')
-            ->getText(),'No breweries are close enough...');
-    }
-
-    /**
-     * @Then I get message that no input values are invalid
-     */
-    public function iGetMessageThatNoInputValuesAreInvalid()
-    {
-        Assert::assertSame($this->getSession()->getPage()->find('css','.alert-danger')
-            ->getText(),'Please enter valid coordinates');
+        Assert::assertSame(
+            $this->getSession()->getPage()->find('css', '.alert-danger')->getText(),
+            'No breweries are close enough...'
+        );
     }
 }
