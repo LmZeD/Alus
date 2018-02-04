@@ -22,11 +22,8 @@ class BreweriesDataFetchingService
      */
     public function setUpBreweriesData($startLong, $startLat, $longitudeDifferenceAllowed, $latitudeDifferenceAllowed)
     {
-        $breweriesClass=new Brewery();
-        $beersClass=new Beer();
-        $geocodesClass=new Geocode();
         //db select of breweries with geocodes
-        $breweries=$breweriesClass->getBreweriesWithGeocodes(
+        $breweries=Brewery::getBreweriesWithGeocodes(
             $startLong,
             $startLat,
             $longitudeDifferenceAllowed,
@@ -39,8 +36,8 @@ class BreweriesDataFetchingService
         $cnt=0;
         foreach ($breweries as $brewery) {
             if ($brewery->id != null) {
-                $beersInBrewery = $beersClass->getBeersCountInBrewery($brewery->id);
-                $breweryCoordinates = $geocodesClass->getGeocodeForBrewery($brewery->id);
+                $beersInBrewery = Beer::getBeersCountInBrewery($brewery->id);
+                $breweryCoordinates = Geocode::getGeocodeForBrewery($brewery->id);
                 $breweriesData[$cnt]['beersCount'] = $beersInBrewery;
                 $breweriesData[$cnt]['breweryId'] = $brewery->id;
                 $breweriesData[$cnt]['latitude'] = $breweryCoordinates['latitude'];

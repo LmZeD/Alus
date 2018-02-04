@@ -18,7 +18,7 @@ class Beer extends Model
      *
      * @return integer - count of beer
      */
-    public function getBeersCountInBrewery($breweryId)
+    public static function getBeersCountInBrewery($breweryId)
     {
         return Beer::where('brewery_id', $breweryId)->count();
     }
@@ -30,7 +30,7 @@ class Beer extends Model
      *
      * @return Beer[] - array of beer
      */
-    public function getBeerInBrewery($breweryId)
+    public static function getBeerInBrewery($breweryId)
     {
         return Beer::where('brewery_id', $breweryId)->get();
     }

@@ -17,7 +17,7 @@ class Brewery extends Model
         return $breweriesWithCoordinatesCount;
     }
 
-    public function getBreweriesWithGeocodes(
+    public static function getBreweriesWithGeocodes(
         $startLong,
         $startLat,
         $longitudeDifferenceAllowed,

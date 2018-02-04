@@ -23,3 +23,19 @@ function differenceAllowed($tripDistance)
 {
     return $tripDistance / 100 + 1;
 }
+
+function validateLongitude($longitude)
+{
+    if ($longitude > -180 && $longitude < 180) {
+        return false;
+    }
+    return true;
+}
+
+function validateLatitude($latitude)
+{
+    if ($latitude > -85 && $latitude < 85) {
+        return false;
+    }
+    return true;
+}
