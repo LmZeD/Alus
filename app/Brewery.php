@@ -10,7 +10,7 @@ class Brewery extends Model
     protected $table = 'breweries';
     protected $fillable = ['id'];
 
-    public function getBreweriesWithCoordinatesCount()
+    public static function getBreweriesWithCoordinatesCount()
     {
         $breweriesWithCoordinatesCount = DB::table('geocodes')->
         join('breweries', 'breweries.id', '=', 'geocodes.brewery_id')->count();
@@ -41,7 +41,7 @@ class Brewery extends Model
         return $breweries;
     }
 
-    public function getBreweryNameById($breweryId)
+    public static function getBreweryNameById($breweryId)
     {
         return Brewery::where('id', $breweryId)->select('id', 'name')->first();
     }

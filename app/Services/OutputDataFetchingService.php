@@ -4,6 +4,8 @@ namespace App\Services;
 
 use App\Beer;
 use App\Brewery;
+use ErrorException;
+use PhpSpec\Exception\Example\ExampleException;
 
 class OutputDataFetchingService
 {
@@ -30,10 +32,14 @@ class OutputDataFetchingService
         $i = 0;//index for results
         $results = [];//to store data for return
         $beerCount = 0;//for output, since I'm already merging I can count as well
-        foreach ($usedIndexes as $index) {
-            $results = $this->getBeerAndBreweryDataByIndex($results, $index, $i, $breweriesData);
-            $beerCount = $beerCount + count($results[$i]['beer']);
-            $i++;
+        try {
+            foreach ($usedIndexes as $index) {
+                $results = $this->getBeerAndBreweryDataByIndex($results, $index, $i, $breweriesData);
+                $beerCount = $beerCount + count($results[$i]['beer']);
+                $i++;
+            }
+        } catch (ErrorException $ex) {
+            return null;
         }
 
         if (is_array($results) && $results != null) {
