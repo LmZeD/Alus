@@ -54,8 +54,6 @@ class TripController extends Controller
         if ($results === 'failed' || $results == null) {
             return redirect()->route('trip.index')->with('error', 'No breweries are close enough...');
         }
-        //dd(Brewery::find(49));
-        //dd($results);
         $runTime = getTotalRunTime($startTime);
         return view('outputScreen', ['results' => $results, 'startLatitude' => $startLatitude,
             'startLongitude' => $startLongitude, 'runTime' => $runTime]);
