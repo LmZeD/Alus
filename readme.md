@@ -2,6 +2,7 @@
 <p> php </p>
 <p> database </p>
 <p> composer </p>
+<p> selenium (for behat test) </p>
 
 **Setting up**
 1. composer install (in cloned directory)
@@ -18,7 +19,7 @@ base64:srQRCVOw7xJbJ5Njoz3uJ3P9QZg4gmJQ1Qm2xMzbcmc=
 **Setting up testing environment**
 1. setting up selenium: npm install -g webdriver-manager
 2. starting selenium: webdriver-manager start
-Note tests work without selenium, it just visualises tests
+Note tests work selenium
 
 **Running tests**
 1. Unit: \bin\phpunit
@@ -31,5 +32,5 @@ Note tests work without selenium, it just visualises tests
 2. Run database seeder (php artisan db:seed)
 
 **Running code in shell**
-1. php artisan runShell {longitude} {latitude}
-(for testing: php artisan runShell 19.43295600 51.742503 )
+1. php artisan runShell -- {longitude} {latitude}
+(for testing: php artisan runShell -- 19.43295600 51.742503 )

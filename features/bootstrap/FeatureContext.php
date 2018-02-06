@@ -42,15 +42,13 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
     }
 
     /**
-     * @When I provide coordinates:
-     * @param $long
-     * @param $lat
+     * @When I provide coordinates: :arg1 :arg2
      * @throws \Behat\Mink\Exception\ElementNotFoundException
      */
-    public function iProvideCoordinates($long, $lat)
+    public function iProvideCoordinates($arg1, $arg2)
     {
-        $this->getSession()->getPage()->fillField('longitude', $long);
-        $this->getSession()->getPage()->fillField('latitude', $lat);
+        $this->getSession()->getPage()->fillField('longitude', $arg1);
+        $this->getSession()->getPage()->fillField('latitude', $arg2);
         $this->getSession()->getPage()->find('css', '.btn')->click();
     }
 
@@ -97,4 +95,5 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
             'No breweries are close enough...'
         );
     }
+
 }

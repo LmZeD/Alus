@@ -4,8 +4,8 @@ namespace App\Services;
 
 use App\Beer;
 use App\Brewery;
+use function App\Http\isDistance;
 use ErrorException;
-use PhpSpec\Exception\Example\ExampleException;
 
 class OutputDataFetchingService
 {
@@ -73,8 +73,8 @@ class OutputDataFetchingService
      */
     public function getBeerAndBreweryDataByIndex($results, $index, $indexForResults, $breweriesData)
     {
-        $brewery = Brewery::getBreweryNameById($index);
-        $beerFound = Beer::getBeerInBrewery($index);
+        $brewery = Brewery::getBreweryNameById($breweriesData[$index]['breweryId']);
+        $beerFound = Beer::getBeerInBrewery($breweriesData[$index]['breweryId']);
         $results[$indexForResults]['brewery'] = $brewery;
         $results[$indexForResults]['beer'] = $beerFound;
         $results[$indexForResults]['latitude'] = $breweriesData[$index]['latitude'];
@@ -84,7 +84,7 @@ class OutputDataFetchingService
     }
 
     /**
-     * Sets up data of last point (home) and fills in after calcilation data (distanceLeft, beerCount)
+     * Sets up data of last point (home) and fills in after calculation data (distanceLeft, beerCount)
      *
      * @param $index - index of brewery
      * @param $results - array for inserting
@@ -114,8 +114,17 @@ class OutputDataFetchingService
         $results[$index]['latitude'] = $lat;
         $results[$index]['longitude'] = $long;
         $results[$index]['distance'] = $breweriesData[end($usedIndexes)]['distanceFromHome'];
-        $results['distanceLeft'] = $distanceLeft - $breweriesData[end($usedIndexes)]['distanceFromHome'];
-        $results['maxTripDistance'] = $tripDistance;
+        if (!isDistance($distanceLeft)) {
+            $results['distanceLeft'] = 'undefined';
+        } else {
+            $results['distanceLeft'] = $distanceLeft - $breweriesData[end($usedIndexes)]['distanceFromHome'];
+        }
+        if (!isDistance($tripDistance)) {
+            $results['maxTripDistance'] = 'undefined';
+        } else {
+            $results['maxTripDistance'] = $tripDistance;
+        }
+
         $results['beerCount'] = $beerCount;
         $results = $this->unsetSameBeer($results);
         return $results;

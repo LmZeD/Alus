@@ -4,6 +4,8 @@ namespace App\Console\Commands;
 
 use function App\Http\getCurrentTime;
 use function App\Http\getTotalRunTime;
+use function App\Http\validateLatitude;
+use function App\Http\validateLongitude;
 use App\Services\OutputDataFetchingService;
 use App\Services\TripMakingService;
 use Illuminate\Console\Command;
@@ -49,10 +51,16 @@ class ShellRun extends Command
         ini_set('max_execution_time', 600);
         $startTime = getCurrentTime();//time tracking
         //no need to validate here? Normally it is validated in Coordinates request.
-        //validation here would be overkill?
+        //validation here is overkill?
         $startLongitude = $this->argument('longitude');
         $startLatitude = $this->argument('latitude');
-        $tripDistance=2000;//km
+        if (!validateLatitude($startLatitude) || !validateLongitude($startLongitude)) {
+            echo("\nPlease enter valid values.\n");
+            echo("How to use: php artisan runShell {longitude} {latitude}\n");
+            echo("Where: -180 < longitude < 180 AND -85 < latitude < 85\n");
+            exit(0);
+        }
+        $tripDistance = 2000;//km
         //services
 
         $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
@@ -68,12 +76,13 @@ class ShellRun extends Command
             echo('No breweries are close enough...');
             exit(0);
         }
+
         $i = 1;
         echo("Coordinates format: longitude,latitude \n");
         echo("Found " . (count($results) - 5) . " breweries \n");//4 non brewery data holding fields, 1 return home
         echo("->[HOME] " . $startLongitude . "," . $startLatitude . "\n");
         foreach ($results as $result) {
-            if ($result['brewery']['id'] == 0) {
+            if ($result['brewery']['id'] === '0') {
                 echo("<-[HOME] " . $startLongitude . "," . $startLatitude . "\n");
                 break;
             }

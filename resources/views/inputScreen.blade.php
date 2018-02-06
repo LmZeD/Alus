@@ -12,11 +12,11 @@
                 <form action="{{route('trip.results')}}" method="get">
                     <label for="longitude">Longitude</label>
                     <input type="number" value="19.43295600"
-                           name="longitude" step="0.000001" placeholder="0.000001" id="longitude" required>
+                           name="longitude" step="0.000000000001" placeholder="0.000001" id="longitude" required>
 
                     <label for="latitude">Latitude</label>
                     <input type="number" value="51.742503"
-                           name="latitude" step="0.000001" placeholder="0.000001" id="latitude" required>
+                           name="latitude" step="0.000000000001" placeholder="0.000001" id="latitude" required>
 
                     <br>
                     <button type="submit" class="btn btn-success" id="calculate">Calculate</button>

@@ -2,6 +2,8 @@
 
 namespace App\Http;
 
+use ErrorException;
+
 function getCurrentTime()
 {
     $time = microtime();
@@ -26,7 +28,10 @@ function differenceAllowed($tripDistance)
 
 function validateLongitude($longitude)
 {
-    if ($longitude > -180 && $longitude < 180) {
+    if (!isValidNumber($longitude)) {
+        return false;
+    }
+    if ($longitude < -180 || $longitude > 180) {
         return false;
     }
     return true;
@@ -34,8 +39,29 @@ function validateLongitude($longitude)
 
 function validateLatitude($latitude)
 {
-    if ($latitude > -85 && $latitude < 85) {
+    if (!isValidNumber($latitude)) {
+        return false;
+    }
+    if (($latitude < -85 || $latitude > 85)) {
         return false;
     }
     return true;
+}
+
+function isValidNumber($argument)
+{
+    if (is_numeric($argument)) {
+        return true;
+    }
+    return false;
+}
+
+function isDistance($argument)
+{
+    if (isValidNumber($argument)) {
+        if (doubleval($argument) >= 0) {
+            return true;
+        }
+    }
+    return false;
 }

@@ -22,11 +22,10 @@ class DistanceCalculationService
     //might be placed in helpers, but I'm not completely sure
     public function calculateDistanceBetweenTwoPoints($long1, $lat1, $long2, $lat2)
     {
-
         $R = 6373;//radius of Earth in km
         try {
-            if (validateLatitude($lat1) || validateLatitude($lat2) || validateLongitude($long1)
-                || validateLongitude($long2)) {
+            if (!validateLatitude($lat1) || !validateLatitude($lat2) || !validateLongitude($long1)
+                || !validateLongitude($long2)) {
                 return null;
             }
             $long1 = deg2rad($long1);

@@ -3,6 +3,9 @@
 namespace App\Services;
 
 use function App\Http\differenceAllowed;
+use function App\Http\isDistance;
+use function App\Http\validateLatitude;
+use function App\Http\validateLongitude;
 
 class TripMakingService
 {
@@ -17,9 +20,14 @@ class TripMakingService
      */
     public function calculateWholeTrip($startLongitude, $startLatitude, $tripDistance)
     {
+        //input validation block
+        if (!isDistance($tripDistance) || !validateLongitude($startLongitude) || !validateLatitude($startLatitude)) {
+            return [];
+        }
         //preparing data
         $latitudeDifferenceAllowed = differenceAllowed($tripDistance);
         $longitudeDifferenceAllowed = differenceAllowed($tripDistance);
+
         $breweriesDataFetchingService = new BreweriesDataFetchingService();
         $breweriesData = $breweriesDataFetchingService->setUpBreweriesData(
             $startLongitude,
@@ -112,9 +120,17 @@ class TripMakingService
         $distanceLeft,
         $breweriesData
     ) {
+        //validation block
+        if (!validateLongitude($currentLong) || !validateLatitude($currentLat) || !is_array($breweriesData)
+            || !isDistance($distanceLeft) || !is_array($usedIndexes)) {
+            return null;
+        }
+        reset($breweriesData);
+        $first_key = key($breweriesData);
+
         $closestData = null;//holder for return
         $closestIndex = -1;//index of closest brewery
-        $index = 0;//current index
+        $index = $first_key;//current index
         $closestDistance = 999999;//distance to closest brewery
         $distanceCalculatingService = new DistanceCalculationService();
         foreach ($breweriesData as $data) {

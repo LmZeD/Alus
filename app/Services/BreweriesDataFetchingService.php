@@ -23,7 +23,7 @@ class BreweriesDataFetchingService
     public function setUpBreweriesData($startLong, $startLat, $longitudeDifferenceAllowed, $latitudeDifferenceAllowed)
     {
         //db select of breweries with geocodes
-        $breweries=Brewery::getBreweriesWithGeocodes(
+        $breweries = Brewery::getBreweriesWithGeocodes(
             $startLong,
             $startLat,
             $longitudeDifferenceAllowed,
@@ -33,7 +33,7 @@ class BreweriesDataFetchingService
         $breweriesData = [];//array for return data
         $distanceCalculator = new DistanceCalculationService();//distance calculation service
         //setting up data for calculations
-        $cnt=0;
+        $cnt = 0;
         foreach ($breweries as $brewery) {
             if ($brewery->id != null) {
                 $beersInBrewery = Beer::getBeersCountInBrewery($brewery->id);
