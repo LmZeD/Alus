@@ -12,8 +12,8 @@ class Brewery extends Model
 
     public static function getBreweriesWithCoordinatesCount()
     {
-        $breweriesWithCoordinatesCount = DB::table('geocodes')->
-        join('breweries', 'breweries.id', '=', 'geocodes.brewery_id')->count();
+        $breweriesWithCoordinatesCount = Geocode::join('breweries', 'breweries.id', '=', 'geocodes.brewery_id')
+            ->count();
         return $breweriesWithCoordinatesCount;
     }
 
@@ -23,7 +23,7 @@ class Brewery extends Model
         $longitudeDifferenceAllowed,
         $latitudeDifferenceAllowed
     ) {
-        $breweries = DB::table('geocodes')->leftjoin(
+        $breweries = Geocode::leftjoin(
             'breweries',
             function ($join) use (
                 $startLong,
