@@ -11,6 +11,14 @@ use App\Services\TripMakingService;
 
 class TripController extends Controller
 {
+    private $tripMakingService;
+    private $outputDataFetchingService;
+    public function __construct()
+    {
+        $this->tripMakingService = new TripMakingService();
+        $this->outputDataFetchingService = new OutputDataFetchingService();
+    }
+
     /**
      * Get input screen
      *
@@ -39,11 +47,10 @@ class TripController extends Controller
         $startLatitude = $request['latitude'];
         $tripDistance = 2000;//km
         //services
-        $tripMakingService = new TripMakingService();
-        $outputDataFetchingService = new OutputDataFetchingService();
 
-        $resultArray = $tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
-        $results = $outputDataFetchingService->fetchDataForOutput(
+
+        $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
+        $results = $this->outputDataFetchingService->fetchDataForOutput(
             $resultArray['usedIndexes'],
             $resultArray['breweriesData'],
             $resultArray['distanceLeft'],
