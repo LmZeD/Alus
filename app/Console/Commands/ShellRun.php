@@ -34,11 +34,13 @@ class ShellRun extends Command
      *
      * @return void
      */
-    public function __construct()
-    {
+    public function __construct(
+        TripMakingService $tripMakingService,
+        OutputDataFetchingService $outputDataFetchingService
+    ) {
         parent::__construct();
-        $this->tripMakingService = new TripMakingService();
-        $this->outputDataFetchingService = new OutputDataFetchingService();
+        $this->tripMakingService = $tripMakingService;
+        $this->outputDataFetchingService =$outputDataFetchingService;
     }
 
     /**

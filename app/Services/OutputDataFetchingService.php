@@ -73,8 +73,8 @@ class OutputDataFetchingService
      */
     public function getBeerAndBreweryDataByIndex($results, $index, $indexForResults, $breweriesData)
     {
-        $brewery = Brewery::getBreweryNameById($breweriesData[$index]['breweryId']);
-        $beerFound = Beer::getBeerInBrewery($breweriesData[$index]['breweryId']);
+        $brewery = $breweriesData[$index]['brewery'];
+        $beerFound = $brewery->beers;
         $results[$indexForResults]['brewery'] = $brewery;
         $results[$indexForResults]['beer'] = $beerFound;
         $results[$indexForResults]['latitude'] = $breweriesData[$index]['latitude'];

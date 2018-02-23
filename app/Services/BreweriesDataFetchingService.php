@@ -10,6 +10,13 @@ use function Symfony\Component\VarDumper\Dumper\esc;
 
 class BreweriesDataFetchingService
 {
+    private $distanceCalculationService;
+
+    public function __construct(DistanceCalculationService $distanceCalculationService)
+    {
+        $this->distanceCalculationService = $distanceCalculationService;
+    }
+
     /**
      *  Collects data of breweries
      *
@@ -31,23 +38,22 @@ class BreweriesDataFetchingService
         );
 
         $breweriesData = [];//array for return data
-        $distanceCalculator = new DistanceCalculationService();//distance calculation service
         //setting up data for calculations
         $cnt = 0;
-        foreach ($breweries as $brewery) {
-            if ($brewery->id != null) {
-                $beersInBrewery = Beer::getBeersCountInBrewery($brewery->id);
-                $breweryCoordinates = Geocode::getGeocodeForBrewery($brewery->id);
+        foreach ($breweries as $geocode) {
+            if ($geocode->id != null) {
+                $brewery = $geocode->brewery;
+                $beersInBrewery = $brewery->getBeersInBreweryCount();
                 $breweriesData[$cnt]['beersCount'] = $beersInBrewery;
-                $breweriesData[$cnt]['breweryId'] = $brewery->id;
-                $breweriesData[$cnt]['latitude'] = $breweryCoordinates['latitude'];
-                $breweriesData[$cnt]['longitude'] = $breweryCoordinates['longitude'];
+                $breweriesData[$cnt]['brewery'] = $brewery;
+                $breweriesData[$cnt]['latitude'] = $geocode['latitude'];
+                $breweriesData[$cnt]['longitude'] = $geocode['longitude'];
                 $breweriesData[$cnt]['distanceFromHome'] =
-                    $distanceCalculator->calculateDistanceBetweenTwoPoints(
+                    $this->distanceCalculationService->calculateDistanceBetweenTwoPoints(
                         $startLong,
                         $startLat,
-                        $brewery->longitude,
-                        $brewery->latitude
+                        $geocode->longitude,
+                        $geocode->latitude
                     );
                 $cnt++;
             }

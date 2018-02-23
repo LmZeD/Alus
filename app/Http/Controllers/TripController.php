@@ -13,10 +13,11 @@ class TripController extends Controller
 {
     private $tripMakingService;
     private $outputDataFetchingService;
-    public function __construct()
+
+    public function __construct(TripMakingService $tripMakingService, OutputDataFetchingService $outputFetchingService)
     {
-        $this->tripMakingService = new TripMakingService();
-        $this->outputDataFetchingService = new OutputDataFetchingService();
+        $this->tripMakingService = $tripMakingService;
+        $this->outputDataFetchingService = $outputFetchingService;
     }
 
     /**
@@ -46,8 +47,6 @@ class TripController extends Controller
         $startLongitude = $request['longitude'];
         $startLatitude = $request['latitude'];
         $tripDistance = 2000;//km
-        //services
-
 
         $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
         $results = $this->outputDataFetchingService->fetchDataForOutput(

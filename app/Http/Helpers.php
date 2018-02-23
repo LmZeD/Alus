@@ -28,7 +28,7 @@ function differenceAllowed($tripDistance)
 
 function validateLongitude($longitude)
 {
-    if (!isValidNumber($longitude)) {
+    if (!is_numeric($longitude)) {
         return false;
     }
     if ($longitude < -180 || $longitude > 180) {
@@ -39,7 +39,7 @@ function validateLongitude($longitude)
 
 function validateLatitude($latitude)
 {
-    if (!isValidNumber($latitude)) {
+    if (!is_numeric($latitude)) {
         return false;
     }
     if (($latitude < -85 || $latitude > 85)) {
@@ -48,17 +48,9 @@ function validateLatitude($latitude)
     return true;
 }
 
-function isValidNumber($argument)
-{
-    if (is_numeric($argument)) {
-        return true;
-    }
-    return false;
-}
-
 function isDistance($argument)
 {
-    if (isValidNumber($argument)) {
+    if (is_numeric($argument)) {
         if (doubleval($argument) >= 0) {
             return true;
         }

@@ -5,7 +5,6 @@ namespace App\Services;
 use function App\Http\validateLatitude;
 use function App\Http\validateLongitude;
 use ErrorException;
-use Symfony\Component\Routing\Exception\InvalidParameterException;
 
 class DistanceCalculationService
 {
