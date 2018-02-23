@@ -14,19 +14,25 @@ class CreateBeersTable extends Migration
     public function up()
     {
         Schema::create('beers', function (Blueprint $table) {
-            $table->increments('id');
-            $table->integer('brewery_id');
-            $table->string('name',100);
-            $table->integer('cat_id');
-            $table->integer('style_id');
+            $table->increments('id')->unique();
+            $table->integer('breweryId')->unsigned();
+            $table->string('name', 100);
+            $table->integer('catId');
+            $table->integer('styleId');
             $table->double('abv');
             $table->double('ibu');
             $table->double('srm');
             $table->integer('upc');
-            $table->string('filepath',100);
+            $table->string('filepath', 100);
             $table->text('descript');
-            $table->string('add_user',8);
-            $table->dateTime('last_mod');
+            $table->string('addUser', 8);
+            $table->dateTime('lastMod');
+        });
+
+        Schema::table('beers', function (Blueprint $table) {
+            $table->foreign('breweryId')
+                ->references('id')->on('breweries')
+                ->onDelete('cascade');
         });
     }
 

@@ -14,11 +14,15 @@ class CreateGeocodesTable extends Migration
     public function up()
     {
         Schema::create('geocodes', function (Blueprint $table) {
-            $table->increments('id');
-            $table->integer('brewery_id');
+            $table->increments('id')->unique();
+            $table->integer('breweryId')->unsigned();
             $table->double('latitude');
             $table->double('longitude');
-            $table->string('accuracy',18);
+            $table->string('accuracy', 18);
+        });
+
+        Schema::table('geocodes', function (Blueprint $table) {
+            $table->foreign('breweryId')->references('id')->on('breweries');
         });
     }
 

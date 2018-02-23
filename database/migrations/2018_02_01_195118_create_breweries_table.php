@@ -14,20 +14,20 @@ class CreateBreweriesTable extends Migration
     public function up()
     {
         Schema::create('breweries', function (Blueprint $table) {
-            $table->increments('id');
-            $table->string('name',100);
-            $table->string('address1',100);
-            $table->string('address2',100);
-            $table->string('city',30);
-            $table->string('state',30);
+            $table->increments('id')->unique();
+            $table->string('name', 100);
+            $table->string('address1', 100);
+            $table->string('address2', 100);
+            $table->string('city', 30);
+            $table->string('state', 30);
             $table->integer('code');
-            $table->string('country',100);
-            $table->string('phone',20);
-            $table->string('website',100);
-            $table->string('filepath',100);
+            $table->string('country', 100);
+            $table->string('phone', 20);
+            $table->string('website', 100);
+            $table->string('filepath', 100);
             $table->text('descript');
-            $table->string('add_user',8);
-            $table->dateTime('last_mod');
+            $table->string('addUser', 8);
+            $table->dateTime('lastMod');
         });
     }
 
