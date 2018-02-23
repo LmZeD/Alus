@@ -6,7 +6,7 @@ Feature: Make a route
   Scenario: I provide longitude and latitude
     Given I am in root page
     When I provide coordinates: "19.43295600" "51.742503"
-    Then I get redirected to output page
+    Then I get redirected to output page with argument values: "19.43295600" "51.742503"
     And I get data of visited breweries
 
   Scenario: I provide latitude and longitude which gives no breweries nearby

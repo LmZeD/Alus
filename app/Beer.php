@@ -8,30 +8,13 @@ class Beer extends Model
 {
     protected $table = 'beers';
     protected $fillable = [
-        'brewery_id', 'name',
+        'breweryId', 'name',
     ];
+    protected $primaryKey = 'id';
+    public $timestamps = false;
 
-    /**
-     * Gets beer count in brewery
-     *
-     * @param $breweryId - index of brewery
-     *
-     * @return integer - count of beer
-     */
-    public static function getBeersCountInBrewery($breweryId)
+    public function brewery()
     {
-        return Beer::where('brewery_id', $breweryId)->count();
-    }
-
-    /**
-     * Gets all beer of named brewery
-     *
-     * @param $breweryId - index of brewery
-     *
-     * @return Beer[] - array of beer
-     */
-    public static function getBeerInBrewery($breweryId)
-    {
-        return Beer::where('brewery_id', $breweryId)->get();
+        return$this->belongsTo('App\Brewery', 'breweryId');
     }
 }

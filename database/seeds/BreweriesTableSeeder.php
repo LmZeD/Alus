@@ -31,8 +31,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://512brewing.com/',
                 'filepath' => '',
             'descript' => '(512) Brewing Company is a microbrewery located in the heart of Austin that brews for the community using as many local, domestic and organic ingredients as possible.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             1 => 
             array (
@@ -48,8 +48,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.21st-amendment.com/',
                 'filepath' => '',
                 'descript' => 'The 21st Amendment Brewery offers a variety of award winning house made brews and American grilled cuisine in a comfortable loft like setting. Join us before and after Giants baseball games in our outdoor beer garden. A great location for functions and parties in our semi-private Brewers Loft. See you soon at the 21A!',
-                'add_user' => '0',
-                'last_mod' => '2010-10-24 13:54:07',
+                'addUser' => '0',
+                'lastMod' => '2010-10-24 13:54:07',
             ),
             2 => 
             array (
@@ -65,8 +65,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.3fonteinen.be/index.htm',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             3 => 
             array (
@@ -82,8 +82,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.aass.no',
                 'filepath' => '',
             'descript' => 'Aass Brewery was established in 1834 and is the oldest brewery in Norway today. It is located in the city of Drammen, approximately 25 miles south of our capital, Oslo. You will spot it at the banks of the Drammen River at the very same place as it has been since 1834. The annual production of beer is aprox. 10 mill liter (85 000 barrels), and together with the production of 18 mill liters of soft drinks and mineralwater it gives employment to approximately 150 people.  You may wonder how we got our name ? It was a young fellow with the name Poul Lauritz Aass that bought the brewery in 1860. Since then it has been in the same family, and is today run by the 4th generation of Aass. (By the way - A real Norwegian viking would pronounce it Ouse)  The brewery is proud of its history. To us the quality of what we produce has always been and always will be the main issue. In 1516, Duke Wilhelm of Bavaria established a law admitting only malted barley, hops yeast, and water as ingredients in the production of beer. The law is known as the purity law and Aass Brewery is still loyal to Duke Wilhelm of Bavaria. In Norway the brewery is known for outstanding quality and large number of different beer types.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             4 => 
             array (
@@ -99,8 +99,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             5 => 
             array (
@@ -116,8 +116,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.maredsous10.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             6 => 
             array (
@@ -133,8 +133,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             7 => 
             array (
@@ -150,8 +150,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.valleyinnonline.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             8 => 
             array (
@@ -167,8 +167,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             9 => 
             array (
@@ -184,8 +184,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.abita.com/',
                 'filepath' => '',
             'descript' => 'Founded in 1986, the Abita Brewing Company is nestled in the piney woods 30 miles north of New Orleans. In its first year, the brewery produced 1,500 barrels of beer. We had no idea what we started. Customers loved our beer! By 1994, we outgrew the original site (now our 100 seat brew pub) and were forced to move up the road to a larger facility to keep up with demand. Today, we brew over 62,000 barrels of beer and 3,000 barrels of root beer, and we\'re still growing! But don\'t let our growth fool you. Our lagers and ales are still brewed in small batches, hand-crafted by a team of dedicated workers with only the highest ideals of quality. This pride, along with our brewing process, is what creates our great brews. Abita uses only the finest ingredients  British and American barley, German yeast, European and Washington State hops and the pure artesian water of Abita Springs. In Abita, we are blessed with the purest of water. Drawn from our deep wells, our pristine water is not altered in any way. Abita Beer has no preservatives, additives or stabilizers and is cold filtered. The result is beer that is the finest and freshest tasting as proven by our loyal customers and great chefs of the south who use Abita Beer in their recipes. We\'re proud of our brewery and the beers we make. Try Abita Beer today and taste a bit of the South!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             10 => 
             array (
@@ -201,8 +201,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.adnams.co.uk',
                 'filepath' => '',
                 'descript' => 'Adnams is one of England\'s oldest and most respected breweries, but despite its rich heritage and enduring fame, Adnams is not a company willing to rest on its laurels. Its continued commitment to quality and innovative packaging designs has made it Britain\'s fastest growing brewery over the last two years. To top it off, Adnams\' head brewer was recently chosen as Britain\'s Brewer of the Year by a panel of his peers. The aggressive team at Adnams is raring to go and keen to make a mark in the U.S.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             11 => 
             array (
@@ -218,8 +218,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.affligembeer.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             12 => 
             array (
@@ -235,8 +235,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             13 => 
             array (
@@ -252,8 +252,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'This brewery is closed.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             14 => 
             array (
@@ -269,8 +269,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.aktien-brauerei.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             15 => 
             array (
@@ -286,8 +286,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             16 => 
             array (
@@ -303,8 +303,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.alaskanbeer.com/',
                 'filepath' => '',
             'descript' => 'The popularity of our beers has led to heroic efforts to keep up with the demand. We claim the unofficial record for production on a 10 barrel brewing system, with a whopping 42 batches in a single week. The addition of a new, 100-barrel brewhouse in 1995, and a Sankey-type keg system installed the following year, finally made it possible for us to serve the entire Pacific Northwest and later the Desert Southwest.  Brewing beer in Alaska isn\'t easy. In the coastal community of Juneau, without road connections to the lower 48 states, everything arrives and leaves by water or air, and the weather always has the last word.  We have learned to coordinate shipments for barges that couldn\'t dock in high winds, ferries that broke down, airplanes that overheaded, and trucks delayed by spring thaws that turned the roads to mush. We learned which suppliers were willing to airlift supplies and spare parts on short notice (at $1 per pound). We mastered wiring, plumbing, waste disposal and air quality control. We discovered that, if you had to, you could pour concrete in January by thawing the ground with heaters. Ah, but it all seems worthwhile if you can go home to a dinner of king crab or fresh halibut.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             17 => 
             array (
@@ -320,8 +320,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             18 => 
             array (
@@ -337,8 +337,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             19 => 
             array (
@@ -354,8 +354,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.aleasylum.com/',
                 'filepath' => '',
                 'descript' => 'HOURS OF OPERATION:',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             20 => 
             array (
@@ -371,8 +371,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://alesmith.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             21 => 
             array (
@@ -388,8 +388,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             22 => 
             array (
@@ -405,8 +405,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.allagash.com/',
                 'filepath' => '',
                 'descript' => 'Allagash Brewing Company sold its first batch of beer in the summer of 1995. The Allagash story, however, has roots that go much further back then the ten years the Portland, Maine brewery has been in operation. The roots go into the early 1990\'s when founder Rob Tod saw something missing in the American beer market. They are interwoven in the craft brewing movement that has allowed the creativity of brewers to flourish over the last twenty years, and those same roots have ties that go back centuries-to the monasteries of Belgium, whose own ancient brewing methods are now practiced today by the brewers of Allagash. Allagash began as a one-man operation, with Tod assuming all brewing duties in a small space located in a building on the outskirts of the maritime city of Portland. Tod had worked in brewery settings before and recognized a void within the craft brewing movement. While both German and British styles had become prevalent throughout the U.S., the ever-creative Belgian-styles were very difficult to find. Through his travels, Tod had sampled many of these unique beers and felt that the flavors and traditions of this European nation needed to be shared with the American drinking public. He designed a small 15-barrel brewhouse specifically to embrace the Belgian tradition of beer making, gathered the finest array of authentic raw materials and began his quest towards the production of traditional Belgian style ales. Allagash began with the release of its Allagash White, modeled after the traditional White beers of Belgium. Also referred to as wit beers, they get their unique flavor from the use of wheat in place of barley, Curacao orange peel and the careful sprinkling of coriander and other spices. Allagash combined these ingredients with their very own proprietary Belgian yeast strain to create the remarkably unique and refreshing beer that is today their flagship brand. Allagash White developed a strong cult following around the Portland area where it was available at selected draft accounts. Due to its immediate success, the beer was soon made available in 12-ounce six-packs throughout the state of Maine. With the success of the first brand, Rob realized two things: The public was asking for some new styles and the workload was getting to be too much for one person. Soon after, two experienced brewers were hired and Allagash released their second brew, Allagash Double Ale. Using the philosophy and techniques created by the Trappist Monks of Belgium centuries ago, the staff created this beer using seven different malts, a traditional sugar, and their own Belgian yeast strain. The result was another unique yet balanced beer crafted in the classic Belgian style. To truly appreciate the classic styles and brewing traditions of Belgium, one must experience beer created in the classic Belgian package. This is why Allagash, after an extensive period of research, released their distinctive Reserve line of cork finished 750 ML bottles. This unique line employs the ancient tradition referred to as the méthode champenoise. The technique calls for two fermentations, one in the Brewery\'s fermenting tanks and the second in the bottle itself. It is this second fermentation that produces a notable increase in carbonation, a softer mouthfeel, and beers of remarkable complexity. This method of bottle conditioning leaves a small amount of yeast in the bottle, creating what is known as a living beer. As a result, these styles have a greatly enhanced shelf life and some styles will age exceptionally, much like a fine wine. Just as the styles originate in Belgium, so does the package itself. To insure authenticity, Allagash imports the bottles and corks directly from the same country that designed the techniques. This enables the beers to reach carbonation levels similar to champagne while allowing the corks to pop characteristically upon serving. Today, Allagash still remains one of very few breweries in North America using this distinctive package. From the very beginning, Allagash has strived to produce the finest Belgian-style and experimental ales this side of the Atlantic. It began as New England\'s original Belgian-Style brewery and has grown into one of the industry\'s most distinguished and well-respected brands. Following the time-tested brewing traditions of ancient Belgium, Allagash now produces a broad-ranging portfolio of artisanal beers with uncompromising quality.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             23 => 
             array (
@@ -422,8 +422,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thebrewworks.com/allentown-brewworks/',
                 'filepath' => '',
                 'descript' => 'The Allentown Brew Works is housed inside the historic Harold\'s Furniture Building at 812 W Hamilton Street. Years in the making, the new Allentown restaurant and brewery are part of the continuing vision of the Fegley family that established the original Bethlehem Brew Works in 1998. Proud to be part of the resurging downtown, the 400 seat restaurant is a testament to the vibrant heartbeat that thrives in this Queen City. Offering two and a half levels of dining, plus state of the art banquet facilities in The Hamilton Room, and multiple bars offering different atmospheres, as well as an outdoor casual Biergarten and a new seductive lower level lounge � Silk.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             24 => 
             array (
@@ -439,8 +439,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             25 => 
             array (
@@ -456,8 +456,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             26 => 
             array (
@@ -473,8 +473,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.kentuckyale.com/kentuckyale/Index.html',
                 'filepath' => '',
                 'descript' => 'Producers of Kentucky Ale brand.   Also a very esteemed educational institution, specializing in distilling sciences and fermentation sciences.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             27 => 
             array (
@@ -490,8 +490,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.alpinebeerco.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             28 => 
             array (
@@ -507,8 +507,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             29 => 
             array (
@@ -524,8 +524,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             30 => 
             array (
@@ -541,8 +541,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             31 => 
             array (
@@ -558,8 +558,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             32 => 
             array (
@@ -575,8 +575,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             33 => 
             array (
@@ -592,8 +592,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.amherstbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Amherst Brewing Company is a full-service brewpub located in downtown Amherst, Massachusetts. Our 10-Barrel brewery is visible from the bar and produces some of the finest ales and lagers for serving in our 150-seat restaurant and 100-seat lounge and game room. Brewery tours can be made by appointment. Our giant, brass-top bar seats over 30 people and is fully stocked, including Single Malt Scotches and Small Batch Bourbons. An additional 40 seats are available on our seasonal patio; the best place in town to relax and enjoy an ABC draft or specialty brew while watching passersby. --From Amherst Website',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             34 => 
             array (
@@ -609,8 +609,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             35 => 
             array (
@@ -626,8 +626,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.amstel.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             36 => 
             array (
@@ -643,8 +643,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.anacortesrockfish.com/',
                 'filepath' => '',
                 'descript' => 'Our brewers focus on high quality ingredients, a carefully controlled process and delicate handling to provide one of the best beers you will find in the industry. We operate a seven barrel brewery designed and installed by Sound Brewing Systems of Seattle with vessels fabricated by Ripley Stainless in British Columbia. Our brewery features a cold room specially designed for lagering to provide our beers with a traditional character and complexity.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             37 => 
             array (
@@ -660,8 +660,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             38 => 
             array (
@@ -677,8 +677,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             39 => 
             array (
@@ -694,8 +694,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://avbc.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             40 => 
             array (
@@ -711,8 +711,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Andy Hazen is a workhorse of a brewer. From start to finish, he is a one-man operation. The former cabinetmaker is also a self-reliant Mainer through and through. He was originally an all-grain homebrewer who decided to take it to the next level when his friends expressed interest in his beers. He designed the 12-barrel brewing system himself and enlisted a local welder to help put it together. Hazen notes that when you live in Maine, you have to find some service to provide to others in order to survive. For him, brewing is the service he provides to his local community. Located in the rolling hills of Lincolnville, Maine, Andrew\'s is housed in a renovated farmhouse next to Hazen\'s home. Finding the brewery is more than half the battle. Have no fear, however, as everyone knows about Andrew\'s. Also, be aware that due to some thieving souls, the brewery no longer has any signage to announce its existence to the visiting public. The only indication that a brewery exists in the farmhouse are the occasional keg deliveries in Hazen\'s front yard. And Hazen hasn\'t been quick to replace the sign either. While he welcomes visitors, you have to remember to clear a path for the busy brewer. Like many other unsung small brewers, running his 5OO-barrel per year brewery is a seven day a week operation for Hazen. Watching Hazen run the brewery is a little like watching Willy Wonka run the Chocolate Factory. When I visit him during a bottling day, Hazen runs between the bottling line and the packaging supplies in a hurried yet methodical manner. He stands up bottles on the line, starts the machine, slides his way across the brewhouse to the packaging materials, and hand assembles the six-packs that will hold the soon-to-be bottled beer. Andrew\'s beer is straightforward, unassuming and entirely enjoyable. His product line includes the St. Nick Porter, the Northern Brown Ale, the English Pale Ale, and the summer seasonal Ruby\'s Golden Ale. A celebration of the Amarillo hop, Hazen\'s English Pale Ale is a delightfully balanced product that neither over or underwhelms the palate.  from beerscribe.com',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             41 => 
             array (
@@ -728,8 +728,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             42 => 
             array (
@@ -745,8 +745,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.anheuser-busch.com/',
                 'filepath' => '',
                 'descript' => 'Anheuser-Busch operates 12 breweries in the United States, 14 in China and one in the United Kingdom. Anheuser-Busch\'s operations and resources are focused on adding to life\'s enjoyment not only through the responsible consumption of beer by adults, but through theme park entertainment and packaging.  In the United States, the company holds a 48.5 percent share of U.S. beer sales. Worldwide, Anheuser-Busch\'s beer sales volume was 128.4 million barrels in 2007.  The St. Louis-based company\'s subsidiaries include one of the largest U.S. manufacturers of aluminum beverage containers and one of the world\'s largest recyclers of aluminum beverage cans. Anheuser-Busch also has interests in malt production, rice milling, real estate development, turf farming, metalized and paper label printing, bottle production and transportation services.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             43 => 
             array (
@@ -762,8 +762,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.abcbrew.com',
                 'filepath' => '',
                 'descript' => 'Appalachian Brewing Company is a unique large-capacity microbrewery and full-service brewpub located at 50 North Cameron Street Harrisburg, PA.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             44 => 
             array (
@@ -779,8 +779,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             45 => 
             array (
@@ -796,8 +796,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.arcadiaales.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             46 => 
             array (
@@ -813,8 +813,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.arcobraeu.de',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             47 => 
             array (
@@ -830,8 +830,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.guinness.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             48 => 
             array (
@@ -847,8 +847,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             49 => 
             array (
@@ -864,8 +864,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ashevillepizza.com/',
                 'filepath' => '',
                 'descript' => 'Asheville Brewpub, Brewery, Movie Theater and Pizzeria all rolled into 2 great places to meet and eat. Award winning beer and award winning pizza.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             50 => 
             array (
@@ -881,8 +881,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             51 => 
             array (
@@ -898,8 +898,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             52 => 
             array (
@@ -915,8 +915,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.atlantabrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             53 => 
             array (
@@ -932,8 +932,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.atlanticbrewing.com',
                 'filepath' => '',
             'descript' => 'The Atlantic Brewing Company began brewing in 1991, on the eve of the microbrewing revolution. We have steadily grown over the years by having a strong commitment to tradition, quality and service. As a result, we have become the number one beer of the Bar Harbor region.  In the spirit of old world tradition, our beers are sold and distributed by small independents (not national brands). Our beers are now available in select areas throughout the eastern US. We only brew 60 kegs per day, which allows us to still maintain our commitment to craftsmanship. The result is that our beers enjoy great respect in the beer community. Visit our Tasting Room for more information about our standard ales.  Our new facility was built on the site of an old farm a few miles from downtown Bar Harbor. It was designed to create a more visitor friendly environment similar to country wineries and breweries found throughout Europe.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             54 => 
             array (
@@ -949,8 +949,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.atwaterbeer.com',
                 'filepath' => '',
                 'descript' => 'Atwater Block Brewery, located in Detroit\'s historic Rivertown district is housed in a 1916 factory warehouse that was founded in March of 1997. Our brewing process however, is over 200 years old. We are able to brew our brands in the true heritage style of German lagers. With our imported Kasper Schultz brew house, only the finest malt and hops from Germany are used to brew our lagers and only the finest American hops for our specialty Ale\'s. Atwater block beers are distinctly fresh and flavorful, which is why we have a slogan We drink all we can and sell the rest..  Atwater Block Brewery is carrying on the rich history of breweries in Detroit, we are THE brewery of the D.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             55 => 
             array (
@@ -966,8 +966,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.schellsbrewery.com/',
                 'filepath' => '',
                 'descript' => 'The August Schell Brewing Company is a brewing company in New Ulm, Minnesota. It was founded by German immigrants August Schell and Jacob Bernhardt in 1860 and passed into the possession of the Schell family in 1866. It is the second oldest family-owned brewery in America and became the oldest and largest brewery in Minnesota when the company bought the Grain Belt rights in 2002.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             56 => 
             array (
@@ -983,8 +983,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             57 => 
             array (
@@ -1000,8 +1000,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.augustiner-braeu.de',
                 'filepath' => '',
                 'descript' => 'Augustiner Bräu is a brewery located in Munich, Germany. Established in 1328, it is Munich\'s oldest brewery and produces some of Munich\'s most popular brands of beer.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             58 => 
             array (
@@ -1017,8 +1017,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.australianbrewingcorporation.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             59 => 
             array (
@@ -1034,8 +1034,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.averybrewing.com/',
                 'filepath' => '',
                 'descript' => 'Established in 1993, Avery Brewing Co. is a family owned and operated micro-brewery dedicated to brewing the finest quality English and Belgian style ales.. From humble beginnings, brewing 800 barrels of three different beers in 1994, we have progressed to brewing 13,000 barrels of twenty different beers in 2007. We attribute this success to beer drinkers gravitating to beers with more interesting flavor profiles. The unique flavor complexity of Avery beers occurs through a combination of sparing no expense with regard to ingredients and our hopping methods. Sparing no expense means using lots of specialty malts, imported hops, such as Styrian Goldings, and imported Belgian candy sugar.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             60 => 
             array (
@@ -1051,8 +1051,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.backroadbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             61 => 
             array (
@@ -1068,8 +1068,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             62 => 
             array (
@@ -1085,8 +1085,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             63 => 
             array (
@@ -1102,8 +1102,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             64 => 
             array (
@@ -1119,8 +1119,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.watzke.de',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             65 => 
             array (
@@ -1136,8 +1136,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ballastpoint.com/',
                 'filepath' => '',
                 'descript' => 'Ballast Point Brewing Company is one of San Diego\'s Premiere Breweries. We started out modestly as Home Brew Mart in 1992. Our goal was to teach others how to brew quality handcrafted beer at home. In 1996 the brewery was installed by New World Brewing Systems in the space behind our retail store and production began in September. In May of 2005 we open our second brewery in Scripps Ranch.  We currently distribute five of our favorite beers, Yellowtail Pale Ale,  Calico Amber Ale , Big Eye I.P.A., Black Marlin Porter and Wahoo Wheat Beer to a thirsty San Diego.  Come to our brewery and we will gladly give you a tour and allow you to sample our newest selection of beers. Currently our beer is available in twelve ounce bottles to 15.5 gallon kegs. We also offer half gallon and gallon glass jugs to go. Kegs are available for rent to the public with a minimum deposit.  The name for our brewery comes from the point where Juan Rodriguez Cabrillo first set foot in California. Located on the Point Loma Peninsula, Ballast Point is considered the gateway to San Diego Harbor. Stones from this area were used as ballast in the cargo holds of sailing ships returning to the eastern seaboard. Many New England streets are still lined with the cobblestones brought back from San Diego.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             66 => 
             array (
@@ -1153,8 +1153,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ravenbeer.com/home.html',
                 'filepath' => '',
                 'descript' => 'The Baltimore-Washington Beer Works, of Baltimore, Maryland is the first to have launched a beer in another country before ever being produced at home. Production first occurred in Germany prior to any in America.  The Raven was originally produced in the Black Forest and still is produced in the Black Forest region of Baden-Württemberg. The small town of Nagold, south of Stuttgart and west of the university town of Tübingen, is where the Anker Brewery can be found.   BWBW was founded by Stephen Demczuk of Baltimore, who was partner in Europe\'s first beer-of-the-month club, Beer Around the World. He, along with Baltimorean, Jim Seay and German beer importer Mr. Wolfgang Stark, styled a beer that would be appealing to the masses, drinkable and enjoyed by both the lager and ale drinker. From the assistance of master brewer Mr. Hans-Martin Walz of Anker Brewery, came The Raven, a beer brewed in honor of Baltimore\'s literary genius, Edgar Allan Poe. After more than a year operating in Europe, the world\'s most competitive beer market, production of The Raven began in Baltimore in June of 1998.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             67 => 
             array (
@@ -1170,8 +1170,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             68 => 
             array (
@@ -1187,8 +1187,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             69 => 
             array (
@@ -1204,8 +1204,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.barharborbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             70 => 
             array (
@@ -1221,8 +1221,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             71 => 
             array (
@@ -1238,8 +1238,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             72 => 
             array (
@@ -1255,8 +1255,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             73 => 
             array (
@@ -1272,8 +1272,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.barleycreek.com/',
                 'filepath' => '',
             'descript' => 'Located in Tannersville, right off route 80\'s exit 299 in between the Crossings Outlet Stores and Camelback Ski area (Camelbeach Water Park, Barley Creek is the Pocono Mountains\' Original Brewpub and Restaurant, where you can always find great food, freshly brewed beer, a comfortable atmosphere, friendly people, and a unique place to kick back, relax and have a great time. Bring your friends, bring your family, bring your friends\' families. We are open every day at 11:01am, and serve dinner till about 10pm. On Friday and Saturday we are serving dinner till about 11:00pm. The bar stays open a little longer (so you can finish your fun if you ordered food just before the kitchen closed) Cheers!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             74 => 
             array (
@@ -1289,8 +1289,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             75 => 
             array (
@@ -1306,8 +1306,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             76 => 
             array (
@@ -1323,8 +1323,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             77 => 
             array (
@@ -1340,8 +1340,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             78 => 
             array (
@@ -1357,8 +1357,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             79 => 
             array (
@@ -1374,8 +1374,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.baronbeer.com/',
                 'filepath' => '',
                 'descript' => 'Mike Baker and Jeff Smiley founded Baron Brewing in the beginning of 2003. A brewery has been in the works for sometime. Lots of discussions on what if we had a brewery were had, over lots of good German beer. The opportunity came for us to travel to Germany to really get involved with the German brewing process and ideology - as well as sample the best beer on earth. After that trip, the direction of the brewery was set. German beer had to be re-discovered by the population. After many discussions on opening a brewery and a trip to Germany, the dream became reality. We found an existing brewery to purchase - Lunar Brewing. After purchasing Lunar and getting approved for all the necessary licensing, Baron is ready to go. On June 14th, the world of Seattle will have the chance to finally taste and purchase Baron Beer. The first style of many to be released is our flagship beer - Munich Lager.That is all for the history. We are growing on a daily basis and plan to be around for quite some time.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             80 => 
             array (
@@ -1391,8 +1391,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.barrelhouse.com',
                 'filepath' => '',
                 'descript' => 'Established as a brewpub in 1995 in the historic Over-The-Rhine neighborhood of Cincinnati, The BarrelHouse Brewing Company has since transitioned into a regionally distributed microbrewery offering an impressive selection of both innovative styles of ales and traditional lagers. Brewed and bottled in small batches with only honest ingredients, BarrelHouse beers are extremely fresh and exceptionally flavorful. Thank you for embracing our fiercely independent vision of a hand-crafted future for all! Operating as a brewpub from August 1995 until February 2005, The BarrelHouse Brewing Company recently relocated to our current location in the West End of downtown Cincinnati. We officially reopened with a completed expansion plan in April 2005. Our expansion included almost doubling our fermentation capacity as well as the addition of a brand new bottling line. Our first order of bottled beer hit Ohio area stores in June 2006 and we have subsequently begun to enter markets that were previously unavailable. The BarrelHouse Brewing Company brews on a 15 BBL brewhouse manufactured by Century. One BBL equals 31 gallons therefore; our beers are hand-crafted in 465 gallon batches. Our ales are ready after approximately fourteen days while our lagers are conditioned for upwards of six weeks. By brewing in small batches, our brewers are able to achieve an optimal level of quality control while creating a consistently flavorful product. While our brewing process is quite labor intensive, we believe that hand-crafting our beers sets us apart from the majority of breweries in the U.S. today. Our dedication is unparalleled and quite evident in the final packaged product.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             81 => 
             array (
@@ -1408,8 +1408,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             82 => 
             array (
@@ -1425,8 +1425,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             83 => 
             array (
@@ -1442,8 +1442,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bavaria.com.co',
                 'filepath' => '',
                 'descript' => 'Fundada en abril de 1889 Cervecería Águila tiene una capacidad de producción de 3.234.000 hectolitros de cerveza al año, con los cuales atiende los departamentos del Sucre, Magdalena, Atlántico, Bolívar, Guajira, Cesar y la Isla de San Andrés. Produce y distribuye las marcas Águila, Club Colombia, Costeñita, además de cerveza en barril; Agua Brisa en diferentes presentaciones y Pony Malta. Esta planta tiene su origen en la Cervecería Barranquilla que empieza operaciones el 10 de abril de 1913 y años más tarde, en 1933, se une a la Cervecería Bolívar, convirtiéndose en la Cervecería Barranquilla y Bolívar S.A. El 3 de marzo de 1967 la compañía tomó el nombre de Cervecería Águila S.A. En diciembre de 2002 se fusionó con Bavaria S.A. convirtiéndose en una planta estratégica para el proceso de exportaciones de la compañía. Desde octubre de 2005, Bavaria es parte de SABMiller, segunda cervecera mundial en volumen, con operaciones en cuatro continentes y una producción que supera los 170 millones de hectolitros de cerveza anuales en más de 170 marcas.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             84 => 
             array (
@@ -1459,8 +1459,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bavarianbarbarian.com',
                 'filepath' => '',
                 'descript' => 'Bavarian Barbarian Brewing Company is Williamsport\'s first production brewery since the 1950\'s. The brewery, which occupies 9,000 square feet at 429 W. 3rd St in Williamsport, Pennsylvania, was founded by Mike Hiller in July 2007.  Though a native of South Williamsport, Barbarian Chief, Mike Hiller, first entered the craft brewing industry in 1997 as an Account Services Associate for Legendary Distributors, Ltd., of Richmond, Virginia. After nearly a year of distributing beer, an opportunity arose for Mike to work as a brewer for Legend Brewing Company. Mike worked with five other brewers to perform duties at all levels of production including brewing, cellar work, cleaning and maintenance.  After nearly four years of service at Legend Brewing Company, Mike moved to Boston, MA, so his wife, Kira, could attend grad school. Tired of listening to him whine about how much he missed brewing, Kira gave him a home brewing kit as an anniversary gift. Mike began brewing whenever he could find the time. He developed the recipes for Hammerin\' Ale, Headbangerz Brown Ale, Square Feet Wheat, Weldspatter I.P.A. and several other beers in five-gallon batches on his apartment\'s balcony.  Mike was also commissioned by friends and co-workers to brew beer for special occasions.  In fact, Square Feet Wheat was actually first brewed for an art gallery opening featuring works by the Barbarian\'s logo and label designer, Erick Thomas.  After reading Brewing Up a Business: Adventures in Entrepreneurship by Sam Calagione of Dogfish Head Brewery fame, Mike was inspired to start his own brewery. He spent eight months researching and writing a business plan. Another year was spent gathering support and revising his business plans. Thanks to the support of family, friends and other area businessmen who believed in Mike\'s dream, Bavarian Barbarian Brewing Company is now a reality.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             85 => 
             array (
@@ -1476,8 +1476,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             86 => 
             array (
@@ -1493,8 +1493,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             87 => 
             array (
@@ -1510,8 +1510,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bluegrassbrew.com',
                 'filepath' => '',
                 'descript' => 'Bluegrass Brewing Co is proud to be the largest microbrewery located in the state of Kentucky. Reaching back over one hundred years, the city of Louisville has a rich and complex brewing history; a history that has provided BBC with a strong foundation on which to build and grow. It is a challenge we enthusiastically look forward to everyday. Led by our fearless brew master David Pierce who has been brewing award winning BBC beers for over fourteen years, our brewing philosophy is an audacious style that allows us to work diligently with the entire palette of malts and hops. This diligence and discipline is carefully brought to every batch that is brewed at Bluegrass Brewing Co. To truly enjoy life you have to love what you do�and we love brewing. Our sole focus relies on consistency and producing the best beer available. We hope that you will taste that bold style in every BBC beer that you drink. Enjoy great craft beer wherever you live and remember this most important piece of advice: Don\'t Buy Beer From Strangers . . . Support Your Local Brewery!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             88 => 
             array (
@@ -1527,8 +1527,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             89 => 
             array (
@@ -1544,8 +1544,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             90 => 
             array (
@@ -1561,8 +1561,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             91 => 
             array (
@@ -1578,8 +1578,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bearrepublic.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             92 => 
             array (
@@ -1595,8 +1595,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.becks.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             93 => 
             array (
@@ -1612,8 +1612,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             94 => 
             array (
@@ -1629,8 +1629,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.belfastbaybrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             95 => 
             array (
@@ -1646,8 +1646,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             96 => 
             array (
@@ -1663,8 +1663,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             97 => 
             array (
@@ -1680,8 +1680,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bellsbeer.com/',
                 'filepath' => '',
                 'descript' => 'In 2003, Bell\'s proudly opened a new production brewery in nearby Comstock, Michigan. The new brewery has now seen three major additions and encompasses 60,000 square feet of building on a 24 acre site The Quality Assurance department has thrived in the new facilities, implementing procedures and techniques that assure that Bell\'s is consistently putting out the very best beer possible. Total brewing capacity now stands at 140,000 bbls. At the Kalamazoo Avenue location, an historical rehabilitation has brought about a pleasant architectural change to the city landscape.  Our ongoing goal is to brew thoughtfully, creatively and artistically. We strive to bring an authentic and pleasant experience to all of our customers through our unique ales and beers. We look forward to sharing our beers with you.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             98 => 
             array (
@@ -1697,8 +1697,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             99 => 
             array (
@@ -1714,8 +1714,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             100 => 
             array (
@@ -1731,8 +1731,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             101 => 
             array (
@@ -1748,8 +1748,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             102 => 
             array (
@@ -1765,8 +1765,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bersaglier.com.ar/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             103 => 
             array (
@@ -1782,8 +1782,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thebrewworks.com/bethlehem-brew-works',
                 'filepath' => '',
                 'descript' => 'Established on April 15, 1998 by the Fegley Family, Bethlehem Brew Works successfully captured the essence of Bethlehem\'s steel industry in a 250 seat brewpub. Signature beers include Steelworkers\' Oatmeal Stout, Valley Golden ale, and the award winning Fegley\'s ESB. In addition, three seasonal taps have been frequented with beers ranging from Pale Ales and Wheats to Pumpkin Ale and Belgian Lambics. Accompanying the six beers brewed right in the restaurant is a full bar specializing in single malt scotches, small batch bourbons, and specialty martinis. Open seven days a week, BBW offers lunch and dinner featuring many items which incorporate the handcrafted beer into their recipes. Golden Ale Hummus, Beer and Cheese Soup, Brewschetta, Diamond Plate Pork, and Beer-Marinated Portabella Napoleon are just a hint of what the menu has to offer.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             104 => 
             array (
@@ -1799,8 +1799,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             105 => 
             array (
@@ -1816,8 +1816,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             106 => 
             array (
@@ -1833,8 +1833,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             107 => 
             array (
@@ -1850,8 +1850,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.latrappe.nl/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             108 => 
             array (
@@ -1867,8 +1867,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.christoffelbeer.com',
                 'filepath' => '',
                 'descript' => 'Beerbrewery St. Christoffel is a relatively young brewery, founded in 1986. Our brewery is situated in the former coalmining-town Roermond in Dutch Limburg and named after the patronsaint of Roermond: Saint Christoffel. The brewery started very small and was at first situated behind a house. In 1995 the brewery moved to her present facility. With moving there, the brewingcapacity greatly enhanced due to new brewing-, fermenting- and lagerfacilities. Christoffel brews according to the German Reinheitsgebot von 1516: which means the brewingprocess takes place in a completely natural way. Around the year 1990, Christoffel Blond was awarded 3 years in a row with the Dutch title: Best Beer from the Netherlands.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             109 => 
             array (
@@ -1884,8 +1884,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             110 => 
             array (
@@ -1901,8 +1901,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bigbossbrewing.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             111 => 
             array (
@@ -1918,8 +1918,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bigbuck.com/gaylord.html',
                 'filepath' => '',
                 'descript' => 'The large dining room provides ample seating with a separate full bar.  From choice cuts of aged beef, including a 20-ounce Porterhouse, or a 9-ounce Filet Mignon, menu selections range from fine steaks, chicken, pork and seafood entrees, to a tempting selection of appetizers. Our chef\'s daily dessert specials complete your dining experience.  Join our master brewer for a tour of the operating brewery and taste test our newest brew, or visit our Northwoods inspired gift shop for a selection of unusual gifts. Featuring our glass walled, 15,000 barrel capacity brewery, Big Buck offers 8 signature beers along with seasonal specialty brews sure to please the most discriminating palate.   Enjoy dinner or drinks on our deck during the season.  Watch your favorite team or make a presentation on one of our many large screen televisions.  Our child and adult game rooms are available for your pre or post dining entertainment. With advance notice, special hours and special menus, including breakfast menus, may be arranged!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             112 => 
             array (
@@ -1935,8 +1935,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             113 => 
             array (
@@ -1952,8 +1952,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             114 => 
             array (
@@ -1969,8 +1969,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             115 => 
             array (
@@ -1986,8 +1986,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             116 => 
             array (
@@ -2003,8 +2003,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             117 => 
             array (
@@ -2020,8 +2020,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             118 => 
             array (
@@ -2037,8 +2037,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             119 => 
             array (
@@ -2054,8 +2054,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             120 => 
             array (
@@ -2071,8 +2071,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bigtimebrewery.com/',
                 'filepath' => '',
             'descript' => 'Big Time\'s brewery is a 14 barrel JV Northwest system consisting of a gas fired brew kettle, an infusion mash tun with mixer, a hot liquor back, a wort cooler, (5) 14 barrel fermenters, a diatomaceous earth filter, a bright beer tank, and (12) 7 bbl serving tanks.  We sell most of our beer at the pub but do wholesale a limited number of kegs to a few Seattle area taverns. We currently brew approximately 1,500 barrels of beer per year',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             121 => 
             array (
@@ -2088,8 +2088,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             122 => 
             array (
@@ -2105,8 +2105,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             123 => 
             array (
@@ -2122,8 +2122,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             124 => 
             array (
@@ -2139,8 +2139,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             125 => 
             array (
@@ -2156,8 +2156,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             126 => 
             array (
@@ -2173,8 +2173,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             127 => 
             array (
@@ -2190,8 +2190,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             128 => 
             array (
@@ -2207,8 +2207,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             129 => 
             array (
@@ -2224,8 +2224,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             130 => 
             array (
@@ -2241,8 +2241,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bjsrestaurants.com/beer.aspx',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             131 => 
             array (
@@ -2258,8 +2258,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             132 => 
             array (
@@ -2275,8 +2275,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             133 => 
             array (
@@ -2292,8 +2292,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.blacksburgbrewing.com/',
                 'filepath' => '',
             'descript' => 'Blacksburg Brewing Co. (BBC) is an independent specialty brewer of premium beer.  As mandated by the Reinheitsgebot (German Purity Law), our beer is brewed with only 4 ingredients: water, barley malt, hops, and yeast.  The best beer requires the best ingredients, so we purchase them regardless of the cost.  We pay a premium to import the Cadillac of barley malt from Bamberg, and our hops from The Hallertau are the best that money can buy, period.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             134 => 
             array (
@@ -2309,8 +2309,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             135 => 
             array (
@@ -2326,8 +2326,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             136 => 
             array (
@@ -2343,8 +2343,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             137 => 
             array (
@@ -2360,8 +2360,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://bbc.bloomington.com',
                 'filepath' => '',
                 'descript' => 'Established by One World Enterprises in 1989, Lennie\'s introduced gourmet pizza to Bloomington, and has since become one of the town\'s most popular and eclectic eateries. Lennie\'s set another local landmark in 1994, with the addition of the first commercial brewery in Monroe county and the first brewpub in Southern Indiana. Open until Midnight Sunday through Thursday and until 1 a.m. on Friday and Saturday, Lennie\'s menu topped by award-winning beer from the BBC and an extensive wine offering appeals to those looking for a quick lunch, a relaxing dinner, an enjoyable happy hour, or a few late-night ales.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             138 => 
             array (
@@ -2377,8 +2377,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             139 => 
             array (
@@ -2394,8 +2394,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             140 => 
             array (
@@ -2411,8 +2411,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             141 => 
             array (
@@ -2428,8 +2428,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bluepointbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             142 => 
             array (
@@ -2445,8 +2445,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.blueridgebrewing.com/',
                 'filepath' => '',
                 'descript' => 'Born in the foothills of the Blue Ridge Mountains, Greenville\'s Brew-Pub continues to pay homage to one simple creed, to provide our customers the very best we can! We\'re as proud of Chef Rich\'s House-Made Menu as we are of Jay\'s Freshly Crafted Brews!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             143 => 
             array (
@@ -2462,8 +2462,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bbcbrew.com',
                 'filepath' => '',
                 'descript' => 'The original Bluegrass Brewing Company opened in 1993 at this location, 3929 Shelbyville Road, near Westport Rd., & Chenoweth, & Breckenridge Lanes. It is the city\'s oldest remaining brewpub and was the first to make a significant mark on the national brewpub and microbrewery scene. Louisville\'s best beer is made at this location, and large glass windows in the back dining room allow you to witness the brewing operation. The headbrewer is Jerry Gnagy, assisted by Sam Cruz and Cody Mingus.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             144 => 
             array (
@@ -2479,8 +2479,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bobcatcafe.com/',
                 'filepath' => '',
                 'descript' => 'Nestled at the foot of the Green Mountains & located right in the heart of Bristol, The Bobcat Cafe & Brewery is just walking distance from the town green, downtown shopping & the Crystal Palace B&B. Established in 2001, this popular, community oriented cafe & brewery features a wide selection of house brewed beers, a diverse menu to meet any taste, carefully selected wines & a full bar.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             145 => 
             array (
@@ -2496,8 +2496,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             146 => 
             array (
@@ -2513,8 +2513,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             147 => 
             array (
@@ -2530,8 +2530,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bonaventurebrewing.com/',
                 'filepath' => '',
                 'descript' => 'Local beers brewed on-site on the 4th floor patio of the Bonaventure Hotel. Terrific views of Downtown LA, traditional American food, friendly staff, local flavor.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             148 => 
             array (
@@ -2547,8 +2547,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             149 => 
             array (
@@ -2564,8 +2564,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             150 => 
             array (
@@ -2581,8 +2581,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             151 => 
             array (
@@ -2598,8 +2598,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.borsodisorgyar.hu/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             152 => 
             array (
@@ -2615,8 +2615,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             153 => 
             array (
@@ -2632,8 +2632,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.browar-witnica.pl/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             154 => 
             array (
@@ -2649,8 +2649,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.samueladams.com/',
                 'filepath' => '',
                 'descript' => 'Jim Koch founded The Boston Beer Company in 1984 because he believed that Americans deserved better beer. Today, we\'re a team of about 350 people, and we all share a common passion for bringing great Samuel Adams beers to beer lovers everywhere. We\'ve worked hard for the many successes we\'ve enjoyed over the years. The Boston Beer Company has been cited as one of the best companies to work for by Boston Magazine, one of the Best Entry-Level Jobs by The Princeton Review, and our beers have won more awards than any beer in history. Jim has been named an Entrepreneur of the Year by Inc. Magazine. Our brewers keep amazing us with innovative new brews, most recently Samuel Adams Utopias and Samuel Adams Chocolate Bock.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             155 => 
             array (
@@ -2666,8 +2666,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             156 => 
             array (
@@ -2683,8 +2683,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             157 => 
             array (
@@ -2700,8 +2700,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://boulderbeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             158 => 
             array (
@@ -2717,8 +2717,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.blvdbeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             159 => 
             array (
@@ -2734,8 +2734,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             160 => 
             array (
@@ -2751,8 +2751,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             161 => 
             array (
@@ -2768,8 +2768,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             162 => 
             array (
@@ -2785,8 +2785,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             163 => 
             array (
@@ -2802,8 +2802,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             164 => 
             array (
@@ -2819,8 +2819,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             165 => 
             array (
@@ -2836,8 +2836,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             166 => 
             array (
@@ -2853,8 +2853,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             167 => 
             array (
@@ -2870,8 +2870,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             168 => 
             array (
@@ -2887,8 +2887,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.brunehaut.com/',
                 'filepath' => '',
             'descript' => 'An artisanal (non-conglomerate) brewer, Brunehaut employs ancient Belgian brewing recipes, dating from the First Crusade and documented from 1096. Combining top (in-bottle) fermentation with modern production technologies, Brunehaut\'s signature ales include Dubble and Tripel bottle-conditioned ales, consistent with 1500+-year-old Belgian brewing traditions. Three bio (organic) beers, distributed under the Brunehaut label, use organic gains, grown by the brewers, within ten kilometers of the brewhaus.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             169 => 
             array (
@@ -2904,8 +2904,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Farm-brewery located in South Belgium.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             170 => 
             array (
@@ -2921,8 +2921,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             171 => 
             array (
@@ -2938,8 +2938,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             172 => 
             array (
@@ -2955,8 +2955,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             173 => 
             array (
@@ -2972,8 +2972,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             174 => 
             array (
@@ -2989,8 +2989,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.brasserie-st-sylvestre.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             175 => 
             array (
@@ -3006,8 +3006,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             176 => 
             array (
@@ -3023,8 +3023,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             177 => 
             array (
@@ -3040,8 +3040,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             178 => 
             array (
@@ -3057,8 +3057,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             179 => 
             array (
@@ -3074,8 +3074,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             180 => 
             array (
@@ -3091,8 +3091,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             181 => 
             array (
@@ -3108,8 +3108,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             182 => 
             array (
@@ -3125,8 +3125,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             183 => 
             array (
@@ -3142,8 +3142,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             184 => 
             array (
@@ -3159,8 +3159,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             185 => 
             array (
@@ -3176,8 +3176,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             186 => 
             array (
@@ -3193,8 +3193,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             187 => 
             array (
@@ -3210,8 +3210,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             188 => 
             array (
@@ -3227,8 +3227,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             189 => 
             array (
@@ -3244,8 +3244,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             190 => 
             array (
@@ -3261,8 +3261,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Once named Brasserie Jeanne D\'Arc, this Brewery had changed their name due to change in management.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             191 => 
             array (
@@ -3278,8 +3278,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             192 => 
             array (
@@ -3295,8 +3295,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             193 => 
             array (
@@ -3312,8 +3312,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             194 => 
             array (
@@ -3329,8 +3329,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             195 => 
             array (
@@ -3346,8 +3346,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.mcauslan.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             196 => 
             array (
@@ -3363,8 +3363,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             197 => 
             array (
@@ -3380,8 +3380,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             198 => 
             array (
@@ -3397,8 +3397,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             199 => 
             array (
@@ -3414,8 +3414,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.cantillon.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             200 => 
             array (
@@ -3431,8 +3431,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             201 => 
             array (
@@ -3448,8 +3448,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             202 => 
             array (
@@ -3465,8 +3465,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             203 => 
             array (
@@ -3482,8 +3482,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             204 => 
             array (
@@ -3499,8 +3499,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             205 => 
             array (
@@ -3516,8 +3516,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             206 => 
             array (
@@ -3533,8 +3533,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.maisel.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             207 => 
             array (
@@ -3550,8 +3550,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             208 => 
             array (
@@ -3567,8 +3567,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             209 => 
             array (
@@ -3584,8 +3584,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             210 => 
             array (
@@ -3601,8 +3601,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             211 => 
             array (
@@ -3618,8 +3618,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             212 => 
             array (
@@ -3635,8 +3635,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             213 => 
             array (
@@ -3652,8 +3652,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             214 => 
             array (
@@ -3669,8 +3669,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             215 => 
             array (
@@ -3686,8 +3686,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             216 => 
             array (
@@ -3703,8 +3703,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             217 => 
             array (
@@ -3720,8 +3720,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             218 => 
             array (
@@ -3737,8 +3737,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             219 => 
             array (
@@ -3754,8 +3754,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             220 => 
             array (
@@ -3771,8 +3771,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.pinkus-mueller.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             221 => 
             array (
@@ -3788,8 +3788,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.wieselburger.at',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             222 => 
             array (
@@ -3805,8 +3805,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             223 => 
             array (
@@ -3822,8 +3822,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.waldschloesschen.de',
                 'filepath' => '',
                 'descript' => 'traditional brew house, founded 1836, make their beer and just sell it in house',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             224 => 
             array (
@@ -3839,8 +3839,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.braubrothersbrewing.com/',
                 'filepath' => '',
                 'descript' => 'We are very excited to introduce Brau Brothers Brewing Company, LLC. We are a locally owned and operated brewery, producing strictly for a local and regional market. We like to stay close to the beer we produce as well as to the people who drink it. Our modest scale allows us to be more flexible, dynamic, and closer to retailers as well as beer drinkers.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             225 => 
             array (
@@ -3856,8 +3856,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             226 => 
             array (
@@ -3873,8 +3873,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             227 => 
             array (
@@ -3890,8 +3890,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             228 => 
             array (
@@ -3907,8 +3907,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             229 => 
             array (
@@ -3924,8 +3924,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             230 => 
             array (
@@ -3941,8 +3941,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             231 => 
             array (
@@ -3958,8 +3958,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             232 => 
             array (
@@ -3975,8 +3975,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             233 => 
             array (
@@ -3992,8 +3992,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.breckbrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             234 => 
             array (
@@ -4009,8 +4009,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             235 => 
             array (
@@ -4026,8 +4026,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             236 => 
             array (
@@ -4043,8 +4043,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             237 => 
             array (
@@ -4060,8 +4060,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://brewdog.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             238 => 
             array (
@@ -4077,8 +4077,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.belgianbeer.com',
                 'filepath' => '',
             'descript' => 'Set in a grand Mt. Vernon townhouse, The Brewer\'s Art offers many temptations for your palate. Our seasonally-influenced menu of European-style country fare features meats, fish, seafood, pasta, and vegetarian offerings.  Dinner is served daily between 5:30pm - 9:00pm (later on Thursdays, Fridays and Saturdays) and light fare is available from 4:00pm - 11:00pm. Our creative pastry chef prepares our homemade desserts. In addition to brewing our fine beers on the premises, we offer a carefully picked selection of beers and fine wines from around the world, and one of Baltimore\'s best selections of scotches and spirits.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             239 => 
             array (
@@ -4094,8 +4094,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             240 => 
             array (
@@ -4111,8 +4111,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             241 => 
             array (
@@ -4128,8 +4128,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.budvar.cz/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             242 => 
             array (
@@ -4145,8 +4145,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             243 => 
             array (
@@ -4162,8 +4162,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.brewerycreek.com/',
                 'filepath' => '',
                 'descript' => 'Brewery Creek.  It\'s where we live.  It\'s where we work.  When we started this project we decided to pursue three businesses.  Just so we wouldn\'t get bored.  The lodging business includes five rooms at the Inn, and two Cottages on Shake Rag Street.  Then there is the Brewpub Restaurant in the Commerce Street building.  Last but certainly not least is the Brewery Creek Brewing Company, behind the glass doors of the restaurant. Our brewery is a modern, 15-barrel brew house capable of making up to 3,000 barrels of beer per year. I an make ales or lagers, but mostly it has been ales, which tend to have a more complex flavor profile.  I can use a simple one step infusion mash, or more elaborate multi-temperature steps.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             244 => 
             array (
@@ -4179,8 +4179,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             245 => 
             array (
@@ -4196,8 +4196,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             246 => 
             array (
@@ -4213,8 +4213,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             247 => 
             array (
@@ -4230,8 +4230,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             248 => 
             array (
@@ -4247,8 +4247,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://drinksunion.qbizm.cz/de/pages/vyrobky_p_breznak.htm',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             249 => 
             array (
@@ -4264,8 +4264,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             250 => 
             array (
@@ -4281,8 +4281,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             251 => 
             array (
@@ -4298,8 +4298,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.bridgeportbrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             252 => 
             array (
@@ -4315,8 +4315,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             253 => 
             array (
@@ -4332,8 +4332,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             254 => 
             array (
@@ -4349,8 +4349,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             255 => 
             array (
@@ -4366,8 +4366,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.brooklynbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             256 => 
             array (
@@ -4383,8 +4383,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.broughtonales.co.uk/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             257 => 
             array (
@@ -4400,8 +4400,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             258 => 
             array (
@@ -4417,8 +4417,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.trappistwestmalle.be',
                 'filepath' => '',
                 'descript' => 'or more than 200 years the Westmalle Trappists have chosen a life of prayer and work. That is their true vocation, entirely in accordance with the rule of Saint Benedict. Monks, he stipulates, have to provide for themselves. hus there is also a brewery within the abbey. The monks deliberately keep production small, with special care for man and the environment. And because profit is not their motive, they spend the surplus from it on charity work and on people in need.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             259 => 
             array (
@@ -4434,8 +4434,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             260 => 
             array (
@@ -4451,8 +4451,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             261 => 
             array (
@@ -4468,8 +4468,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             262 => 
             array (
@@ -4485,8 +4485,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             263 => 
             array (
@@ -4502,8 +4502,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             264 => 
             array (
@@ -4519,8 +4519,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             265 => 
             array (
@@ -4536,8 +4536,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             266 => 
             array (
@@ -4553,8 +4553,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             267 => 
             array (
@@ -4570,8 +4570,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             268 => 
             array (
@@ -4587,8 +4587,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.dedollebrouwers.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             269 => 
             array (
@@ -4604,8 +4604,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             270 => 
             array (
@@ -4621,8 +4621,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             271 => 
             array (
@@ -4638,8 +4638,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             272 => 
             array (
@@ -4655,8 +4655,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             273 => 
             array (
@@ -4672,8 +4672,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             274 => 
             array (
@@ -4689,8 +4689,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             275 => 
             array (
@@ -4706,8 +4706,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.achelsekluis.org/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             276 => 
             array (
@@ -4723,8 +4723,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'oday, the Duvel Moortgat group, founded in 1871, is an independent producer of authentic speciality beers and premium brands. Around the world, the group is considered to be the leading producer of blond, bottle conditioned, high fermentation beers, a dominant position owed largely to the success of its best-selling product Duvel. A niche player, Duvel Moortgat occupies a leading position in the strategic segments of speciality beers and premium brands like Duvel, Maredsous, Bel Pils and Vedett. The group markets Steendonk white beer in a joint venture with the Palm brewery. Duvel Moortgat has also entered the market of natural fruit juices with a 70% participation in the quality juice producer Freya. Today, the group\'s beers are exported to over 40 countries. Duvel Moortgat has also taken a firm foothold in Central Europe, thanks to a 50% participation in the Czech Bernard brewery, renowned for its premium Pilsners. The group has launched itself into the market of artisan premium beers through the acquisition of the American Ommegang brewery. Duvel Moortgat has also been listed on the Brussels Euronext stock exchange since 1999.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             277 => 
             array (
@@ -4740,8 +4740,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             278 => 
             array (
@@ -4757,8 +4757,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             279 => 
             array (
@@ -4774,8 +4774,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hetanker.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             280 => 
             array (
@@ -4791,8 +4791,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             281 => 
             array (
@@ -4808,8 +4808,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             282 => 
             array (
@@ -4825,8 +4825,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.liefmans.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             283 => 
             array (
@@ -4842,8 +4842,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             284 => 
             array (
@@ -4859,8 +4859,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.balashi.com/balashi/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             285 => 
             array (
@@ -4876,8 +4876,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             286 => 
             array (
@@ -4893,8 +4893,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             287 => 
             array (
@@ -4910,8 +4910,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             288 => 
             array (
@@ -4927,8 +4927,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             289 => 
             array (
@@ -4944,8 +4944,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             290 => 
             array (
@@ -4961,8 +4961,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             291 => 
             array (
@@ -4978,8 +4978,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sintbernardus.be',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             292 => 
             array (
@@ -4995,8 +4995,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             293 => 
             array (
@@ -5012,8 +5012,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             294 => 
             array (
@@ -5029,8 +5029,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             295 => 
             array (
@@ -5046,8 +5046,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             296 => 
             array (
@@ -5063,8 +5063,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             297 => 
             array (
@@ -5080,8 +5080,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             298 => 
             array (
@@ -5097,8 +5097,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             299 => 
             array (
@@ -5114,8 +5114,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             300 => 
             array (
@@ -5131,8 +5131,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             301 => 
             array (
@@ -5148,8 +5148,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             302 => 
             array (
@@ -5165,8 +5165,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.okocim.pl/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             303 => 
             array (
@@ -5182,8 +5182,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.warka.com.pl/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             304 => 
             array (
@@ -5199,8 +5199,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.zywiec.com.pl/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             305 => 
             array (
@@ -5216,8 +5216,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             306 => 
             array (
@@ -5233,8 +5233,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.diningonmain.com/Brownings/Brownings_home.html',
                 'filepath' => '',
                 'descript' => 'In Browning\'s unique three-story brewing facility, Brew Master Brian Reymiller creates superior artisnal beers using only the best available grains and hops from England, Germany, and the Pacific Northwest.  Reymiller brings to each pint of beer years of experience brewing award winning beer for Hops! Brewery, Smoky Mountain Brewing Company, and Victory Brewing Company.  	 Executive Chef Jay Denham brings casual, Kentucky comfort-foods to the menu at Browning\'s. Jay\'s loves to use fresh and local ingredients for his inspiration of good old-fashioned home cooking. Growing up in Maysville, Ky. Jay learned to use the freshest and most wholesome ingredients while cooking for his family. His solid upbringing gave him a palate for great taste and is certainly eminent in his cuisine.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             307 => 
             array (
@@ -5250,8 +5250,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             308 => 
             array (
@@ -5267,8 +5267,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             309 => 
             array (
@@ -5284,8 +5284,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.bubesbrewery.com',
             'filepath' => '',
         'descript' => 'Bube\'s Brewery is located within the original brewery\'s icehouse. The mash/lauter tun and kettle have a 3.5 bbl capacity (approximately 110 gallons.) The brewers usually brew two consecutive batches to meet the capacity of the 10 bbl fermenters. In the brewery there are two 10 bbl fermenters and one 10 bbl conditioning tank for lagered beer.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         310 => 
         array (
@@ -5301,8 +5301,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         311 => 
         array (
@@ -5318,8 +5318,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         312 => 
         array (
@@ -5335,8 +5335,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         313 => 
         array (
@@ -5352,8 +5352,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         314 => 
         array (
@@ -5369,8 +5369,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.bullfrogbrewery.com',
             'filepath' => '',
             'descript' => 'The Bullfrog Brewery, located in downtown Williamsport, Pa, is an award-winning microbrewery / restaurant and has quickly grown into one of the largest attractions in Northcentral Pennsylvania. Established in August, 1996, our goal is to provide a pleasant atmosphere and the best in food and beer. The Bullfrog Brewery, in competition with thousands of craft-brewed beers from different breweries around the world, recently won a World Beer Cup Gold Medal and Silver Medal. Along with our award-winning brews we offer live entertainment, ranging from jazz to Celtic music and everything in between. So come on in, explore the site and then make plans to stop in and enjoy the best brewery in all of Northcentral Pennsylvania.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         315 => 
         array (
@@ -5386,8 +5386,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         316 => 
         array (
@@ -5403,8 +5403,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         317 => 
         array (
@@ -5420,8 +5420,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.burtonbridgebrewery.co.uk/Index.shtml',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         318 => 
         array (
@@ -5437,8 +5437,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         319 => 
         array (
@@ -5454,8 +5454,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         320 => 
         array (
@@ -5471,8 +5471,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.buzzardsbrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         321 => 
         array (
@@ -5488,8 +5488,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         322 => 
         array (
@@ -5505,8 +5505,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.evansale.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         323 => 
         array (
@@ -5522,8 +5522,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.calderabrewing.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         324 => 
         array (
@@ -5539,8 +5539,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         325 => 
         array (
@@ -5556,8 +5556,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         326 => 
         array (
@@ -5573,8 +5573,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         327 => 
         array (
@@ -5590,8 +5590,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         328 => 
         array (
@@ -5607,8 +5607,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.cambrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         329 => 
         array (
@@ -5624,8 +5624,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         330 => 
         array (
@@ -5641,8 +5641,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         331 => 
         array (
@@ -5658,8 +5658,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         332 => 
         array (
@@ -5675,8 +5675,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         333 => 
         array (
@@ -5692,8 +5692,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.capital-brewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         334 => 
         array (
@@ -5709,8 +5709,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.capcitybrew.com',
             'filepath' => '',
             'descript' => 'Washington DC\'s first brewpub since prohibition, Capitol City Brewing Co. opened its doors in 1992. Our first location still stands in Downtown DC, at 11th and H St., NW. Our company policy is to bring the fine craft of brewing to every person who lives and visits our region, as well as treating them to a wonderful meal and a great experience.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         335 => 
         array (
@@ -5726,8 +5726,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         336 => 
         array (
@@ -5743,8 +5743,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.captainlawrencebrewing.com/',
             'filepath' => '',
             'descript' => 'Captain Lawrence beers are craft brewed in Pleasantville New York. We offer tastings and tours on Fridays from 4pm to 7pm, and Saturdays from 12pm  6pm.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         337 => 
         array (
@@ -5760,8 +5760,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.carlowbrewing.com',
             'filepath' => '',
             'descript' => 'Carlow Brewing Company is a small Irish Brewery established in 1998.  Carlow, a small town located in the Barrow Valley Region, the traditional malt and hop producing region in Ireland, once boasted a number of breweries, but the practice had been discontinued for over 100 years until revived in 1998 by Carlow Brewing Company.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         338 => 
         array (
@@ -5777,8 +5777,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         339 => 
         array (
@@ -5794,8 +5794,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         340 => 
         array (
@@ -5811,8 +5811,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         341 => 
         array (
@@ -5828,8 +5828,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         342 => 
         array (
@@ -5845,8 +5845,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         343 => 
         array (
@@ -5862,8 +5862,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.carolinabeer.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         344 => 
         array (
@@ -5879,8 +5879,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         345 => 
         array (
@@ -5896,8 +5896,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.carverbrewing.com/_/home.htm',
             'filepath' => '',
             'descript' => 'Carver Brothers Bakery first opened on June 1, 1983, in Winter Park, Colorado. It started with Jim, Bill, Sara and Eleanor Carver. In 1986 Jim, Bill and Barb Wynne opened Carvers Bakery / Café in Durango and the Winter Park Bakery was sold.   In 1988 Carvers opened the brewery  making it the first brewery in the four corners region since prohibition. Although still known affectionately by the locals as Carvers, Carvers then became Carver Brewing Company.  Since then Carvers has seen many exciting changes: opening it\'s outdoor Beer Garden in 1994 and undergoing dramatic remodels in the restaurant and on the patio in \'98 and \'02. In April of \'07 it was deemed necessary to expand the brewery.  The brewery is now housed in the area previously occupied by the bakery.  After 20 years of serving Colorado\'s mountain folk, Carvers continues to provide the very best in food and beer.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         346 => 
         array (
@@ -5913,8 +5913,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         347 => 
         array (
@@ -5930,8 +5930,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         348 => 
         array (
@@ -5947,8 +5947,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         349 => 
         array (
@@ -5964,8 +5964,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         350 => 
         array (
@@ -5981,8 +5981,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         351 => 
         array (
@@ -5998,8 +5998,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.centralcitybrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         352 => 
         array (
@@ -6015,8 +6015,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.centralwaters.com/',
             'filepath' => '',
             'descript' => 'Brewing since 1998, Central Waters Brewing Company is built on the solid reputation of producing the finest quality beer in Central Wisconsin: Ouisconsing Red Ale, Happy Heron Pale Ale, Mudpuppy Porter, and many more.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         353 => 
         array (
@@ -6032,8 +6032,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         354 => 
         array (
@@ -6049,8 +6049,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ccm.com.mx/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         355 => 
         array (
@@ -6066,8 +6066,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         356 => 
         array (
@@ -6083,8 +6083,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         357 => 
         array (
@@ -6100,8 +6100,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         358 => 
         array (
@@ -6117,8 +6117,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         359 => 
         array (
@@ -6134,8 +6134,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         360 => 
         array (
@@ -6151,8 +6151,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.laconstancia.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         361 => 
         array (
@@ -6168,8 +6168,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         362 => 
         array (
@@ -6185,8 +6185,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         363 => 
         array (
@@ -6202,8 +6202,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.eisenbahn.com.br/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         364 => 
         array (
@@ -6219,8 +6219,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         365 => 
         array (
@@ -6236,8 +6236,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         366 => 
         array (
@@ -6253,8 +6253,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         367 => 
         array (
@@ -6270,8 +6270,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         368 => 
         array (
@@ -6287,8 +6287,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://chelseabrewingco.com/',
             'filepath' => '',
             'descript' => 'Chelsea Brewing Company, rated the best brewery in New York, is a first class waterfront restaurant and the only micro-brewery in Manhattan located at pier 59.With over 15 years of experience, and 8 National Awards, we are proud to serve up to 27 natural hand-crafted ales and specialty beers using only the finest malts and hops from around the world. We offer beer tastings, brewery tours and group packages.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         369 => 
         array (
@@ -6304,8 +6304,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         370 => 
         array (
@@ -6321,8 +6321,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         371 => 
         array (
@@ -6338,8 +6338,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         372 => 
         array (
@@ -6355,8 +6355,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.chimay.com',
             'filepath' => '',
             'descript' => 'Chimay is an authentic Trappist beer that is it is brewed within a Trappist monastery, under the control and responsibility of the monastic community. Only 6 beers in Belgium can carry the appellation Trappist: Chimay, Orval, Rochefort, Westmalle, Westvleteren and Achel.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         373 => 
         array (
@@ -6372,8 +6372,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://cigarcitybeer.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         374 => 
         array (
@@ -6389,8 +6389,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         375 => 
         array (
@@ -6406,8 +6406,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.citybrewery.com/',
             'filepath' => '',
             'descript' => 'City Brewing Company is a premier, state-of-the-art beverage production and packaging company located in La Crosse, WI.  Our facility has been transformed from a historical brewery into a facility capable of manufacturing and packaging beers, teas, soft drinks, energy drinks and other new age beverages.  Our packaging capacity of over 50 million cases makes us one of the largest beverage producers in the country.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         376 => 
         array (
@@ -6423,8 +6423,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         377 => 
         array (
@@ -6440,8 +6440,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         378 => 
         array (
@@ -6457,8 +6457,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.climaxbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         379 => 
         array (
@@ -6474,8 +6474,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ccbeer.com/',
             'filepath' => '',
             'descript' => 'At Clipper City our mission is to bring back the local brewery, and to do it in such a way that we are more than just a fringe player, but a positive part of our area. To accomplish this mission we have created a broad portfolio of products and brands with enough diversity that we have at least one beer that can appeal to everyone. Whether your preference is for a classic American style lager beer, or a big, challenging Hop Cubed Ale, we have a something that will suit your taste. Our goal is to brew beers for people who dare to walk up to the edge of the mountain and actually jump forward.  Our beers are for those who chart a bolder course.   Our brewery is named for the famed Clipper ship - first developed and built in our home port of Baltimore. The Clipper ship is the symbol for a strong nautical and maritime heritage with a commitment to craftsmanship of the highest caliber. It captures both the hardy nature of our working class history and the romance of what lies on the seas ahead. Why be normal when you can be EXTRAARGHdinary?  We believe in bringing beer drinkers the quality and flavor of a handcrafted beer while supporting the local communities we serve.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         380 => 
         array (
@@ -6491,8 +6491,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         381 => 
         array (
@@ -6508,8 +6508,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         382 => 
         array (
@@ -6525,8 +6525,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         383 => 
         array (
@@ -6542,8 +6542,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         384 => 
         array (
@@ -6559,8 +6559,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         385 => 
         array (
@@ -6576,8 +6576,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.cdabrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         386 => 
         array (
@@ -6593,8 +6593,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.coldspringbrewery.com/',
             'filepath' => '',
             'descript' => 'Cold Spring Brewery in Cold Spring is on the original Red River trail. Used by the pioneering trail blazers, trappers and settlers to replenish water supplies from the pure cold spring which the town is named today. The spring is one of the purest sources of water in North America.  The spring comes from an underground prehistoric glacial lake filtered through granite over hundreds of years. There are certain pure elements in the water that are absolutely perfect for brewing world class beers.  The brewery has been modernized and rebuilt over the past several years, and is now a state-of-the-art brewery and beverage product development and production facility.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         387 => 
         array (
@@ -6610,8 +6610,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         388 => 
         array (
@@ -6627,8 +6627,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         389 => 
         array (
@@ -6644,8 +6644,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         390 => 
         array (
@@ -6661,8 +6661,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.cooperscaveale.com/',
             'filepath' => '',
             'descript' => 'Cooper\'s Cave Ale Company, Ltd. Micro Brewery is the realized goal of three ale lovers, Ed, Pat and Adrian Bethel. A passion for great English style ales led us to commercially produce small quantities on a brewing system which we built. We gladly welcome visitors to our brewery and tasting room, and now we welcome you to learn more about Cooper\'s Cave Ale Company.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         391 => 
         array (
@@ -6678,8 +6678,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.coopers.com.au/',
             'filepath' => '',
             'descript' => 'Coopers Brewery produce a range of Ales,Stouts and Lagers.   Our ale range is brewed by a method of top fermentation, originating in the Middle Ages.  Coopers uses only natural ingredients including malt, hops, sugar, water and a special yeast strain that\'s over 90 years old.  Coopers do not use preservatives or chemicals in their ale range.   Coopers also produce Stout and Lager beers.  The Lager beers are bottom fermented in cooler conditions, matured for a short period and pasteurised.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         392 => 
         array (
@@ -6695,8 +6695,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.cooperstownbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         393 => 
         array (
@@ -6712,8 +6712,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.coors.com',
             'filepath' => '',
             'descript' => 'In 1873, as the United States approached its centennial year, its people were busy building a new kind of nation. It was thirsty work. And that\'s where Coors Brewing Company came in. When we began in that same year, we were a small, family-owned brewery, located at the foot of the Rocky Mountains. We were busy creating the same kind of crisp, refreshing beer we\'re known for today. While hundreds of such family-owned breweries have come and gone in the years since, we believe the reasons for our success are simple. We\'ve never compromised on quality in producing our award-winning brews and we\'ve never lost sight of our rich Rocky Mountain heritage. Just as important, we\'ve always believed in doing well by doing good. We treat our employees with respect, we support the local communities where we do business, and we strive to protect the environment. That\'s just how we do business.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         394 => 
         array (
@@ -6729,8 +6729,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         395 => 
         array (
@@ -6746,8 +6746,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         396 => 
         array (
@@ -6763,8 +6763,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ckbrewery.com/',
             'filepath' => '',
             'descript' => 'Copper Kettle Brewery is an up and coming brewery owned by Harold Kerlin and Russ Eisenhuth. We have been independently brewing beer for the past 6 years. In 2006 we won First place in the Sam Adams Longshot contest for the northeast region of the U.S. with our Potbelly Porter. After that we decided to start our own brewery. The Brewery is located in just outside of Laurelton PA. We are a small production brewery using a one barrel brewing system. We hope to produce around 50 barrels a year. At present we are making 4 different styles of beer. A Wheat beer, Porter, Grand Cru, and Belgian Dubbel. All of our beer is unfiltered, and bottle conditioned. Our beers are now available at the Bull Run Inn, Market St., Lewisburg, The Beer Barn, Lewisburg and Wehr\'s Beverages, Mifflinburg.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         397 => 
         array (
@@ -6780,8 +6780,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         398 => 
         array (
@@ -6797,8 +6797,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.coronadobrewingcompany.com/',
             'filepath' => '',
         'descript' => 'The Coronado Brewing Company, in beautiful Coronado (located just a few minutes from downtown San Diego) welcomes you to come and enjoy quality handcrafted beers and delicious food in a casual family environment. Join us for a refreshing pint while we make you one of our signature pizzas or calzones in the wood fired oven, or choose from a wide selection of fresh seafood, steaks, pastas and dining specials. The Coronado Brewing Company is perfect for a quick lunch, a relaxing beverage or a wonderful dinner. If you\'re a sports fan come relax with a cold beer and an appetizer while watching your favorite team on one of our many HD TV\'s. Open 7 days a week from 11:00 am (until closing) & offering a weekly happy hour (M-F) from (2-5pm).',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         399 => 
         array (
@@ -6814,8 +6814,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.newportstorm.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         400 => 
         array (
@@ -6831,8 +6831,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         401 => 
         array (
@@ -6848,8 +6848,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         402 => 
         array (
@@ -6865,8 +6865,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         403 => 
         array (
@@ -6882,8 +6882,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.crabbylarrys.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         404 => 
         array (
@@ -6899,8 +6899,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.crabtreebrewing.com',
             'filepath' => '',
             'descript' => 'The Crabtree Brewing Company is dedicated to serving the environment, the community, our customers, and our valued employees.  Requiring the best ingredients to support unique premium beers.  Keeping a dynamic business mind while remaining modestly profitable.   Employing technology, embracing ethics, growing to meet the needs of our customers and employees, and having fun doing what we love�.Making Great Beer.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         405 => 
         array (
@@ -6916,8 +6916,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         406 => 
         array (
@@ -6933,8 +6933,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         407 => 
         array (
@@ -6950,8 +6950,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         408 => 
         array (
@@ -6967,8 +6967,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         409 => 
         array (
@@ -6984,8 +6984,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.crickethillbrewery.com',
             'filepath' => '',
             'descript' => 'We believe that New Jersey is starting to learn what the rest of the country already knows; that local microbrews are some of the best beers in the world! Finally, curious beer drinkers are stepping out from under the mind-numbing barrage of large brewery advertising and deciding for themselves what they like. Our beers are designed for those curious drinkers. The large breweries use fillers in their beer; Corn or Rice are the most frequently used. Most good beer should be all Barley, in the same way that good hamburgers are all beef. Barley is expensive and the more fillers that are used, the better the profits! Cricket Hill Beers are 100% Barley as are most great beers. Please take the time to taste different local beers. I am certain that those who decide not to let television dictate what they drink are ready for a wonderful adventure into the world of Beer!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         410 => 
         array (
@@ -7001,8 +7001,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         411 => 
         array (
@@ -7018,8 +7018,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         412 => 
         array (
@@ -7035,8 +7035,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         413 => 
         array (
@@ -7052,8 +7052,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.cucapa.com/',
             'filepath' => '',
             'descript' => 'Craft beer, just across the border.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         414 => 
         array (
@@ -7069,8 +7069,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         415 => 
         array (
@@ -7086,8 +7086,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => 'Giving new meaning to the term microbrewery, Cumberland Brews may be one of the smallest eateries in town, with a half-dozen four-top tables and a short bar with nine stools making tight quarters of what used to be the White Mountain Creamery. (Techically, it\'s not a microbrewery but a brewpub - a restaurant that makes its own beer on the premises - but I\'m not one to quibble in the face of a good pun.) It\'s usually packed, too, earning its crowds the old-fashioned way by providing very good food, friendly service, and the sine qua non for a brewpub: extremely high-quality hand-crafted artisan beers. Hand-crafted offerings are produced by Head Brewer Cameron Finnis.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         416 => 
         array (
@@ -7103,8 +7103,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.gearybrewing.com',
             'filepath' => '',
             'descript' => 'The D.L. Geary Brewing Company was incorporated in October, 1983 by David and Karen Geary who shared the vision of producing world class products on a small scale for local and regional consumption. At that time, there were only 13 so-called microbreweries in the United States, almost all of them in California and the Pacific Northwest. In the winter of 1984, David Geary began a period of training and research in Scotland and England. With the help of Peter Maxwell Stuart, a Scottish nobleman and brewer who arranged introductions and itineraries, he worked in a half-dozen small commercial breweries from the highlands of Scotland to the south coast of England.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         417 => 
         array (
@@ -7120,8 +7120,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.daasbeer.com/',
             'filepath' => '',
             'descript' => 'Daas beers are organically brewed Belgium beer produced in Hainaut the famous Belgian province known for its fine hand crafted beers.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         418 => 
         array (
@@ -7137,8 +7137,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         419 => 
         array (
@@ -7154,8 +7154,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.darkhorsebrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         420 => 
         array (
@@ -7171,8 +7171,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         421 => 
         array (
@@ -7188,8 +7188,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.dedochtervandekorenaar.be',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         422 => 
         array (
@@ -7205,8 +7205,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         423 => 
         array (
@@ -7222,8 +7222,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.halvemaan.be/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         424 => 
         array (
@@ -7239,8 +7239,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         425 => 
         array (
@@ -7256,8 +7256,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         426 => 
         array (
@@ -7273,8 +7273,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.struisebrouwers.be/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         427 => 
         array (
@@ -7290,8 +7290,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         428 => 
         array (
@@ -7307,8 +7307,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         429 => 
         array (
@@ -7324,8 +7324,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         430 => 
         array (
@@ -7341,8 +7341,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         431 => 
         array (
@@ -7358,8 +7358,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         432 => 
         array (
@@ -7375,8 +7375,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         433 => 
         array (
@@ -7392,8 +7392,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         434 => 
         array (
@@ -7409,8 +7409,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.deschutesbrewery.com/',
             'filepath' => '',
         'descript' => 'Deschutes Brewery, located in Central Oregon along the banks of the wild and scenic Deschutes River, has brewed handcrafted traditional ales since 1988.  Starting out as a small brewpub in the heart of downtown Bend, Deschutes\' first beers were Black Butte Porter, Bachelor Bitter and Cascade Golden Ale. In 1993, Deschutes moved into its current brewing facility and has continued expanding and improving the facilities.  With a 50-barrel traditional gravity brew house and a new one-of-a-kind 131-barrel Huppmann brew system from Germany, Deschutes now creates and experiments with specialty batches of limited beers while brewing large quantities of everyone\'s favorites like Mirror Pond Pale Ale.  Consistently producing the highest quality beers is always Deschutes\' number one priority and commitment. The Deschutes Brewery & Public House continues brewing unique beers at our original location while serving the finest Northwest pub cuisine.  So when you find yourself in Bend, come on in and have a pint of Bachelor Bitter, the locals\' favorite, or any of our other original ales brewed on-site. Deschutes Brewery\'s distinct ales; Black Butte Porter, Mirror Pond Pale Ale, Obsidian Stout, Inversion IPA, Bachelor ESB, Cascade Ale, Buzzsaw Brown (winter), Cinder Cone Red (spring), Twilight Ale (summer), Jubelale (fall) and other seasonal beers are available at pubs and markets in a neighborhood near you. --http://www.deschutesbrewery.com/About+Us/default.aspx',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         435 => 
         array (
@@ -7426,8 +7426,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         436 => 
         array (
@@ -7443,8 +7443,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         437 => 
         array (
@@ -7460,8 +7460,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.diamondbear.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         438 => 
         array (
@@ -7477,8 +7477,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.diamondknot.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         439 => 
         array (
@@ -7494,8 +7494,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         440 => 
         array (
@@ -7511,8 +7511,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         441 => 
         array (
@@ -7528,8 +7528,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         442 => 
         array (
@@ -7545,8 +7545,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.dieuduciel.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         443 => 
         array (
@@ -7562,8 +7562,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         444 => 
         array (
@@ -7579,8 +7579,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         445 => 
         array (
@@ -7596,8 +7596,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         446 => 
         array (
@@ -7613,8 +7613,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         447 => 
         array (
@@ -7630,8 +7630,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         448 => 
         array (
@@ -7647,8 +7647,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         449 => 
         array (
@@ -7664,8 +7664,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.dockstreetbeer.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         450 => 
         array (
@@ -7681,8 +7681,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         451 => 
         array (
@@ -7698,8 +7698,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         452 => 
         array (
@@ -7715,8 +7715,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.dogfish.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         453 => 
         array (
@@ -7732,8 +7732,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         454 => 
         array (
@@ -7749,8 +7749,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         455 => 
         array (
@@ -7766,8 +7766,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.doublemountainbrewery.com/',
             'filepath' => '',
             'descript' => 'Matt Swihart and Charlie Devereux founded Double Mountain in 2007 with a clear mission: make great beer for craft beer fans. Ours is a brewers\' brewery, with an uncompromising focus on beer quality. From the beginning, our goal was to make beers that we liked to drink. All of our beers are served up unfiltered and long-aged, to deliver maximum flavor and character. The beers can be very complex and assertive, but with the ultimate goal of proper balance. We aim to satisfy both the hardcore aficionados and the more casual craft beer fan, all in the same glass.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         456 => 
         array (
@@ -7783,8 +7783,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         457 => 
         array (
@@ -7800,8 +7800,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://drinkdrakes.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         458 => 
         array (
@@ -7817,8 +7817,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         459 => 
         array (
@@ -7834,8 +7834,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         460 => 
         array (
@@ -7851,8 +7851,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         461 => 
         array (
@@ -7868,8 +7868,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         462 => 
         array (
@@ -7885,8 +7885,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.duckrabbitbrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         463 => 
         array (
@@ -7902,8 +7902,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.duclaw.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         464 => 
         array (
@@ -7919,8 +7919,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.dunedinbrewery.com',
             'filepath' => '',
             'descript' => 'From their webpage - Fermenting since 1996 and still going strong, we handcraft all of our ales for your enjoyment from our Piper\'s Pale Ale to our Apricot Wheat. Located on the west coast of Florida in the Scottish heritage town of Dunedin, Florida we work hard to produce quality ales for our thirsty friends all over Florida. With 9 ales brewed year round and 5 or more seasonal offerings throughout the year there is sure to be be an ale to fit your taste!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         465 => 
         array (
@@ -7936,8 +7936,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         466 => 
         array (
@@ -7953,8 +7953,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         467 => 
         array (
@@ -7970,8 +7970,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.thedux.co.nz/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         468 => 
         array (
@@ -7987,8 +7987,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         469 => 
         array (
@@ -8004,8 +8004,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.eastendbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         470 => 
         array (
@@ -8021,8 +8021,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.easternshorebrewing.com/',
             'filepath' => '',
             'descript' => 'Offering beers for every taste including: St. Michaels Blonde Ale, St. Michaels LT, Not So Pale Ale and seasonal beers...Ameri-Hefe & Ameri-Wheat. Stop by the tasting room and sample a few beers. We anticipate being open by Labor Day 2008.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         471 => 
         array (
@@ -8038,8 +8038,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         472 => 
         array (
@@ -8055,8 +8055,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         473 => 
         array (
@@ -8072,8 +8072,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.eder-heylands.de',
             'filepath' => '',
         'descript' => 'Eder & HeylandS is a privately owned brewery in the north-western part of Bavaria (about 50 km east of Frankfurt). The brewery was founded in 1872 and is ever since managed by the Eder\'s family.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         474 => 
         array (
@@ -8089,8 +8089,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://eelriverbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         475 => 
         array (
@@ -8106,8 +8106,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         476 => 
         array (
@@ -8123,8 +8123,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         477 => 
         array (
@@ -8140,8 +8140,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         478 => 
         array (
@@ -8157,8 +8157,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         479 => 
         array (
@@ -8174,8 +8174,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         480 => 
         array (
@@ -8191,8 +8191,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.eltorobrewing.com/',
             'filepath' => '',
         'descript' => 'Geno and Cindy Acevedo founded El Toro Brewing Company in the summer of 1992. After much planning, research and construction business was begun in March of 1994. The brewery is a small 17-barrel (527 gallon) batch system and operates on the Acevedo\'s rural residential property.  Within seven months of opening El Toro Brewing Company received its first national recognition at the 1994 Great American Beer Festival (GABF). One of its flagships El Toro Oro Golden Ale won a coveted Gold Medal for English Pale Ale. At the 1996 GABF Poppy Jasper Amber Ale, the brewery\'s other flagship beer, won a Silver Medal for English Brown Ale. It is a mild yet robust brown ale. The 1997 GABF saw El Toro garner another Gold Medal for the American styled wheat beer named after the brewer\'s father-in-law, William Jones Wheat Beer.  After 16 years of planning, Geno and Cindy Acevedo of Morgan Hill finally opened a brewpub on November 25 2006. El Toro Brewpub is a two floored building with patio. Inside is the world\'s only Poppy Jasper Bar. Featuring over 45 feet of gorgeously inlaid and polished Poppy Jasper rock into its surface. To the back of the large mirrored bar you will find over 25 beers and handcrafted sodas on tap. We also have a gleaming copper Pub Brewing system 3 BBL (100 gallon) brewery. Live music and dancing will also be a regular nighttime happening at the brewpub consisting of mostly local bands playing cover type and original Rock, Blues, Jazz and Reggae.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         481 => 
         array (
@@ -8208,8 +8208,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         482 => 
         array (
@@ -8225,8 +8225,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         483 => 
         array (
@@ -8242,8 +8242,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.elkcreekcafe.net/',
             'filepath' => '',
             'descript' => 'Head Brewer Tim Yarrington makes beers that people want to drink.  With over 12 years brewing experience under his belt, founding the brewery operations at Long Valley Pub & Brewery in New Jersey and resurrecting Time Square Brewery in Manhatten, Brewer Tim brings a good sense of what beers people enjoy drinking to Elk Creek Aleworks.  Winning Gold and Bronze medals for his Porter and Bitter at the prestigous Great American Beer Festival attests to the fact that his peers also think he makes great beer. Drawing inspiration primarily from traditional English ale brewing, Tim makes balanced beers, giving both malt and hops prominence in every pint.  In addition to our rotating selection of seasonal brews, we offer six outstanding House Standards year \'round.  Without doubt, there\'s a pint for you!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         484 => 
         array (
@@ -8259,8 +8259,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         485 => 
         array (
@@ -8276,8 +8276,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ellersickbrewing.com/',
             'filepath' => '',
             'descript' => 'Mission Statement: Dedicated to serving our clients on a personal level. We specialize in unusually cool dispensing methods.   To make sure your quality brew takes on an impressive experience.  Please view our product page for innovate systems and amazing Ales. Call today for a personal evaluation of your beer enhanced production, home remedy, or beer emergency!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         486 => 
         array (
@@ -8293,8 +8293,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ellicottmillsbrewing.com',
             'filepath' => '',
         'descript' => 'Here at the Mills we have a very simple, yet demanding approach to producing Alpenhof beer. We use the very best ingredients available. We are efficient and precise in production method, yet we allow the product to age to its full maturity. Balance is the key to our beer.  Alpenhof beer is not created to challenge the senses. It is not created to be a complex beer. Well balanced for Alpenhof means smooth and easy-drinking. The way a beer should taste.  To achieve this well balanced taste, only the finest ingredients are used. We import our malt, hops, and yeast from Germany. (For true German style Lager beer, authentic ingredients are essential!) We might spend more for our ingredients, but it is well worth it. This is an expense you can actually taste!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         487 => 
         array (
@@ -8310,8 +8310,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         488 => 
         array (
@@ -8327,8 +8327,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.elmcitybrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         489 => 
         array (
@@ -8344,8 +8344,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.elysianbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         490 => 
         array (
@@ -8361,8 +8361,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         491 => 
         array (
@@ -8378,8 +8378,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         492 => 
         array (
@@ -8395,8 +8395,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         493 => 
         array (
@@ -8412,8 +8412,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         494 => 
         array (
@@ -8429,8 +8429,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         495 => 
         array (
@@ -8446,8 +8446,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         496 => 
         array (
@@ -8463,8 +8463,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         497 => 
         array (
@@ -8480,8 +8480,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         498 => 
         array (
@@ -8497,8 +8497,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         499 => 
         array (
@@ -8514,8 +8514,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://epicbeer.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
     ));
         \DB::table('breweries')->insert(array (
@@ -8533,8 +8533,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.eriebrewingco.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             1 => 
             array (
@@ -8550,8 +8550,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.essersbest.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             2 => 
             array (
@@ -8567,8 +8567,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.epbrewery.net/',
                 'filepath' => '',
                 'descript' => 'The original Brewing equipment which consisted of a 4 1/4  Barrel Brewhouse was moved to Estes. For the first summer the Event Center kept the main floor as a stage and dance floor. For the first summer we offered four beers:  Estes Park Porter, Estes Park Renegade, Longs Peak Raspberry Wheat and Estes Park Pale Ale.  In the fall of 1994, Gordon Knight decided to sell his half of the business. When Gordon left, Eric Bratrud took over as the head Brewer. The Brewery also expanded to a 14 BBL Brewhouse and moved out onto the main floor where is now located. In 1995 we started packaging our beers in 12 oz bottles, which expanded our market. By this time we had added a number of beers including Trail Ridge Red, Estes Park Gold, Stinger Wild Honey Wheat and Samson Stout. 1995 was also the first year of the Best of the West Brewfest held in the Brewery parking lot. Since \'95 we\'ve continued to evolve both in our restaurant and with our brewing operations. In 2003 Tyler Lemirande and Eric Bratrud took over as owners.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             3 => 
             array (
@@ -8584,8 +8584,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             4 => 
             array (
@@ -8601,8 +8601,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             5 => 
             array (
@@ -8618,8 +8618,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.saranac.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             6 => 
             array (
@@ -8635,8 +8635,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             7 => 
             array (
@@ -8652,8 +8652,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fauerbachbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             8 => 
             array (
@@ -8669,8 +8669,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             9 => 
             array (
@@ -8686,8 +8686,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             10 => 
             array (
@@ -8703,8 +8703,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             11 => 
             array (
@@ -8720,8 +8720,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.feldschloesschen.de',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             12 => 
             array (
@@ -8737,8 +8737,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             13 => 
             array (
@@ -8754,8 +8754,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fiftyfiftybrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             14 => 
             array (
@@ -8771,8 +8771,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             15 => 
             array (
@@ -8788,8 +8788,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             16 => 
             array (
@@ -8805,8 +8805,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             17 => 
             array (
@@ -8822,8 +8822,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.firestonewalker.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             18 => 
             array (
@@ -8839,8 +8839,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             19 => 
             array (
@@ -8856,8 +8856,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fishbrewing.com/',
                 'filepath' => '',
                 'descript' => 'From our home in beautiful Olympia, Washington, Fish Brewing Company has been hand-crafting ales of Northwest proportions since 1993. Then, using a system cobbled from brewing and dairy equipment, we brewed for our neighbors up and down Puget Sound. Growing steadily since, Fish is now an award-winning craft brewer with distribution throughout the Pacific Northwest and beyond.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             20 => 
             array (
@@ -8873,8 +8873,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             21 => 
             array (
@@ -8890,8 +8890,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             22 => 
             array (
@@ -8907,8 +8907,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             23 => 
             array (
@@ -8924,8 +8924,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.flatbranch.com',
                 'filepath' => '',
                 'descript' => 'From great seasonal beers like an imperial stout, pumkin ale, or maibock to all-year ales, lagers, and stouts, this micro-brewery has it all!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             24 => 
             array (
@@ -8941,8 +8941,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://flatearthbrewing.com/',
                 'filepath' => '',
                 'descript' => 'After years of careful planning  and mortgaging everything  the Flat Earth Brewing Company was brought to life in 2007 by head brewer Jeff Williamson and his wife Cathie. In search of a calmer life and an even better beer, Jeff turned his passion for brewing into a career. After a temporary stint at Northern Brewer and a job as an assistant brewer at Minneapolis Town Hall Brewery, Flat Earth opened in Saint Paul and set out to create beers not normally found in the upper Midwest. Flat Earth\'s distinctive brews are often inspired by the couple\'s travels and time spent in conversation with family and friends. The company\'s brewing on the edge philosophy is reflected in its stylish interpretation of traditional brewing assumptions. Today, Flat Earth Brewing produces a variety of artisan ales and lagers every month. As the beers roll out of the brewery, you\'re sure to see a theme develop around their names  a hint of conspiracy, perhaps. The names are meant to get people thinking and talking. Whether you enjoy Flat Earth beers at home or out with friends, there are no secrets when it comes to good beer.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             25 => 
             array (
@@ -8958,8 +8958,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             26 => 
             array (
@@ -8975,8 +8975,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.flens.co.uk/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             27 => 
             array (
@@ -8992,8 +8992,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.floridabeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             28 => 
             array (
@@ -9009,8 +9009,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             29 => 
             array (
@@ -9026,8 +9026,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             30 => 
             array (
@@ -9043,8 +9043,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.eatatflyers.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             31 => 
             array (
@@ -9060,8 +9060,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.flyingbisonbrewing.com',
                 'filepath' => '',
                 'descript' => 'For more than 800 years, brewing beer has been regulated by laws in Germany. A long tradition that all the German brewers still obey to: In 1165 the first fine for serving bad beer was imposed in Augsburg. From 1487 onwards every brewer in Munich had to confirm on an oath to the ducal Rentmeister of Upper Bavaria, stating that he would not use any ingredients but barley, hops, and water to brew beer. Originally, this oath was valid in Munich only. In 1987 it was renewed by the Munich brewers.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             32 => 
             array (
@@ -9077,8 +9077,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.flyingdogales.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             33 => 
             array (
@@ -9094,8 +9094,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.flyingfish.com/',
                 'filepath' => '',
             'descript' => 'When Gene Muller founded Flying Fish Brewing Co. in 1995, he did so first on the World Wide Web - making it the world\'s first virtual microbrewery. That early Web site helped generate positive press coverage and helped attract the investors needed to make the virtual brewery a real one. Muller said the idea was to make the Web site This Old House meets the World Wide Web�letting people go behind the taps and see the thousands of details needed to put a microbrewery together.  He also wanted to give beer lovers a chance, via their computers, to roll up their cyber-sleeves and help build the brewery. The site let beer lovers help select and name beers, design t-shirts and labels, volunteer to be a taste-tester and even apply for a job as a brewer. Visitors to the Web site can sign up for FlyingFishMail a monthly e-mail newsletter which now boasts more than 12,000 subscribers. Muller, who got into the brewing field to become a brewer, trained at Chicago\'s Siebel Institute of Technology, America\'s oldest brewing school. He quickly realized someone was going to have to run the day-to-day business of the brewery and now serves as President and Head Janitor (though not necessarily in that order). Flying Fish Brewing Company is located in Cherry Hill, New Jersey, approximately seven miles east of Philadelphia. In a state that once boasted 50 breweries, it is the first microbrewery in Southern New Jersey and the first new brewery built in that part of the state in more than half a century. From its opening in late 1996, Flying Fish has tripled its capacity and become the largest of the approximately 20 craft breweries in the state. Head brewer Casey Hughes now produces four full-time styles, as well as a variety of seasonal beers.   The key word to describe all Flying Fish beers is balance. The beers are full-flavored, yet highly drinkable. Flavors harmonize, not fight for individual attention. Hopping is generous, but to style. Seeing beer as equal to, if not superior to, wine, Flying Fish beers are designed to complement food. Because of this effort, one can walk into any fine restaurant in the Philadelphia region and be pretty sure of finding a Flying Fish beer available. Flying Fish beers were the first in the region to be featured at the Great British Beer Festival, Oregon Brewers Festival and Canada\'s Biere de Mondial Festival. They have also won several medals at the Real Ale Festival in Chicago, the World Beer Championships and is the only New Jersey brewery featured in the 2000 book Best American Beers.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             34 => 
             array (
@@ -9111,8 +9111,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             35 => 
             array (
@@ -9128,8 +9128,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.foothillsbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             36 => 
             array (
@@ -9145,8 +9145,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ramsheadtavern.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             37 => 
             array (
@@ -9162,8 +9162,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fortcollinsbrewery.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             38 => 
             array (
@@ -9179,8 +9179,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fostersbeer.com/',
                 'filepath' => '',
                 'descript' => 'Foster\'s Lager is the largest selling Australian beer brand in the world with more than 100 million cases of Foster\'s consumed worldwide every year. Brewed in nine countries and over 20 plants, Foster\'s Lager is widely sold and distributed throughout Australia, Asia, the Pacific, Europe, the Americas and the Middle East. It is the world\'s third most widely distributed brand, available in more than 150 countries. Foster\'s Lager is the international flagship brand for the Foster\'s group. -http://www.fosters.com.au/enjoy/beer/fosters_the_brand.htm',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             39 => 
             array (
@@ -9196,8 +9196,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             40 => 
             array (
@@ -9213,8 +9213,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             41 => 
             array (
@@ -9230,8 +9230,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.foundersbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Founders Brewing Company, founded by Mike Stevens and Dave Engbers produced its first beer in November of 1997. Built out of a dream and a passion for home brewing, what started out as a hobby quickly became a thriving business.  As the years have passed, Founders has built its brewery on the exploration of recipe development and brewing techniques. We are not the standard micro-brewery, rather we have traveled a path that breaks from the standard craft-brewer. Carving a niche out of the craft industry, Founders Brewing Company has built its reputation on producing very unique beers. Our focus is to offer our wholesalers, retailers and consumers a product that stands alone on the shelf and offers a true drinking experience to our friends, the consumer.  As the years have passed, Founders has built its brewery on the exploration of recipe development and brewing techniques. We are not the standard micro-brewery, rather we have traveled a path that breaks from the standard craft-brewer. Carving a niche out of the craft industry, Founders Brewing Company has built its reputation on producing very unique beers. Our focus is to offer our wholesalers, retailers and consumers a product that stands alone on the shelf and offers a true drinking experience to our friends, the consumer.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             42 => 
             array (
@@ -9247,8 +9247,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             43 => 
             array (
@@ -9264,8 +9264,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fourpeaks.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             44 => 
             array (
@@ -9281,8 +9281,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             45 => 
             array (
@@ -9298,8 +9298,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             46 => 
             array (
@@ -9315,8 +9315,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             47 => 
             array (
@@ -9332,8 +9332,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             48 => 
             array (
@@ -9349,8 +9349,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://freestatebrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             49 => 
             array (
@@ -9366,8 +9366,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             50 => 
             array (
@@ -9383,8 +9383,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             51 => 
             array (
@@ -9400,8 +9400,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             52 => 
             array (
@@ -9417,8 +9417,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             53 => 
             array (
@@ -9434,8 +9434,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             54 => 
             array (
@@ -9451,8 +9451,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             55 => 
             array (
@@ -9468,8 +9468,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.fullers.co.uk/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             56 => 
             array (
@@ -9485,8 +9485,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             57 => 
             array (
@@ -9502,8 +9502,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             58 => 
             array (
@@ -9519,8 +9519,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             59 => 
             array (
@@ -9536,8 +9536,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             60 => 
             array (
@@ -9553,8 +9553,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             61 => 
             array (
@@ -9570,8 +9570,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             62 => 
             array (
@@ -9587,8 +9587,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             63 => 
             array (
@@ -9604,8 +9604,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             64 => 
             array (
@@ -9621,8 +9621,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             65 => 
             array (
@@ -9638,8 +9638,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             66 => 
             array (
@@ -9655,8 +9655,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             67 => 
             array (
@@ -9672,8 +9672,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.glacierbrewhouse.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             68 => 
             array (
@@ -9689,8 +9689,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             69 => 
             array (
@@ -9706,8 +9706,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             70 => 
             array (
@@ -9723,8 +9723,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             71 => 
             array (
@@ -9740,8 +9740,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             72 => 
             array (
@@ -9757,8 +9757,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             73 => 
             array (
@@ -9774,8 +9774,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             74 => 
             array (
@@ -9791,8 +9791,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             75 => 
             array (
@@ -9808,8 +9808,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             76 => 
             array (
@@ -9825,8 +9825,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.goldenvalleybrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             77 => 
             array (
@@ -9842,8 +9842,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             78 => 
             array (
@@ -9859,8 +9859,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             79 => 
             array (
@@ -9876,8 +9876,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://holymackerelbeers.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             80 => 
             array (
@@ -9893,8 +9893,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.gordonbiersch.com/brewery',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             81 => 
             array (
@@ -9910,8 +9910,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             82 => 
             array (
@@ -9927,8 +9927,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             83 => 
             array (
@@ -9944,8 +9944,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             84 => 
             array (
@@ -9961,8 +9961,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             85 => 
             array (
@@ -9978,8 +9978,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             86 => 
             array (
@@ -9995,8 +9995,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.grandtetonbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             87 => 
             array (
@@ -10012,8 +10012,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             88 => 
             array (
@@ -10029,8 +10029,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             89 => 
             array (
@@ -10046,8 +10046,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             90 => 
             array (
@@ -10063,8 +10063,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             91 => 
             array (
@@ -10080,8 +10080,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             92 => 
             array (
@@ -10097,8 +10097,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://greatbasinbrewingco.com',
                 'filepath' => '',
                 'descript' => 'Great Basin Brewing Co. makes fresh hand-crafted beer right before your eyes using the finest American & European grains, hops & yeast. The rugged beauty and free spirit of this region have inspired the creation of the brewery and the beers that you enjoy. We invite you to celebrate our heritage with us.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             93 => 
             array (
@@ -10114,8 +10114,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             94 => 
             array (
@@ -10131,8 +10131,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             95 => 
             array (
@@ -10148,8 +10148,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             96 => 
             array (
@@ -10165,8 +10165,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.greatdivide.com/',
                 'filepath' => '',
             'descript' => 'Since 1994, Great Divide has brewed the most balanced yet assertive and flavorful beers possible.  This commitment has not gone unrewarded  Great Divide has racked up 12 Great American Beer Festival Medals and four World Beer Cup awards, and was recently honored as the 23rd Best Brewer in the World in Ratebeer.com\'s World\'s Top 100 Brewers, (2007). See for yourself what the excitement is about  and then introduce your friends to the new frontier of beer. --http://www.greatdivide.com',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             97 => 
             array (
@@ -10182,8 +10182,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.greatlakesbrewing.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             98 => 
             array (
@@ -10199,8 +10199,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             99 => 
             array (
@@ -10216,8 +10216,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             100 => 
             array (
@@ -10233,8 +10233,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             101 => 
             array (
@@ -10250,8 +10250,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.greenflashbrew.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             102 => 
             array (
@@ -10267,8 +10267,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             103 => 
             array (
@@ -10284,8 +10284,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.gmbeverage.com/',
                 'filepath' => '',
             'descript' => 'Green Mountain Beverage is nestled in a valley near the historic Green Mountains in Middlebury, Vermont. This is where we operate our Green Mountain Cidery (our own word we created from a derivative of brewery) and we have become the number one producer of premium alcoholic draft ciders in the U.S. Throughout these pristine areas of the Green Mountains, people are committed to preserving nature\'s beauty and still today carry on the long standing tradition of taking pride in their work and the products they create which are truly special. Here at Green Mountain Beverage, we also carry on these traditions. Our ciders are a unique combination of nature\'s best ingredients, our skills, commitment and pride in our work.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             104 => 
             array (
@@ -10301,8 +10301,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             105 => 
             array (
@@ -10318,8 +10318,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             106 => 
             array (
@@ -10335,8 +10335,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             107 => 
             array (
@@ -10352,8 +10352,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             108 => 
             array (
@@ -10369,8 +10369,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.grolsch.com',
                 'filepath' => '',
                 'descript' => 'Royal Grolsch B.V. is one of the largest breweries in the Netherlands. It is best known for its \'beugel\' bottle design.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             109 => 
             array (
@@ -10386,8 +10386,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             110 => 
             array (
@@ -10403,8 +10403,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.gmodelo.com.mx/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             111 => 
             array (
@@ -10420,8 +10420,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             112 => 
             array (
@@ -10437,8 +10437,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             113 => 
             array (
@@ -10454,8 +10454,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             114 => 
             array (
@@ -10471,8 +10471,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             115 => 
             array (
@@ -10488,8 +10488,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             116 => 
             array (
@@ -10505,8 +10505,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             117 => 
             array (
@@ -10522,8 +10522,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             118 => 
             array (
@@ -10539,8 +10539,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             119 => 
             array (
@@ -10556,8 +10556,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             120 => 
             array (
@@ -10573,8 +10573,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             121 => 
             array (
@@ -10590,8 +10590,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             122 => 
             array (
@@ -10607,8 +10607,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             123 => 
             array (
@@ -10624,8 +10624,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             124 => 
             array (
@@ -10641,8 +10641,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             125 => 
             array (
@@ -10658,8 +10658,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://harmon.harmonbrewingco.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             126 => 
             array (
@@ -10675,8 +10675,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.harpoonbrewery.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             127 => 
             array (
@@ -10692,8 +10692,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.harpoonbrewery.com/',
                 'filepath' => '',
                 'descript' => 'We started the Harpoon Brewery in 1986 because, like today, we loved beer and wanted more good choices.  While traveling in Europe after college, we drank many wonderfully diverse, fresh, local beers.  We also saw firsthand how important local breweries were to their communities.  After our travels, we asked each other, why not bring great beer and that sense of community to New England?  That was the genesis of the Harpoon Brewery.  Twenty years later we still revel in making great beer and sharing that joy with our friends and neighbors.  The success that we have had running Harpoon is due entirely to the wonderful employees who brew, package, warehouse, sell, deliver, and market our beer and you, the people who drink Harpoon.  We hope that our sense of gratitude is reflected in both the quality of the beer and the spirit of fun and enjoyment surrounding our beer and breweries.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             128 => 
             array (
@@ -10709,8 +10709,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             129 => 
             array (
@@ -10726,8 +10726,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             130 => 
             array (
@@ -10743,8 +10743,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             131 => 
             array (
@@ -10760,8 +10760,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             132 => 
             array (
@@ -10777,8 +10777,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             133 => 
             array (
@@ -10794,8 +10794,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             134 => 
             array (
@@ -10811,8 +10811,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             135 => 
             array (
@@ -10828,8 +10828,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.heartlandbrewery.com/',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             136 => 
             array (
@@ -10845,8 +10845,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             137 => 
             array (
@@ -10862,8 +10862,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Closed in 1996.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             138 => 
             array (
@@ -10879,8 +10879,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.heinekenhungaria.hu/',
                 'filepath' => '',
                 'descript' => 'Known before Soproni Sörgyár',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             139 => 
             array (
@@ -10896,8 +10896,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.heineken.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             140 => 
             array (
@@ -10913,8 +10913,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             141 => 
             array (
@@ -10930,8 +10930,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             142 => 
             array (
@@ -10947,8 +10947,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             143 => 
             array (
@@ -10964,8 +10964,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             144 => 
             array (
@@ -10981,8 +10981,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             145 => 
             array (
@@ -10998,8 +10998,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             146 => 
             array (
@@ -11015,8 +11015,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             147 => 
             array (
@@ -11032,8 +11032,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.highdesertbrewingco.com/',
                 'filepath' => '',
                 'descript' => 'After years of recipe development, remodeling, and parking lot paving, the High Desert Brewing Co. opened it\'s doors in July of 1997 and has quickly become one of New Mexico\'s premier brewpubs. Our selection of hand crafted lagers and ales are produced on premises using the finest grains and hops. We brew small batches of about 100 gallons, ensuring that each beer is served at the peak of freshness. Our brews are available by the glass, pint, or pitcher and to-go in 1/2 gallon growlers and 5 gallon kegs. We make every attempt to keep all of our beers on tap at all times but once in a while one or two may not be available for a few days. These times are the perfect opportunity to stretch your taste and try something other than your favorite. Please let Bob or Donna, or any of the High Desert Brewing Co. staff know how you think we are doing.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             148 => 
             array (
@@ -11049,8 +11049,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             149 => 
             array (
@@ -11066,8 +11066,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ramsteinbeer.com/',
                 'filepath' => '',
                 'descript' => 'Founded in 1994, the High Point Brewing Company is the first exclusive wheat beer brewery in America. The founder and driving force of High Point is award-winning homebrewer, Greg Zaccardi. After working as a brewer in southern Germany, Greg returned to the US to open his brewery. His Ramstein beers are made with the same care and precision he learned in Germany. In fact, the wheat, barley, hops and yeast used in Ramstein are all imported directly from Bavaria.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             150 => 
             array (
@@ -11083,8 +11083,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.highlandbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Nestled in the Blue Ridge Mountains in Asheville, North Carolina, Highland Brewing Company brews the finest and freshest ales in the Southeast.  For more than a decade, we have produced an impressive array of ales, from the best-selling Gaelic to our popular winter seasonal, Cold Mountain Ale.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             151 => 
             array (
@@ -11100,8 +11100,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             152 => 
             array (
@@ -11117,8 +11117,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Hite Brewery Company Limited is a South Korean brewery company headquartered in Yeongdeungpo-gu, Seoul. Its main products are beer, rice wine, and mineral water. The company was established as Chosun Breweries in 1933. In 2001 the company had three factories, and in 2002 its share of the domestic beer market was some 55%, up from 30% in 1992.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             153 => 
             array (
@@ -11134,8 +11134,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             154 => 
             array (
@@ -11151,8 +11151,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             155 => 
             array (
@@ -11168,8 +11168,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             156 => 
             array (
@@ -11185,8 +11185,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             157 => 
             array (
@@ -11202,8 +11202,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             158 => 
             array (
@@ -11219,8 +11219,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             159 => 
             array (
@@ -11236,8 +11236,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             160 => 
             array (
@@ -11253,8 +11253,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             161 => 
             array (
@@ -11270,8 +11270,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hookandladderbeer.com',
                 'filepath' => '',
             'descript' => 'At Hook & Ladder Brewing we believe in great beer in the company of good friends, so we bring you three great beers for your drinking pleasure (please drink responsibly). Each of our beers is carefully crafted with the finest quality ingredients for a distinctive taste we know you will enjoy. Try one tonight, you just might get hooked. Through our own experiences in the fire and rescue service we have chosen the Hook & Ladder as a symbol of pride and honor to pay tribute to the brave men and women who serve and protect our communities.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             162 => 
             array (
@@ -11287,8 +11287,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             163 => 
             array (
@@ -11304,8 +11304,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             164 => 
             array (
@@ -11321,8 +11321,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             165 => 
             array (
@@ -11338,8 +11338,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hoppinfrog.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             166 => 
             array (
@@ -11355,8 +11355,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hoppy.com',
                 'filepath' => '',
             'descript' => 'Currently, our company is growing our full service brewpub here in Sacramento, while at the same time self-distributing our products to retailers in the Sacramento area. We are brewing all of our products here in Sacramento and have 10 products on tap here at the brewpub. In addition, our current California distribution network consists of just one hard working distributor: A & D Distributing. We utilize this established distributor in their selected market to sell principally to the packaged/bottle market through authorized retail outlets, and the on-premises draft market through establishments licensed to serve alcoholic beverages. Our core products (i.e., Hoppy Face, Liquid Sunshine and Total Eclipse) are currently available in draft and 22 ounce bottles, and only available in the Sacramento and San Jose areas, but that will likely change as we continue to expand this year.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             167 => 
             array (
@@ -11372,8 +11372,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             168 => 
             array (
@@ -11389,8 +11389,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             169 => 
             array (
@@ -11406,8 +11406,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             170 => 
             array (
@@ -11423,8 +11423,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://hopworksbeer.com/',
                 'filepath' => '',
                 'descript' => 'HUB is Portland\'s first Eco-Brewpub to offer all organic handcrafted beers, fresh local ingredients, and a sustainable building with a relaxed and casual atmosphere. Brewmaster Christian Ettinger has spent the past year and half constructing his dream brewpub.  HUB incorporates all aspects of sustainability.  From composting to rain barrels, and from pervious pavers to hand dryers, we have made every effort to protect our future with a thoughtful alternative.  Hopworks has four distinct areas including a family friendly restaurant with play area, a vibrant bicycle bar, banquet mezzanine, and outdoor beer-garden.  Our 20 barrel brewery produces 3000 barrels a year and provides our restaurant with ten different HUB organic beers on tap and two cask ales at all times. We have parking for seventy cars, eight motorcycles and up to fifty bikes.  Our world-class beer, New York style pizza, and wonderful staff are some of the best you will find anywhere.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             171 => 
             array (
@@ -11440,8 +11440,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             172 => 
             array (
@@ -11457,8 +11457,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             173 => 
             array (
@@ -11474,8 +11474,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             174 => 
             array (
@@ -11491,8 +11491,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             175 => 
             array (
@@ -11508,8 +11508,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             176 => 
             array (
@@ -11525,8 +11525,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             177 => 
             array (
@@ -11542,8 +11542,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.humboldtbrews.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             178 => 
             array (
@@ -11559,8 +11559,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             179 => 
             array (
@@ -11576,8 +11576,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             180 => 
             array (
@@ -11593,8 +11593,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             181 => 
             array (
@@ -11610,8 +11610,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.inbev.com',
                 'filepath' => '',
                 'descript' => 'In a few words InBev is the world\'s leading brewer, realizing 14.4 billion euro in 2007. The company has a strong, balanced portfolio, holding the number one or number two position in over 20 key markets  more than any other brewer. It has a key presence in both developed and developing markets. Headquartered in Leuven, Belgium, InBev employs almost 89 000 people worldwide. With sales in over 130 countries, the company works through six operational zones: North America, Western Europe, Central and Eastern Europe, Asia Pacific, Latin America North, and Latin America South.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             182 => 
             array (
@@ -11627,8 +11627,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.independencebrewpub.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             183 => 
             array (
@@ -11644,8 +11644,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.independencebrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             184 => 
             array (
@@ -11661,8 +11661,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             185 => 
             array (
@@ -11678,8 +11678,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             186 => 
             array (
@@ -11695,8 +11695,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             187 => 
             array (
@@ -11712,8 +11712,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             188 => 
             array (
@@ -11729,8 +11729,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             189 => 
             array (
@@ -11746,8 +11746,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ironcitybrewingcompany.com/Default.aspx',
                 'filepath' => '',
                 'descript' => 'Iron City Brewing Company is Pittsburgh born and brewed. We\'ve been a Pittsburgh tradition since 1861. That was the year a German immigrant by the name of Edward Frauenheim founded Iron City Brewery and began a legacy of producing quality beers and lagers in the city of Pittsburgh. Today, the new Iron City Brewing Company is poised to carry on a tradition that is synonymous with pride, innovation and the Western Pennsylvania region. The new Iron City Brewing Company is committed to its employees, its customers, and the community. We have an experienced team with deep resources that is dedicated to making Iron City Brewing Company a successful brewery that the region can be proud to call its own.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             190 => 
             array (
@@ -11763,8 +11763,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             191 => 
             array (
@@ -11780,8 +11780,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ironhillbrewery.com/',
                 'filepath' => '',
                 'descript' => 'We\'re passionate about producing distinctive, full-flavored handcrafted beers, accompanied by freshfromscratch New American cuisine in a comfortable, casual atmosphere. Our goal has always been to provide food and beer that is inspired, consistently crafted and presented by a knowledgeable and courteous service staff.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             192 => 
             array (
@@ -11797,8 +11797,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             193 => 
             array (
@@ -11814,8 +11814,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             194 => 
             array (
@@ -11831,8 +11831,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             195 => 
             array (
@@ -11848,8 +11848,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             196 => 
             array (
@@ -11865,8 +11865,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             197 => 
             array (
@@ -11882,8 +11882,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             198 => 
             array (
@@ -11899,8 +11899,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             199 => 
             array (
@@ -11916,8 +11916,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.leinie.com/welcome.html',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             200 => 
             array (
@@ -11933,8 +11933,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             201 => 
             array (
@@ -11950,8 +11950,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             202 => 
             array (
@@ -11967,8 +11967,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             203 => 
             array (
@@ -11984,8 +11984,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             204 => 
             array (
@@ -12001,8 +12001,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.jenningsbrewery.co.uk/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             205 => 
             array (
@@ -12018,8 +12018,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.jever.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             206 => 
             array (
@@ -12035,8 +12035,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             207 => 
             array (
@@ -12052,8 +12052,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             208 => 
             array (
@@ -12069,8 +12069,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             209 => 
             array (
@@ -12086,8 +12086,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.joboysbrewpub.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             210 => 
             array (
@@ -12103,8 +12103,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             211 => 
             array (
@@ -12120,8 +12120,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             212 => 
             array (
@@ -12137,8 +12137,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             213 => 
             array (
@@ -12154,8 +12154,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.anthonymartin.be/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             214 => 
             array (
@@ -12171,8 +12171,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.jollypumpkin.com',
                 'filepath' => '',
                 'descript' => 'Welcome to a land of open fermentation, oak barrel aging, and bottle conditioning. At Jolly Pumpkin Artisan Ales we are dedicated to more than the traditions of old world craftsmanship. Everything we do is designed to create ales of outstanding art and flavor. Focusing on traditional rustic country style beers brought to life through labor and love, we strive to create beers to lighten the spirit, and soothe the soul. Sharing our joy to the betterment of mankind is the most that we could hope for.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             215 => 
             array (
@@ -12188,8 +12188,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             216 => 
             array (
@@ -12205,8 +12205,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             217 => 
             array (
@@ -12222,8 +12222,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             218 => 
             array (
@@ -12239,8 +12239,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             219 => 
             array (
@@ -12256,8 +12256,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             220 => 
             array (
@@ -12273,8 +12273,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             221 => 
             array (
@@ -12290,8 +12290,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             222 => 
             array (
@@ -12307,8 +12307,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             223 => 
             array (
@@ -12324,8 +12324,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             224 => 
             array (
@@ -12341,8 +12341,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             225 => 
             array (
@@ -12358,8 +12358,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             226 => 
             array (
@@ -12375,8 +12375,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             227 => 
             array (
@@ -12392,8 +12392,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             228 => 
             array (
@@ -12409,8 +12409,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             229 => 
             array (
@@ -12426,8 +12426,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             230 => 
             array (
@@ -12443,8 +12443,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             231 => 
             array (
@@ -12460,8 +12460,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             232 => 
             array (
@@ -12477,8 +12477,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.kirin.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             233 => 
             array (
@@ -12494,8 +12494,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             234 => 
             array (
@@ -12511,8 +12511,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             235 => 
             array (
@@ -12528,8 +12528,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             236 => 
             array (
@@ -12545,8 +12545,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.weltenburger.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             237 => 
             array (
@@ -12562,8 +12562,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             238 => 
             array (
@@ -12579,8 +12579,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             239 => 
             array (
@@ -12596,8 +12596,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             240 => 
             array (
@@ -12613,8 +12613,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             241 => 
             array (
@@ -12630,8 +12630,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             242 => 
             array (
@@ -12647,8 +12647,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.konabrewingco.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             243 => 
             array (
@@ -12664,8 +12664,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             244 => 
             array (
@@ -12681,8 +12681,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.krusovice.cz/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             245 => 
             array (
@@ -12698,8 +12698,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             246 => 
             array (
@@ -12715,8 +12715,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             247 => 
             array (
@@ -12732,8 +12732,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.kbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             248 => 
             array (
@@ -12749,8 +12749,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             249 => 
             array (
@@ -12766,8 +12766,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             250 => 
             array (
@@ -12783,8 +12783,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             251 => 
             array (
@@ -12800,8 +12800,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             252 => 
             array (
@@ -12817,8 +12817,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             253 => 
             array (
@@ -12834,8 +12834,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             254 => 
             array (
@@ -12851,8 +12851,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.insidelaconner.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             255 => 
             array (
@@ -12868,8 +12868,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             256 => 
             array (
@@ -12885,8 +12885,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lagunitas.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             257 => 
             array (
@@ -12902,8 +12902,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             258 => 
             array (
@@ -12919,8 +12919,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ubuale.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             259 => 
             array (
@@ -12936,8 +12936,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             260 => 
             array (
@@ -12953,8 +12953,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lakefrontbrewery.com/index.html',
                 'filepath' => '',
                 'descript' => 'Started in 1987, the microbrewery located on the Milwaukee River has become a Milwaukee landmark.  Its rich history includes partnerships with local taverns, preservation of local historical pieces, unique tours, family style dining options and most importantly, great beer. President Russ Klisch said it all started with his brother, Jim.  Jim expressed interest in beer making near his birthday and Russ humored him by purchasing him a book on the subject.  Jim read the book and brewed the beer.  Although not known, according to Russ, as a gourmet cook, Jim made a good beer.  Russ was impressed and decided he could do it better.  In short, sibling competitiveness and common interest lead both to entering contests in beer making.  They both received awards, and family and friends encouraged them to start the business. Their family had roots in the beer industry as well.  Their grandfather worked for Schlitz driving a street sweeper and a truck.  Russ Klisch remembers him bringing home short fills to his dad.  He recalls, even as a kid, that it was a cool job if you got to bring beer home at night.  Taverns were also owned by several family members. With that family history and their common interest in beer making, the brothers started their business.  They decided to start small.  Initially, they bought an old pizza bakery building down the street from their home in Riverwest.  They liked the location and the fact that they could walk there from home.  They sold their first barrel on December 2, 1987.  They stayed at that location until winter of 1998.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             261 => 
             array (
@@ -12970,8 +12970,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             262 => 
             array (
@@ -12987,8 +12987,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lancasterbrewing.com/index.html',
                 'filepath' => '',
                 'descript' => 'We brew our beer in the heart of Lancaster County, Pennsylvania with great respect for the old traditions of brewing. Our master brewer, Christian Heim, has a strong commitment to quality and uses advanced brewing techniques to produce a consistent and high quality beer. Savor the hopped aromas as they come alive and accentuate the wholesome malt flavors in our ales and lagers.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             263 => 
             array (
@@ -13004,8 +13004,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             264 => 
             array (
@@ -13021,8 +13021,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://langcreekbrewery.com/',
                 'filepath' => '',
                 'descript' => 'Good beer here!!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             265 => 
             array (
@@ -13038,8 +13038,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             266 => 
             array (
@@ -13055,8 +13055,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.laughingdogbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Great Local brew.  They have 5 main brews, but the 2 I love most are their Pale Ale and Cream Ale.  The Pale Ale has a great hoppy finish, while the Cream Ale has a nice smooth taste. They also have a few other great brews!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             267 => 
             array (
@@ -13072,8 +13072,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lazymagnolia.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             268 => 
             array (
@@ -13089,8 +13089,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             269 => 
             array (
@@ -13106,8 +13106,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             270 => 
             array (
@@ -13123,8 +13123,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lefthandbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             271 => 
             array (
@@ -13140,8 +13140,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.legacybrewing.com',
                 'filepath' => '',
                 'descript' => 'Legacy Brewing Co. is committed to handcrafting unique, high quality beer by employing brewing techniques learned from European and American brewers. The complexity of flavors comes from a combination of high quality imported malts and our hopping methods which includes the use of whole flower hops. The Legacy team includes a creative collection of brewers, engineers, a microbiologist and our friends in the arts community; all with a passion for innovative products. Legacy...we brew pure pleasure!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             272 => 
             array (
@@ -13157,8 +13157,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             273 => 
             array (
@@ -13174,8 +13174,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             274 => 
             array (
@@ -13191,8 +13191,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://lewisandclarkbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             275 => 
             array (
@@ -13208,8 +13208,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.libertysteakhouseandbrewery.com/',
                 'filepath' => '',
                 'descript' => 'Liberty means many things to many different people. It\'s a celebration of the great American farmer and the rich bounty he puts on our plates.  It\'s a celebration of America\'s rich ethnic cooking styles. It\'s a celebration of the resurgence of the handcrafted-brewing style of the pre-prohibition small American brewery.  Liberty Steakhouse & Brewery is based on America\'s rich ethnic cooking styles, complimented by finely hand-crafted beers, tantalizing starters and perfectly seared steaks. We\'ve got something brewing you\'re sure to like. Liberty is also a celebration of life, family and the pursuit of happiness. So bring us your hungry, your thirsty and fun-loving, we\'ll send you home refreshed and fulfilled.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             276 => 
             array (
@@ -13225,8 +13225,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             277 => 
             array (
@@ -13242,8 +13242,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             278 => 
             array (
@@ -13259,8 +13259,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.liftbridgebrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             279 => 
             array (
@@ -13276,8 +13276,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             280 => 
             array (
@@ -13293,8 +13293,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             281 => 
             array (
@@ -13310,8 +13310,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             282 => 
             array (
@@ -13327,8 +13327,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lionbeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             283 => 
             array (
@@ -13344,8 +13344,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lionbrewery.com/',
                 'filepath' => '',
                 'descript' => 'With a proud brewing heritage dating back to 1905, The Lion Brewery merges rustic architecture with state-of-the-art brewing technology, a contrast typified by the gleaming stainless steel aging tanks that sit alongside the traditional copper brew kettle. Our brewing process utilizes the traditional English method of upward infusion mashing in our combination mash lauter tun to create lagers and ales inspired by old world values, but with modern quality and consistency. The staff at The Lion Brewery is dedicated to producing true handcrafted beers, made right here in our century-old Brewhouse. All of our premium beers are made using only the four basic ingredients allowed by the Reinheitsgebot, or German purity law. Under the skillful supervision of our Master Brewer, Leo Orlandini, each of our lagers and ales are brewed in small batches using only the finest hops and malts available to guarantee the highest quality and freshness. Each product we brew is an original recipe especially created to deliver a fuller flavor than ordinary beers, yet with an approachable style and character. As a result, our beers have garnered numerous medals from the Great American Beer Festival and the World Beer Championships in recent years.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             284 => 
             array (
@@ -13361,8 +13361,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             285 => 
             array (
@@ -13378,8 +13378,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.listermann.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             286 => 
             array (
@@ -13395,8 +13395,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             287 => 
             array (
@@ -13412,8 +13412,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.littlecreatures.com.au/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             288 => 
             array (
@@ -13429,8 +13429,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.liveoakbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Live Oak Brewing Company is truly a home-grown Austin enterprise. Two of Austin\'s own homebrews, Chip McElroy and Brian Peters, literally hand-built the brewery and were the two main brewers, keg washers, delivery persons, and proselytizers. Live Oak has grown since then, but we are still just as passionate about providing delicious old-world style beers that are rarely commercially available. Our special beers are brewed in limited quantities in a small east Austin brewery and are available in fine pubs and restaurants in Austin, Dallas, Houston, Alpine, Marathon, San Marcos and San Antonio.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             289 => 
             array (
@@ -13446,8 +13446,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             290 => 
             array (
@@ -13463,8 +13463,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             291 => 
             array (
@@ -13480,8 +13480,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.logjambeer.com/',
                 'filepath' => '',
                 'descript' => 'Originally started in Tomahawk, WI.  LogJam Microbrewery is under new ownership and located in Unity, WI at Monster World campground.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             292 => 
             array (
@@ -13497,8 +13497,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.longtrail.com/',
             'filepath' => '',
         'descript' => 'Long Trail Brewery is a microbrewery located in Bridgewater, Vermont, USA. It was opened in May of 1989 by Andy Pherson, who now serves both as the company\'s president and brewmaster. The company\'s first brewery was located in the basement of the Bridgewater Woolen Mill in Vermont\'s Green Mountains, but by 1995 the company had become popular enough that it was able to relocate to a state-of-the-art brewery and visitor center (featuring an open-air deck overlooking the Ottaquechee River) in Bridgewater Corners, VT.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         293 => 
         array (
@@ -13514,8 +13514,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         294 => 
         array (
@@ -13531,8 +13531,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.lostcoast.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         295 => 
         array (
@@ -13548,8 +13548,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         296 => 
         array (
@@ -13565,8 +13565,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         297 => 
         array (
@@ -13582,8 +13582,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         298 => 
         array (
@@ -13599,8 +13599,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         299 => 
         array (
@@ -13616,8 +13616,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         300 => 
         array (
@@ -13633,8 +13633,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         301 => 
         array (
@@ -13650,8 +13650,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         302 => 
         array (
@@ -13667,8 +13667,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.madriverbrewing.com/',
             'filepath' => '',
             'descript' => 'Brewmaster Bob Smith\'s dream to open a small brewery began in the late seventies. Seeking knowledge and ingredients Smith joined with a small number of individuals who were laying the foundation of the craft beer movement in California. With a small group of investors Smith formed Mad River Brewing Company in 1989. Now in our 2nd decade we continue our commitment to producing fine ales combining the most traditional brewing methods with an environmentally sound approach. For centuries the English have been known for their brewing expertise. At Mad River Brewing Company we are long on tradition and continue to handcraft our ales in the truest sense. Our award winning ales have become renowned for their unique flavor profile and consistent quality.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         303 => 
         array (
@@ -13684,8 +13684,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.magichat.net/',
             'filepath' => '',
             'descript' => 'Burlington microbrewers of Humble Patience, Fat Angel, #9, Blind Faith IPA, and Heart of Darkness Oatmeal Stout.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         304 => 
         array (
@@ -13701,8 +13701,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.magnoliapub.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         305 => 
         array (
@@ -13718,8 +13718,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         306 => 
         array (
@@ -13735,8 +13735,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         307 => 
         array (
@@ -13752,8 +13752,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         308 => 
         array (
@@ -13769,8 +13769,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         309 => 
         array (
@@ -13786,8 +13786,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         310 => 
         array (
@@ -13803,8 +13803,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         311 => 
         array (
@@ -13820,8 +13820,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.maltshovel.com.au/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         312 => 
         array (
@@ -13837,8 +13837,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         313 => 
         array (
@@ -13854,8 +13854,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         314 => 
         array (
@@ -13871,8 +13871,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.manayunkbrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         315 => 
         array (
@@ -13888,8 +13888,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         316 => 
         array (
@@ -13905,8 +13905,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://marblebrewery.com/',
             'filepath' => '',
             'descript' => 'Marble Brewery is located in beautiful Downtown Albuquerque area, conveniently located near Interstate 25 and just a stone\'s throw from the railroad tracks. Our spacious tap room and extensive bar is complimented by an equally expansive patio that offers plenty of shaded, picnic-style seating. For both beer lovers and curious and thirsty tourists, a visit to Marble Brewery is a must when in Albuquerque.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         317 => 
         array (
@@ -13922,8 +13922,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.landsharklager.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         318 => 
         array (
@@ -13939,8 +13939,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         319 => 
         array (
@@ -13956,8 +13956,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         320 => 
         array (
@@ -13973,8 +13973,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         321 => 
         array (
@@ -13990,8 +13990,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         322 => 
         array (
@@ -14007,8 +14007,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://marshallbrewing.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         323 => 
         array (
@@ -14024,8 +14024,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         324 => 
         array (
@@ -14041,8 +14041,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.marzonis.com/',
             'filepath' => '',
             'descript' => 'Marzoni\'s beers are brewed on premise, utilizing the finest ingredients available. Beers brewed at Marzoni\'s are dispensed directly from our chilled serving tanks to the tap stations on the bar for the freshest beer around! On any given day, there are at least 8 beers on tap, not to mention house-brewed root beer. Brewery tours are available!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         325 => 
         array (
@@ -14058,8 +14058,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         326 => 
         array (
@@ -14075,8 +14075,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         327 => 
         array (
@@ -14092,8 +14092,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://mauibrewingco.com/',
             'filepath' => '',
             'descript' => 'Maui Brewing Co., with a brewpub in Kahana and production brewery in Lahaina, has built a reputation for creating handcrafted beers brewed using the finest natural ingredients.  We have become one of the area\'s most popular dining locations and are the island\'s only microbrewery.  Our menu offers a broad selection of fine foods to satisfy any palate.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         328 => 
         array (
@@ -14109,8 +14109,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         329 => 
         array (
@@ -14126,8 +14126,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         330 => 
         array (
@@ -14143,8 +14143,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         331 => 
         array (
@@ -14160,8 +14160,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         332 => 
         array (
@@ -14177,8 +14177,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mckenziebrewhouse.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         333 => 
         array (
@@ -14194,8 +14194,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         334 => 
         array (
@@ -14211,8 +14211,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         335 => 
         array (
@@ -14228,8 +14228,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.meantimebrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         336 => 
         array (
@@ -14245,8 +14245,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         337 => 
         array (
@@ -14262,8 +14262,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         338 => 
         array (
@@ -14279,8 +14279,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         339 => 
         array (
@@ -14296,8 +14296,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mendobrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         340 => 
         array (
@@ -14313,8 +14313,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         341 => 
         array (
@@ -14330,8 +14330,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mercurybrewing.com',
             'filepath' => '',
         'descript' => 'Located in historic Ipswich, Massachusetts, Mercury Brewing Company emerged in 1999 when Rob Martin, then Director of Operations for Ipswich Brewing Company, purchased the brewery and renamed the company Mercury Brewing and Distribution Company. While continuing production of Ipswich Ale, Martin expanded the company with Stone Cat Ales and Lagers, Mercury Premium Sodas, and numerous contract brewing agreements.  In 2007 our beer production topped 14,000 BBLs (434,000 GAL), a 44% increase from 2006. Soda production came to 1180 BBLs (36,580 GAL), an increase of 22% from the previous year. We could not have done this without our hardworking staff and loyal customers and look forward to an even better 2008.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         342 => 
         array (
@@ -14347,8 +14347,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.metrobrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         343 => 
         array (
@@ -14364,8 +14364,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         344 => 
         array (
@@ -14381,8 +14381,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.michiganbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         345 => 
         array (
@@ -14398,8 +14398,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         346 => 
         array (
@@ -14415,8 +14415,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mickeys.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         347 => 
         array (
@@ -14432,8 +14432,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         348 => 
         array (
@@ -14449,8 +14449,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.middleagesbrewing.com/',
             'filepath' => '',
             'descript' => 'Step back in time to when men were men, women were brewsters, and hand-crafted fine ale filled every flagon. Your quest for great taste leads you out of the past and into Middle Ages Brewing Company where we are sworn to uphold the tradition of brewing beer in small batches. Taste the difference hand-crafting makes.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         349 => 
         array (
@@ -14466,8 +14466,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.midnightsunbrewing.com/',
             'filepath' => '',
             'descript' => 'Since firing up its brew kettle in 1995, Midnight Sun Brewing Company has become a serious yet creative force on the American brewing front. From concept to glass, Midnight Sun relies on an art marries science approach, mixing tradition with innovation, to design and craft bold, distinctive beers for Alaska...and beyond. We at Midnight Sun find inspiration in the untamed spirit and rugged beauty of the Last Frontier and develop unique beers with equally appealing names and labels. But the company\'s true focus remains in its dedication to producing consistently high-quality beers that provide satisfying refreshment in all seasons... for Alaskans and visitors alike.  From our Pacific Northwest locale, we offer our wonderful beers on draft throughout Alaska and in 22-ounce bottles throughout Alaska and Oregon. We invite you to visit our hardworking, little brewery in South Anchorage every chance you get!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         350 => 
         array (
@@ -14483,8 +14483,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mikkeller.dk/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         351 => 
         array (
@@ -14500,8 +14500,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         352 => 
         array (
@@ -14517,8 +14517,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         353 => 
         array (
@@ -14534,8 +14534,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         354 => 
         array (
@@ -14551,8 +14551,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.millerbrewing.com',
             'filepath' => '',
             'descript' => 'Making the highest quality beer has been a passion of the Miller Brewing Company since its founder, Frederick J. Miller, began his brewing business in 1855. Since then, Miller Brewing has grown from a small local brewer to the second largest brewery in the U.S., with seven major breweries located across America.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         355 => 
         array (
@@ -14568,8 +14568,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         356 => 
         array (
@@ -14585,8 +14585,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         357 => 
         array (
@@ -14602,8 +14602,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         358 => 
         array (
@@ -14619,8 +14619,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         359 => 
         array (
@@ -14636,8 +14636,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         360 => 
         array (
@@ -14653,8 +14653,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.townhallbrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         361 => 
         array (
@@ -14670,8 +14670,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         362 => 
         array (
@@ -14687,8 +14687,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.minocquabrewingcompany.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         363 => 
         array (
@@ -14704,8 +14704,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         364 => 
         array (
@@ -14721,8 +14721,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         365 => 
         array (
@@ -14738,8 +14738,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         366 => 
         array (
@@ -14755,8 +14755,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         367 => 
         array (
@@ -14772,8 +14772,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mogbrew.com/',
             'filepath' => '',
             'descript' => 'Mogollon Brewing Company, LLC, and High Spirits Distillery is a small, 20 bbl micro brewery and distillery. Our beers and spirits are hand crafted from the finest ingredients available and we use pure mountain water.  The artwork found on our labels is the embodiment of, and is inspired by, Northern Arizona wildlife.  Mogollon Brewing takes its name from the Mogollon Plateau which sits at 7000 feet above sea level.   We are now located at 4366 Huntington Drive in Flagstaff, AZ.  This is a brand new 4500 square foot building designed and built specifically for brewing beer and distilling spirits.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         368 => 
         array (
@@ -14789,8 +14789,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         369 => 
         array (
@@ -14806,8 +14806,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         370 => 
         array (
@@ -14823,8 +14823,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => 'Montana Brewing Company...small brewery...BIG BEER!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         371 => 
         array (
@@ -14840,8 +14840,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         372 => 
         array (
@@ -14857,8 +14857,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.monteiths.com/nz/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         373 => 
         array (
@@ -14874,8 +14874,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.moonriverbrewing.com/',
             'filepath' => '',
             'descript' => 'The Moon River Brewing Company is founded on our obsession with creating the ideal restaurant and brewery experience. Striving for this ideal, we are committed to providing three basic services. We are dedicated, first and foremost, to providing you with a comfortable and relaxing environment with prompt and cheerful service. Secondly, we are committed to serving you a delicious variety of freshly prepared foods. Our kitchen is a boiling pot of diversity, offering a range of dishes from simple comfort food to eclectic gourmet cuisine. Finally, we are undeniably passionate about serving great beer.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         374 => 
         array (
@@ -14891,8 +14891,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         375 => 
         array (
@@ -14908,8 +14908,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         376 => 
         array (
@@ -14925,8 +14925,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.moosestooth.net/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         377 => 
         array (
@@ -14942,8 +14942,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         378 => 
         array (
@@ -14959,8 +14959,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.moosehead.ca/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         379 => 
         array (
@@ -14976,8 +14976,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         380 => 
         array (
@@ -14993,8 +14993,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         381 => 
         array (
@@ -15010,8 +15010,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         382 => 
         array (
@@ -15027,8 +15027,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         383 => 
         array (
@@ -15044,8 +15044,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.moylans.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         384 => 
         array (
@@ -15061,8 +15061,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.moylans.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         385 => 
         array (
@@ -15078,8 +15078,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mudsharkbrewingco.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         386 => 
         array (
@@ -15095,8 +15095,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         387 => 
         array (
@@ -15112,8 +15112,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         388 => 
         array (
@@ -15129,8 +15129,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         389 => 
         array (
@@ -15146,8 +15146,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mythosbrewery.gr/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         390 => 
         array (
@@ -15163,8 +15163,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         391 => 
         array (
@@ -15180,8 +15180,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         392 => 
         array (
@@ -15197,8 +15197,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         393 => 
         array (
@@ -15214,8 +15214,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         394 => 
         array (
@@ -15231,8 +15231,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         395 => 
         array (
@@ -15248,8 +15248,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.newalbanian.com',
             'filepath' => '',
         'descript' => 'The Brewery was officially brewing in October 2002 and was incorporated in 1994 as the New Albanian Brewing Company in a room that branches off of Sportstime Pizza. The brewery established by Roger Baylor his wife Amy (O\'Connell) Baylor and her sister Kate O\'Connel. This is the first commercial brewery in New Albany since 1935. The first brewmaster was Michael Borchers which brought with him experience and used machines from the now defunct Silver Creek Brewing Corporation that was located in Sellersburg, Indiana. Jared Williamson and Jesse Williams are the current brewers working the brewery. In 2005, 14,000 gallons of beer was produced by the brewery, and with the new additions, the planned output for 2007 is double the 2005 amount.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         396 => 
         array (
@@ -15265,8 +15265,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.newbelgium.com/',
             'filepath' => '',
         'descript' => 'We\'ll set the scene: 1989. Belgium. Boy on bike. (OK, make that a young man of 32). As our aspiring young homebrewer rides his mountain bike with fat tires through European villages famous for beer, New Belgium Brewing Company was but a glimmer in his eye. Or basement. For Jeff Lebesch would return to Fort Collins with a handful of ingredients and an imagination full of recipes. And then there was beer. Jeff\'s first two basement-brewed creations? A brown dubbel with earthy undertones named Abbey and a remarkably well-balanced amber he named Fat Tire. To say the rest was history would be to overlook his wife\'s involvement. Kim Jordan was New Belgium\'s first bottler, sales rep, distributor, marketer and financial planner. And now, she\'s our CEO.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         397 => 
         array (
@@ -15282,8 +15282,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         398 => 
         array (
@@ -15299,8 +15299,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.newglarusbrewing.com/',
             'filepath' => '',
             'descript' => 'The brewery is run by an enthusiastic couple, Daniel & Deb Carey, who have successfully combined business management and brewing professionalism. Our philosophy is based on individuality, cooperation and the employment of 100% natural ingredients to produce world -class, handcrafted beers for our friends in Wisconsin. Cheers!*  *From the New Glarus Brewing web site',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         399 => 
         array (
@@ -15316,8 +15316,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://newhollandbrew.com',
             'filepath' => '',
         'descript' => 'Established in 1996, NHBC has grown from a scrappy two-man start-up to a thriving regional microbrewery, recognized for its creativity and artistry. We are very proud of our accomplishments thus far, and believe in earning our place in the brewing industry and in our customer\'s hearts and minds everyday. All of our beer is brewed in Holland, Michigan at one of our two locations. We brew, cellar and package the main brands for distribution at our production facility on the north-side of Holland, at 690 Commerce Court. In response to our considerable growth, we opened the new brewery in October of 2006, replacing the original headquarters.  We also brew beer and distill spirits in our pub. The pub is a great place for us to explore new ideas, meet our customers in a comfortable setting and provide a place of community for all who visit. The beers made here are typically special brews that rarely see their way outside of the friendly confines of our pub. In 2007, we brewed and shipped just over 7,400 barrels of beer. (A barrel = 31 gallons.) We work hard to bring you an authentic, interesting and gratifying experience.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         400 => 
         array (
@@ -15333,8 +15333,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         401 => 
         array (
@@ -15350,8 +15350,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         402 => 
         array (
@@ -15367,8 +15367,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.steinlager.co.nz/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         403 => 
         array (
@@ -15384,8 +15384,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         404 => 
         array (
@@ -15401,8 +15401,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         405 => 
         array (
@@ -15418,8 +15418,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         406 => 
         array (
@@ -15435,8 +15435,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ninkasibrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         407 => 
         array (
@@ -15452,8 +15452,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.noddinghead.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         408 => 
         array (
@@ -15469,8 +15469,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         409 => 
         array (
@@ -15486,8 +15486,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         410 => 
         array (
@@ -15503,8 +15503,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.northcoastbrewing.com/home.htm',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         411 => 
         array (
@@ -15520,8 +15520,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.northcountrybrewing.com',
             'filepath' => '',
             'descript' => 'Nestled in the heart of downtown Slippery Rock, North Country Brewery typically features 10-15 beers that rotate seasonally.  While this unique restaurant and brewery inhabits a former funeral home, it is quite lively inside.  Featuring a great menu and fun events, North Country Brewery is a great stop for any beer lover.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         412 => 
         array (
@@ -15537,8 +15537,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         413 => 
         array (
@@ -15554,8 +15554,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         414 => 
         array (
@@ -15571,8 +15571,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://nogne-o.com/',
             'filepath' => '',
             'descript' => 'Nøgne Ø was created by two home brewers. Unable to stay at home we started Norway\'s first microbrewery for creative brewing. Some times, when we get a momentary glimpse of sanity, we ask ourselves what we have achieved. We think we can say that we have achieved some level of fame, at least locally and among dedicated beer geeks around the world. But more important - before we started Nøgne Ø most Norwegians did not know much about beer styles like IPA, Porter or Amber. This has for sure started to change, and we do feel that we have contributed to what you can call a renaissance of Norwegian beer-culture.  Diversity was one of our main goals - and it does seem like diversity in the world of beers is starting to come back.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         415 => 
         array (
@@ -15588,8 +15588,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         416 => 
         array (
@@ -15605,8 +15605,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         417 => 
         array (
@@ -15622,8 +15622,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         418 => 
         array (
@@ -15639,8 +15639,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         419 => 
         array (
@@ -15656,8 +15656,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         420 => 
         array (
@@ -15673,8 +15673,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://oakcreekbrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         421 => 
         array (
@@ -15690,8 +15690,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.oakenbarrel.com/',
             'filepath' => '',
             'descript' => 'Oaken Barrel Brewing Co. has built its reputation on its award-winning beers. Head brewer Mark Havens and assistant brewer Andrew Castner brew a variety of fresh ales on-site in small batches. They use a fifteen barrel system to brew six standard house ales and a steady stream of specialty beers.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         422 => 
         array (
@@ -15707,8 +15707,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         423 => 
         array (
@@ -15724,8 +15724,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         424 => 
         array (
@@ -15741,8 +15741,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         425 => 
         array (
@@ -15758,8 +15758,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         426 => 
         array (
@@ -15775,8 +15775,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         427 => 
         array (
@@ -15792,8 +15792,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         428 => 
         array (
@@ -15809,8 +15809,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         429 => 
         array (
@@ -15826,8 +15826,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         430 => 
         array (
@@ -15843,8 +15843,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         431 => 
         array (
@@ -15860,8 +15860,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.olddominion.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         432 => 
         array (
@@ -15877,8 +15877,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         433 => 
         array (
@@ -15894,8 +15894,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         434 => 
         array (
@@ -15911,8 +15911,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         435 => 
         array (
@@ -15928,8 +15928,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         436 => 
         array (
@@ -15945,8 +15945,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         437 => 
         array (
@@ -15962,8 +15962,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         438 => 
         array (
@@ -15979,8 +15979,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         439 => 
         array (
@@ -15996,8 +15996,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         440 => 
         array (
@@ -16013,8 +16013,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         441 => 
         array (
@@ -16030,8 +16030,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         442 => 
         array (
@@ -16047,8 +16047,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => 'Oriental Brewery or OB is a South Korean brewery established by the Doosan Group in 1952. It was purchased by InBev in 2003. Today OB produces several of Korea\'s most popular beverages including the OB, Cass and Cafri lager brands.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         443 => 
         array (
@@ -16064,8 +16064,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         444 => 
         array (
@@ -16081,8 +16081,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.orkneybrewery.co.uk/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         445 => 
         array (
@@ -16098,8 +16098,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.orlandobrewing.com',
             'filepath' => '',
             'descript' => 'They have a wide variety of beers made on premises, with more than a dozen on tap. Bar is is in an industrial area and is kinda bare, but it\'s got good beer, and good people, and that\'s what counts. Try the \'Monk-in-the-trunk\' stay the hell away from the Winter Park beer.  Bottles, and kegs available as well.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         446 => 
         array (
@@ -16115,8 +16115,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.orlio.net/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         447 => 
         array (
@@ -16132,8 +16132,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.oskarblues.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         448 => 
         array (
@@ -16149,8 +16149,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         449 => 
         array (
@@ -16166,8 +16166,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ottakringer.at/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         450 => 
         array (
@@ -16183,8 +16183,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ottercreekbrewing.com/',
             'filepath' => '',
             'descript' => 'Otter Creek beers are craft brewed with the finest domestic malts and hops available.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         451 => 
         array (
@@ -16200,8 +16200,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.ottospubandbrewery.com/index.php',
             'filepath' => '',
             'descript' => 'Otto\'s typically offers a selection of 9-11 beers on draft. These include seasonal offerings as well as some of our favorite year-round ales and lagers including our special cask-conditioned ales. All of our beers are brewed on-premises at Otto\'s for the utmost freshness and quality control. They are made with the finest ingredients available, all of our skill, and a true love for the craft of brewing. Enjoy!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         452 => 
         array (
@@ -16217,8 +16217,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         453 => 
         array (
@@ -16234,8 +16234,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         454 => 
         array (
@@ -16251,8 +16251,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pabst.com/',
             'filepath' => '',
             'descript' => 'At Pabst Brewing Company, we make beer with history, with a sense of place. From Milwaukee to Motown, through the Pacific Northwest and back East again, our brands are like family and hometown friends. And we should know a little something about regional pride: Since we started in 1844, we\'ve welcomed 24 new states into the Union. Today, Pabst crafts over 25 classic brews with strict adherence to original standards of quality. Our brands rack up national and international festival awards. Most important, they continue to make memories in the places that mean a lot to our consumers.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         455 => 
         array (
@@ -16268,8 +16268,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         456 => 
         array (
@@ -16285,8 +16285,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         457 => 
         array (
@@ -16302,8 +16302,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         458 => 
         array (
@@ -16319,8 +16319,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.palmbreweries.com/',
             'filepath' => '',
             'descript' => 'Brouwerij Palm is the brewery of the top-fermented beers from Brabant; in the rural settings of Steenhuffel between Antwerp and Brussels. The duchy of Brabant has a tradition of using all the best ingredients nature has to offer. The Brabant draught horse once was Belgium\'s most important export product. To emphasise how proud they are of their region of Brabant, Brouwerij Palm uses the Brabant draught horse as a logo for its top-fermented beer Special Palm.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         459 => 
         array (
@@ -16336,8 +16336,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         460 => 
         array (
@@ -16353,8 +16353,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         461 => 
         array (
@@ -16370,8 +16370,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         462 => 
         array (
@@ -16387,8 +16387,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         463 => 
         array (
@@ -16404,8 +16404,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.paulaner.com/',
             'filepath' => '',
         'descript' => 'The name of the Paulaner brewery refers to the order of friars that resided in Neuhauser Straße in Munich who were part of the order of Saint Francis of Paola. The monks had brewed beer for their own use since 1634. The beer that was permitted to be sold on holidays was a Bock style which gained local fame. After the abolition of the Neudeck Cloister in 1799, the building was converted into a penitentiary. Franz Xaver Zacherl, the brewer, purchased the former cloister brewery and continued the Starkbier tradition with the product Salvator, which is latin for Saviour. In 1861 the Salvatorkeller (Salvator cellar) was opened upon Nockherberg. In 1928 the brewery merged with the Gebrüder Thomas brewery creating Paulaner Salvator Thomas Bräu. 1994 saw the acquisition into the Kulmbacher brewery group with the affiliated producers Plauen and Chemnitz. A daughter company is the Auer Bräu AG Rosenheim. Paulaner belongs to the BHI (Brau Holding International AG), a joint venture between Schörghuber Ventures (50.1%) and with Holland\'s Heineken N.V. (49.9%).',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         464 => 
         array (
@@ -16421,8 +16421,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         465 => 
         array (
@@ -16438,8 +16438,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pelicanbrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         466 => 
         array (
@@ -16455,8 +16455,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pennbrew.com/',
             'filepath' => '',
         'descript' => 'Pennsylvania Brewing Company, founded in 1986 by Tom Pastorius to brew authentic German beers, was the first craft brewer in Pennsylvania and a pioneer in the microbrewery movement. The brewery and its restaurant are located in the former Eberhardt and Ober Brewery in the historic Deutschtown section of Pittsburgh\'s North Side, where beer has been made since 1848. The buildings are listed on the National Register of Historic Sites. Penn Brewery is an authentic German brewery in every detail; from its solid copper brewhouse imported from Germany, fermentation and aging tanks, filtration equipment, kegging and bottling equipment to its imported ingredients, recipes, methods and German brewmaster. All beers are made in accordance with the German beer purity law called the Reinheitsgebot which means that only the four classic ingredients are used in our beer: malted barley (and/or wheat), hops, water and yeast. Adjuncts such as corn and rice are never used. Preservatives and stabilizers are never used. High gravity brewing is never done. Just real, honest, all natural beer made the way it\'s made in Germany!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         467 => 
         array (
@@ -16472,8 +16472,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pennichuckbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         468 => 
         array (
@@ -16489,8 +16489,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         469 => 
         array (
@@ -16506,8 +16506,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.peteswicked.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         470 => 
         array (
@@ -16523,8 +16523,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         471 => 
         array (
@@ -16540,8 +16540,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         472 => 
         array (
@@ -16557,8 +16557,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://philadelphiabrewing.com/index.htm',
             'filepath' => '',
             'descript' => 'This is, Philadelphia\'s one and only Philadelphia Brewing Company; brewers of fine hand crafted Ales from our historic brewery building in the Kensington neighborhood of Philadelphia. Like the history of brewing in Philadelphia the name Philadelphia Brewing Company has gone through many revivals. The same can be said of our brewery building - the former Wiesbrod and Hess Brewing Company complex in Kensington. At Philadelphia Brewing Co we take pride in our brews, our people, and our community. One person could never do everything that it takes to get beer into your glass. And it may sound obvious, but we won\'t brew anything that we wouldn\'t drink ourselves - you won\'t catch us drinking anything called Ultra unless it\'s a literal name meaning more flavor, more hops, more malt, more carbs. That\'s because we are Brewers; proud brewers of fine hand crafted Ales from our historic brewery building in the Kensington neighborhood of Philadelphia. Now that\'s out of the way; we will be starting out with four mainstay brews which will be available in draught and in bottles. Once we\'re stocked up on the core brews we\'ll start pumping out regular seasonal or specialty brews. The specialty series will be driven by our individual brewers and the desires and whims of the rest of our family.  The beer is flowing at Philadelphia Brewing co! You can find our four brands on tap at finer establishments all around town!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         473 => 
         array (
@@ -16574,8 +16574,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.phoenixbeveragesgroup.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         474 => 
         array (
@@ -16591,8 +16591,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         475 => 
         array (
@@ -16608,8 +16608,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         476 => 
         array (
@@ -16625,8 +16625,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         477 => 
         array (
@@ -16642,8 +16642,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         478 => 
         array (
@@ -16659,8 +16659,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         479 => 
         array (
@@ -16676,8 +16676,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pivaraskopje.com.mk/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         480 => 
         array (
@@ -16693,8 +16693,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         481 => 
         array (
@@ -16710,8 +16710,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         482 => 
         array (
@@ -16727,8 +16727,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         483 => 
         array (
@@ -16744,8 +16744,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         484 => 
         array (
@@ -16761,8 +16761,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         485 => 
         array (
@@ -16778,8 +16778,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         486 => 
         array (
@@ -16795,8 +16795,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         487 => 
         array (
@@ -16812,8 +16812,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         488 => 
         array (
@@ -16829,8 +16829,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         489 => 
         array (
@@ -16846,8 +16846,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.staropramen.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         490 => 
         array (
@@ -16863,8 +16863,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         491 => 
         array (
@@ -16880,8 +16880,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.mammamiapizzabeer.com/',
             'filepath' => '',
             'descript' => 'Chef Tom and Mamma Mia aren\'t the only folks that have discovered how great recipes using Mamma Mia Pizza Beer truly can be. Just ask the owners of Michel Angelo\'s Pizza & Pasta, Ream\'s Elburn Market, Josefs Elegante Meat and Deli, and the constantly growing list of fine establishments that now or will soon be featuring food products made with Mamma Mia Pizza Beer. Whether it\'s used in bread, crusts, meats and even fried fish batter, Mamma Mia Pizza Beer truly is expanding the meaning of The World\'s First Culinary Beer!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         492 => 
         array (
@@ -16897,8 +16897,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.pizzaport.com',
             'filepath' => '',
             'descript' => 'Pizza Port was established in March of 1987 when we started making pizzas in our present location in Solana Beach! We started brewing beer as a hobby and as we began brewing more than we could leisurely drink, we really wanted to share some of the incredible brews that we created for fun with our customers too. We installed a 7 barrel brewery and served our first handcrafted beer brewed on the premises in October of 1992. In July of 1997, we celebrated our 10th anniversary by opening another location in Carlsbad. We expanded our brewing capacity into the building next door creating the opportunity to brew, bottle, distribute, and drink even more. Our distribution center is called PORT BREWING!  We found the perfect location in San Clemente and opened in July of 2003 enabling us to brew several additional styles! Let\'s party! When people started asking where they could get our beer besides Pizza Port enough, we acquired the old Stone Brewing facility in San Marcos at 155 Mata Way #104 to expand our distribution as PORT BREWING! We officially opened on Cinco de Mayo 2006. Now we will be able to make up to 10,000 barrels to get out to your other favorite places to enjoy coldies! More impressive is the 100 plus barrel room for all of our barrel aged specialties. Come check out our tasting bar where you can get bottles, jugs & merchandise to go while you sample what\'s brewing!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         493 => 
         array (
@@ -16914,8 +16914,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         494 => 
         array (
@@ -16931,8 +16931,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         495 => 
         array (
@@ -16948,8 +16948,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         496 => 
         array (
@@ -16965,8 +16965,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         497 => 
         array (
@@ -16982,8 +16982,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         498 => 
         array (
@@ -16999,8 +16999,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         499 => 
         array (
@@ -17016,8 +17016,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
     ));
         \DB::table('breweries')->insert(array (
@@ -17035,8 +17035,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.portbrewing.com/',
                 'filepath' => '',
                 'descript' => 'We officially opened on May 5th 2006. Now we will be able to make up to 5000 barrels of beer enabling you more chances to drink your favorite Port Brewed beers at home and around town. More impressive is our oak barrel room where we age our barrel aged specialty beers. Come check out our tasting bar on Fridays and Saturdays where you can get bottles, jugs & merchandise to go while you sample what we\'ve been brewing!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             1 => 
             array (
@@ -17052,8 +17052,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             2 => 
             array (
@@ -17069,8 +17069,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             3 => 
             array (
@@ -17086,8 +17086,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             4 => 
             array (
@@ -17103,8 +17103,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.portsmouthbrewery.com/',
                 'filepath' => '',
             'descript' => 'The Portsmouth Brewery, New Hampshire\'s first brewpub, was founded in 1991, four years after its sister company, the Northampton Brewery, opened in Western Massachusetts. Peter Egelston, Head Brewer in Northampton from 1987 until 1991, moved to Portsmouth to set up the new brewery here. (Egelston is now the sole proprietor of the Brewery.) The brewing system consists of a custom made seven-barrel (210 gallons) JV Northwest brewhouse, two fourteen-barrel and three seven-barrel JV Northwest unitank (cylindroconical) fermenters, two fourteen-barrel horizontal fermenters (added later, in 1994), and twelve seven-barrel grundy cellar tanks. Originally, the Portsmouth Brewery opened with beer recipes from Northampton - Pale Ale, Old Brown Dog, Weizenheimer, Black Cat Stout, Blonde Ale, Golden and Amber Lagers - and these still comprise the core of the Brewery\'s full-time beers today. However, over the years, successive brewers have contributed many outstanding seasonal and specialty beers to the list. Head Brewer Tod Mott arrived in late 2003, bringing with him is award-winning ways and oursized personality. All of the beers served at the Portsmouth Brewery are brewed right here on premise, with the exception of those beers, such as Shoals Pale Ale and Portsmouth Lager, brewed at Smuttynose Brewing Company, our sister company. --http://www.portsmouthbrewery.com/htmlpages.portsmouth/beerlist.html',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             5 => 
             array (
@@ -17120,8 +17120,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             6 => 
             array (
@@ -17137,8 +17137,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://prescottbrewingcompany.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             7 => 
             array (
@@ -17154,8 +17154,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             8 => 
             array (
@@ -17171,8 +17171,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             9 => 
             array (
@@ -17188,8 +17188,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             10 => 
             array (
@@ -17205,8 +17205,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             11 => 
             array (
@@ -17222,8 +17222,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             12 => 
             array (
@@ -17239,8 +17239,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             13 => 
             array (
@@ -17256,8 +17256,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             14 => 
             array (
@@ -17273,8 +17273,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.schneider-weisse.de',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             15 => 
             array (
@@ -17290,8 +17290,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             16 => 
             array (
@@ -17307,8 +17307,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             17 => 
             array (
@@ -17324,8 +17324,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             18 => 
             array (
@@ -17341,8 +17341,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             19 => 
             array (
@@ -17358,8 +17358,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             20 => 
             array (
@@ -17375,8 +17375,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             21 => 
             array (
@@ -17392,8 +17392,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             22 => 
             array (
@@ -17409,8 +17409,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.pyramidbrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             23 => 
             array (
@@ -17426,8 +17426,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             24 => 
             array (
@@ -17443,8 +17443,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Former brewer at Liberty Brewpub in Myrtle Beach is the owner/brewer at this new brewpub in the middle of golf country.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             25 => 
             array (
@@ -17460,8 +17460,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             26 => 
             array (
@@ -17477,8 +17477,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.raclodge.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             27 => 
             array (
@@ -17494,8 +17494,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             28 => 
             array (
@@ -17511,8 +17511,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             29 => 
             array (
@@ -17528,8 +17528,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.rahrbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             30 => 
             array (
@@ -17545,8 +17545,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             31 => 
             array (
@@ -17562,8 +17562,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             32 => 
             array (
@@ -17579,8 +17579,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             33 => 
             array (
@@ -17596,8 +17596,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             34 => 
             array (
@@ -17613,8 +17613,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             35 => 
             array (
@@ -17630,8 +17630,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.realalebrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             36 => 
             array (
@@ -17647,8 +17647,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             37 => 
             array (
@@ -17664,8 +17664,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             38 => 
             array (
@@ -17681,8 +17681,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             39 => 
             array (
@@ -17698,8 +17698,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.redoakbrewery.com',
                 'filepath' => '',
                 'descript' => 'Red Oak Brew Pub was opened in February of 1991. In addition to brewing according to the Law of Purity, we decided not to filter or pasteurize our Bavarian Lagers to ensure the vitamins remain whole for that rich, mellow taste. Within months of opening the pub we began selling Red Oak to other accounts in the Greensboro area. In no time the 6 original aging tanks were maxed out so we added on to the building and installed 13 new tanks. By 2001 Red Oaks popularity had grown so much that we were brewing 24/7...and out of aging capacity. We began the search for a location to build a larger brewery with space to accommodate future growth.  After settling on a 12 acre tract along I 40/85 between Greensboro and Burlington in 2003...we began discussions with 3 Bavarian Brewery fabricators. Rolec of Cheming, Bavaria was chosen to supply the new brewery; and in 2005 construction began on the building to house it.  By the summer of 2007 Red Oak was ready to open the nation\'s most modern computerized brewing facility...consistently producing the Freshest, Purest, Bavarian Lagers in America.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             40 => 
             array (
@@ -17715,8 +17715,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.redstarbrewery.com/',
                 'filepath' => '',
                 'descript' => 'The Red Star Brewery & Grille opened for business October 19th, 1998.  We had only five beers on tap, the Golden Light, American Pale, English Brown, Irish Dry Stout, and a Seasonal brew.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             41 => 
             array (
@@ -17732,8 +17732,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             42 => 
             array (
@@ -17749,8 +17749,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.redhook.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             43 => 
             array (
@@ -17766,8 +17766,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             44 => 
             array (
@@ -17783,8 +17783,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             45 => 
             array (
@@ -17800,8 +17800,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://revbrew.com/',
                 'filepath' => '',
                 'descript' => 'Revolution Brewing LLC is opening a brewpub in Logan Square which will include a full-service restaurant. We will also be selling our beers in kegs to select Chicago drinking establishments as brewing capacity allows.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             46 => 
             array (
@@ -17817,8 +17817,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.richbrau.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             47 => 
             array (
@@ -17834,8 +17834,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             48 => 
             array (
@@ -17851,8 +17851,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             49 => 
             array (
@@ -17868,8 +17868,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.riverhorse.com',
                 'filepath' => '',
                 'descript' => 'While we might be new to your area, we have been brewing fine craft ales and lagers along the banks of the Delaware River since April of 1996. You can find our all natural, fresh bottled and draft beer products throughout the Mid-Atlantic region and parts of New England. Distribution includes Pennsylvania, New Jersey, Delaware, Maryland, New York, New York City, Long Island, Ohio, Connecticut and Massachusetts. We have also been featured by several well-known beer-of-the-month clubs. We use choice, all-natural ingredients and local spring water to produce the best product made in our area. You will notice that all of our products are pure representations of their respective styles, very clean and very well balanced.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             50 => 
             array (
@@ -17885,8 +17885,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             51 => 
             array (
@@ -17902,8 +17902,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             52 => 
             array (
@@ -17919,8 +17919,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.myrivertowne.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             53 => 
             array (
@@ -17936,8 +17936,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.rockartbrewery.com/',
                 'filepath' => '',
                 'descript' => 'Rock Art Brewery was born in the mountains of Vermont, inspired by the spirit of Kokopelli and guided by the beers of the world.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             54 => 
             array (
@@ -17953,8 +17953,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             55 => 
             array (
@@ -17970,8 +17970,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             56 => 
             array (
@@ -17987,8 +17987,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             57 => 
             array (
@@ -18004,8 +18004,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             58 => 
             array (
@@ -18021,8 +18021,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             59 => 
             array (
@@ -18038,8 +18038,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             60 => 
             array (
@@ -18055,8 +18055,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             61 => 
             array (
@@ -18072,8 +18072,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             62 => 
             array (
@@ -18089,8 +18089,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             63 => 
             array (
@@ -18106,8 +18106,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.rogue.com',
                 'filepath' => '',
             'descript' => 'Rogue Ales was founded in 1988 by Jack Joyce, Rob Strasser and Bob Woodell, three corporate types who wanted to go into the food/beverage industry. Rogue\'s first brewpub was located in Ashland, Oregon and was a 10bbl brewsystem. Rogue opened a second brewpub, 15bbl brewsystem, in May 1989 located in Newport, Oregon. Rogue closed its Ashland operation in 1997, after the great flood destroyed the place. In 1991, the 15bbl system, named Howard after John Maier\'s former boss, from the Newport brewpub was transferred across the bay to the current brewery and upgraded to a 30bbl system. In 1998 Rogue bought a 50bbl brewsystem, named Kobe. Kobe is the only brewsystem in use. Tours: We offer brewery tours every day at 3 pm (followed by a distillery tour at 4pm). Go up to the bar inside the brewery (Brewers on the Bay) and check in with the bartender and the tour will commence. Please call ahead if you have a large group and or to verify the tour time...Brewer\'s on the Bay phone is 541-867-3664. The view from Brewers on the Bay includes the marina (outside), and the bottling line and brew kettles (inside).',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             64 => 
             array (
@@ -18123,8 +18123,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.dedochtervandekorenaar.be',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             65 => 
             array (
@@ -18140,8 +18140,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             66 => 
             array (
@@ -18157,8 +18157,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             67 => 
             array (
@@ -18174,8 +18174,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             68 => 
             array (
@@ -18191,8 +18191,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             69 => 
             array (
@@ -18208,8 +18208,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             70 => 
             array (
@@ -18225,8 +18225,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             71 => 
             array (
@@ -18242,8 +18242,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://rowlandsbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             72 => 
             array (
@@ -18259,8 +18259,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://roypitz.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             73 => 
             array (
@@ -18276,8 +18276,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             74 => 
             array (
@@ -18293,8 +18293,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             75 => 
             array (
@@ -18310,8 +18310,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             76 => 
             array (
@@ -18327,8 +18327,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             77 => 
             array (
@@ -18344,8 +18344,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.russianriverbrewing.com/',
                 'filepath' => '',
                 'descript' => 'At Russian River Brewing Company we focus on traditional aggressively hopped California style ales, Belgian style ales, and barrel aged beers. We brew a full line up of ales and lagers for our pub and for limited distribution.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             78 => 
             array (
@@ -18361,8 +18361,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.estrelladamm.es/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             79 => 
             array (
@@ -18378,8 +18378,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             80 => 
             array (
@@ -18395,8 +18395,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sabmiller.in/',
                 'filepath' => '',
                 'descript' => 'If you are contacting SABMiller India with a question, then please feel free to find the answer to your question by contacting us.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             81 => 
             array (
@@ -18412,8 +18412,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://sacbrew.blogspot.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             82 => 
             array (
@@ -18429,8 +18429,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.saintarnold.com',
                 'filepath' => '',
                 'descript' => 'Saint Arnold Brewing Company, located in Houston, is Texas\' Oldest Craft Brewery. Our goal is to brew world class beers and deliver them to our customers as fresh as possible making them the best beers in Texas. Our customers are beer lovers - people that appreciate great, full-flavored beers.  Our small crew of seventeen does everything at the brewery: brew the beer, filter the beer, keg the beer, bottle the beer, sell the beer and drink the beer. For us, this is a passion, not a job. We believe that this comes through in the beers we make. Our beers have soul.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             83 => 
             array (
@@ -18446,8 +18446,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.schlafly.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             84 => 
             array (
@@ -18463,8 +18463,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.saintsomewherebrewing.com/',
                 'filepath' => '',
                 'descript' => 'Saint Somewhere is a small batch brewery, located in Tarpon Springs, Florida. We specialize in traditionally brewed, hand crafted Belgian Style Ales. Our first offerings are... Saison Athene , a bottle conditioned Saison with a spicy and moderately hoppy profile true to the traditions of the farmhouse ales of Wallonia. Lectio Divina,  brewed in the spirit of the abbey ales of Belgium. Brewed with the same care and attention to the Art of Brewing that is practiced in the monastic breweries of Belgium. Pays du Soleil, brewed with palmetto berries and hibiscus should be out this fall!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             85 => 
             array (
@@ -18480,8 +18480,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             86 => 
             array (
@@ -18497,8 +18497,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             87 => 
             array (
@@ -18514,8 +18514,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             88 => 
             array (
@@ -18531,8 +18531,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             89 => 
             array (
@@ -18548,8 +18548,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             90 => 
             array (
@@ -18565,8 +18565,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             91 => 
             array (
@@ -18582,8 +18582,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             92 => 
             array (
@@ -18599,8 +18599,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             93 => 
             array (
@@ -18616,8 +18616,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             94 => 
             array (
@@ -18633,8 +18633,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sandcreekbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             95 => 
             array (
@@ -18650,8 +18650,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             96 => 
             array (
@@ -18667,8 +18667,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             97 => 
             array (
@@ -18684,8 +18684,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             98 => 
             array (
@@ -18701,8 +18701,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             99 => 
             array (
@@ -18718,8 +18718,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.santafebrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             100 => 
             array (
@@ -18735,8 +18735,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             101 => 
             array (
@@ -18752,8 +18752,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             102 => 
             array (
@@ -18769,8 +18769,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             103 => 
             array (
@@ -18786,8 +18786,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             104 => 
             array (
@@ -18803,8 +18803,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             105 => 
             array (
@@ -18820,8 +18820,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             106 => 
             array (
@@ -18837,8 +18837,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             107 => 
             array (
@@ -18854,8 +18854,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             108 => 
             array (
@@ -18871,8 +18871,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.schoefferhofer.de/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             109 => 
             array (
@@ -18888,8 +18888,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             110 => 
             array (
@@ -18905,8 +18905,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             111 => 
             array (
@@ -18922,8 +18922,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             112 => 
             array (
@@ -18939,8 +18939,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             113 => 
             array (
@@ -18956,8 +18956,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             114 => 
             array (
@@ -18973,8 +18973,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             115 => 
             array (
@@ -18990,8 +18990,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             116 => 
             array (
@@ -19007,8 +19007,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.seadogbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Today, Sea Dog Brewing Company operates brew pubs in two locations. The Sea Dog in Topsham occupies a scenic spot on the Androscoggin River. The Bangor location overlooks the historic Penobscot River. Both locations serve a full menu of handcrafted ales and creative pub fare with a flair. Being authentic is important to us. Our beers are brewed in a traditional style using only the highest quality ingredients like imported English two-row malted barley and British top-fermenting yeast. Our English brewing style results in brews with a distinctive, refreshing taste and crisp finish unique to top-fermented beers.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             117 => 
             array (
@@ -19024,8 +19024,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             118 => 
             array (
@@ -19041,8 +19041,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.secondstreetbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             119 => 
             array (
@@ -19058,8 +19058,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.selinsgrovebrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             120 => 
             array (
@@ -19075,8 +19075,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sequoiabrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             121 => 
             array (
@@ -19092,8 +19092,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             122 => 
             array (
@@ -19109,8 +19109,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             123 => 
             array (
@@ -19126,8 +19126,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             124 => 
             array (
@@ -19143,8 +19143,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             125 => 
             array (
@@ -19160,8 +19160,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             126 => 
             array (
@@ -19177,8 +19177,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             127 => 
             array (
@@ -19194,8 +19194,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.shipyard.com/',
                 'filepath' => '',
                 'descript' => 'Since 1994, Shipyard Brewing Company has been brewing fine quality products with a wide range of style profiles. We use only top quality ingredients and pride ourselves on the consistency and freshness of our products. All our beer is hand crafted from recipes developed by master brewer Alan Pugsley, one of the most influential people in the craft brewing movement in North America.  Shipyard is available in 35+ states around the country and markets for our freshly brewed, hand-crafted beers continue to expand.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             128 => 
             array (
@@ -19211,8 +19211,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.shmaltz.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             129 => 
             array (
@@ -19228,8 +19228,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             130 => 
             array (
@@ -19245,8 +19245,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.shortsbrewing.com',
                 'filepath' => '',
                 'descript' => 'At SBC we want to share our passion for beer, good beer, and help you to enjoy the fruits of our labor.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             131 => 
             array (
@@ -19262,8 +19262,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.slbrewery.com/',
                 'filepath' => '',
             'descript' => 'Sierra Leone Brewery Limited\'s (SLBL) core values - respect, enjoyment and a passion for quality - help to define our corporate culture and working methods. They are fundamental to the way we do business today, they support our drive towards economic, environmental and social sustainability',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             132 => 
             array (
@@ -19279,8 +19279,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.smbc.com.mx/',
                 'filepath' => '',
                 'descript' => 'An interesting microbrewery -- brewpub -- that started brewing in 1998.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             133 => 
             array (
@@ -19296,8 +19296,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sierranevada.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             134 => 
             array (
@@ -19313,8 +19313,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             135 => 
             array (
@@ -19330,8 +19330,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ptialaska.net/~gbrady/',
                 'filepath' => '',
             'descript' => 'Silver Gulch Brewing and Bottling Co. has been in operation since February 1998 in the small mining community of Fox, Alaska, located about 10 miles north of Fairbanks on the Steese Highway. Silver Gulch Brewing grew from brewmaster Glenn Brady\'s home-brewing efforts in 5-gallon batches to its current capacity of 24-barrel (750 gallon) batches.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             136 => 
             array (
@@ -19347,8 +19347,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             137 => 
             array (
@@ -19364,8 +19364,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             138 => 
             array (
@@ -19381,8 +19381,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             139 => 
             array (
@@ -19398,8 +19398,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sixriversbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             140 => 
             array (
@@ -19415,8 +19415,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sixpointcraftales.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             141 => 
             array (
@@ -19432,8 +19432,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.skabrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             142 => 
             array (
@@ -19449,8 +19449,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             143 => 
             array (
@@ -19466,8 +19466,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             144 => 
             array (
@@ -19483,8 +19483,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             145 => 
             array (
@@ -19500,8 +19500,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             146 => 
             array (
@@ -19517,8 +19517,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.alaskabeers.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             147 => 
             array (
@@ -19534,8 +19534,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             148 => 
             array (
@@ -19551,8 +19551,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.slyfoxbeer.com/index1.asp',
                 'filepath' => '',
             'descript' => 'A family owned brewpub founded in 1995. A second location, in Royersford, PA, was opened in 2004 and includes a full production brewery as well as an accompanying restaurant. Head brewer is Brian O\'Reilly, a multi-GABF Medal winner. Sly Fox packages its beers in cans, 22oz and 750ml bottles, but not in the standard 12oz-er. The pub is noted for its annual Bock Festival & Goat Race (winning goat\'s name goes on the year\'s MaiBock) and the IPA Project, a year-long program of single varietal beers culminating in an Imperial IPA using all those varietals, released at a day-long party every December when all the IPAs are on draught.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             149 => 
             array (
@@ -19568,8 +19568,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.slyfoxbeer.com/index1.asp',
                 'filepath' => '',
             'descript' => 'A full production brewery and accompanying restaurant opened in 2004 by the owners of Sly Fox Brewhouse & Eatery in nearby Phoenixville. The 20bbl brewhouse packages a wide range of beers in 12oz cans, 22oz bottles and 750ml bottles. Pikeland Pils, a multiple GABF Gold Medal Winner, and O\'Reilly\'s Stout, a nitro-poured, draught-only beer named after brewer Brian O\'Reilly\'s grandfather are among its most popular beers, on and off premises, as are such Belgian-style delights as Incubus Tripel, Ichor Quadrupel, Saison Vos & Black Raspberry Reserve. Sly Fox is also noted for its Bock Beers (see listing for the Phoenixville pub for more details) and annual Christmas Ale.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             150 => 
             array (
@@ -19585,8 +19585,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             151 => 
             array (
@@ -19602,8 +19602,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.smuttynose.com/',
                 'filepath' => '',
                 'descript' => 'Smuttynose was founded in 1994 by the folks who started the Northampton and Portsmouth Breweries. Our beers - Shoals Pale Ale, Old Brown Dog, Portsmouth Lager, IPA, Robust Porter, The Big Beer Series & our seasonal specialties - are distributed throughout New England and the mid-Atlantic states.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             152 => 
             array (
@@ -19619,8 +19619,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.snakeriverbrewing.com',
                 'filepath' => '',
                 'descript' => 'from their site: At the Snake River Brewing Company, we think it\'s far easier to produce a million barrels of so-so beer than one barrel of great beer. So, here in Jackson Hole, we only produce about 5,000 barrels of award-winning beer per year. We operate a 15 barrel, steam fired brew house and hand craft our lagers and ales using several yeast strains along with hops and grains from the United States, British Isles and Europe. The SRB Brewery was also granted Organic certification in 2007 allowing us to create our first Organic Certified beer OB-1, an english style brown ale, which is fast becoming a favorite among our patrons.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             153 => 
             array (
@@ -19636,8 +19636,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             154 => 
             array (
@@ -19653,8 +19653,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             155 => 
             array (
@@ -19670,8 +19670,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             156 => 
             array (
@@ -19687,8 +19687,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             157 => 
             array (
@@ -19704,8 +19704,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sonoranbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             158 => 
             array (
@@ -19721,8 +19721,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             159 => 
             array (
@@ -19738,8 +19738,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.southcountybrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             160 => 
             array (
@@ -19755,8 +19755,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             161 => 
             array (
@@ -19772,8 +19772,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://southamptonbrewery.com',
                 'filepath' => '',
                 'descript' => 'The word about the quality of our beer began to get around the metro New York region as soon as we turned on the spigots and started to serve it in our Southampton restaurant. Almost from day one, leading restaurants, pubs and taverns have requested our crafted brews for  their own patrons. Our Brewmaster, Phil Markowski  has personally directed the flow of our ales and lagers into the finest outlets. Our Mission is to offer a wide variety of specialty ales and lagers.  Our small batch brews range from classic farmhouse styles to traditional sessions beers to be enjoyed year-round.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             162 => 
             array (
@@ -19789,8 +19789,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             163 => 
             array (
@@ -19806,8 +19806,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.southernstarbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             164 => 
             array (
@@ -19823,8 +19823,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.southerntierbrewing.com/',
                 'filepath' => '',
                 'descript' => 'Southern Tier Brewing Company was founded in 2004 by Phineas DeMink and Allen Yahn with the vision of bringing small batch brewing back to a region rich in brewing tradition. In 2003 Skip and Phin purchased the defunct Old Saddle Back Brewing Co. in Pittsfield, Massachusetts. All the equipment was removed and brought back to Lakewood, New York and set up at its new 10,000 square foot home, The Southern Tier Brewing Company. The Brewery began operations in February 2004 distributing regionally. By 2005 sales covered the majority of the New York State and the eastern half of Pennsylvania. In the beginning their two Flagship brands were a Pilsner and Mild Ale. Oh yeah they also brewed IPA! As it turned out the flagships were a flop and the IPA was a huge success. They next launched a line of seasonal beers which have gained great success. Since the beginning, Southern Tier has experienced steady growth, currently distributing to over 25% of the United States. Multiple expansions have been made to keep up with demand and the brewery continues to be innovative by producing new products.  Keep a look out for new products coming to stores near you.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             165 => 
             array (
@@ -19840,8 +19840,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             166 => 
             array (
@@ -19857,8 +19857,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.blackdogales.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             167 => 
             array (
@@ -19874,8 +19874,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             168 => 
             array (
@@ -19891,8 +19891,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             169 => 
             array (
@@ -19908,8 +19908,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             170 => 
             array (
@@ -19925,8 +19925,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.shiner.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             171 => 
             array (
@@ -19942,8 +19942,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             172 => 
             array (
@@ -19959,8 +19959,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sprecherbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             173 => 
             array (
@@ -19976,8 +19976,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.springhousebeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             174 => 
             array (
@@ -19993,8 +19993,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             175 => 
             array (
@@ -20010,8 +20010,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stjohnbrewers.com/index.html',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             176 => 
             array (
@@ -20027,8 +20027,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             177 => 
             array (
@@ -20044,8 +20044,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.staustellbrewery.co.uk/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             178 => 
             array (
@@ -20061,8 +20061,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.diageo.ie/Company/Brewing/KilKenny/CompanyBrewingKilkenny',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             179 => 
             array (
@@ -20078,8 +20078,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             180 => 
             array (
@@ -20095,8 +20095,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.guinness.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             181 => 
             array (
@@ -20112,8 +20112,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.ststans.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             182 => 
             array (
@@ -20129,8 +20129,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             183 => 
             array (
@@ -20146,8 +20146,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             184 => 
             array (
@@ -20163,8 +20163,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.standingstonebrewing.com/',
                 'filepath' => '',
                 'descript' => 'Ashland\'s only full service brewpub is housed in an historic building with a light industrial character. We offer our own freshly brewed handcrafted ales and lagers, including seasonal and other specialty brews.  All Standing Stone Ales are made here at the brewery in ten barrel batches using over 80% organic malts.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             185 => 
             array (
@@ -20180,8 +20180,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.steamwhistle.ca',
                 'filepath' => '',
                 'descript' => 'One kind of beer - Steamwhistle Lager.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             186 => 
             array (
@@ -20197,8 +20197,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.steamworks.com/gastown_index.htm',
                 'filepath' => '',
                 'descript' => 'Steamworks gets its name from the famous Gastown steam line that runs through our premises. The Gastown Brewing Company, which is located onsite and brews Steamworks beers, uses steam to fire its kettles. The instant heat of steam allows for greater brewing finesse, and most importantly great tasting beer. Whether you\'re in the mood for a thirst quenching Lions Gate lager, or a full bodied HeriocaTM Oatmeal Stout, we\'ve got a beer to please your palate.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             187 => 
             array (
@@ -20214,8 +20214,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             188 => 
             array (
@@ -20231,8 +20231,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             189 => 
             array (
@@ -20248,8 +20248,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             190 => 
             array (
@@ -20265,8 +20265,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             191 => 
             array (
@@ -20282,8 +20282,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             192 => 
             array (
@@ -20299,8 +20299,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             193 => 
             array (
@@ -20316,8 +20316,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stieglbrauerei.at/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             194 => 
             array (
@@ -20333,8 +20333,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stillwaterales.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             195 => 
             array (
@@ -20350,8 +20350,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stonebrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             196 => 
             array (
@@ -20367,8 +20367,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             197 => 
             array (
@@ -20384,8 +20384,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             198 => 
             array (
@@ -20401,8 +20401,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             199 => 
             array (
@@ -20418,8 +20418,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stonecuttersbrewhouse.com/',
                 'filepath' => '',
             'descript' => 'Stonecutters Brewhouse is a 4 barrel brewhouse located in central Vermont in the small town (pop. 9000) of Barre. Barre is the sister town to Montpelier, which is the capital of Vermont. Stonecutters is a locally owned and operated.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             200 => 
             array (
@@ -20435,8 +20435,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             201 => 
             array (
@@ -20452,8 +20452,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stormbrewing.org',
                 'filepath' => '',
                 'descript' => 'Storm Brewing thundered onto the market in June of 1995 with a brilliantly balanced ale called Red Sky Alt which was reminiscent of the great German Alt Biers of the Golden Years of European brewing. The instant success of Red Sky quickly established the reputation of Brewmaster and owner, James Walton. He is perceived as an innovator and as a stickler for quality by both the media and the trade. Recent expert evaluation rated Storm Brewing\'s Hurricane I.P.A. among the best in the whole of Canada.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             202 => 
             array (
@@ -20469,8 +20469,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.stoudtsbeer.com/brewery.html',
                 'filepath' => '',
                 'descript' => 'Over 20 years, Stoudt\'s Brewing Company has grown and evolved from a small brewery with limited draught distribution, to a packaging regional microbrewery with distribution in 10 different states, producing over 10,000 barrels a year. Even with the growth over the years, one thing has always remained constant, and that is the attention to detail that goes into every batch of handcrafted beer that is traditionally brewed, packaged and sold with passion by our small team of hardworking dedicated employees. A tradition that was started by Ed and Carol and will be carried on by their children for many years to come',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             203 => 
             array (
@@ -20486,8 +20486,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             204 => 
             array (
@@ -20503,8 +20503,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://slbc.ie/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             205 => 
             array (
@@ -20520,8 +20520,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.straubbeer.com/index.htm',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             206 => 
             array (
@@ -20537,8 +20537,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             207 => 
             array (
@@ -20554,8 +20554,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
             'descript' => '(No longer brewing)',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             208 => 
             array (
@@ -20571,8 +20571,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             209 => 
             array (
@@ -20588,8 +20588,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             210 => 
             array (
@@ -20605,8 +20605,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             211 => 
             array (
@@ -20622,8 +20622,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.summitbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             212 => 
             array (
@@ -20639,8 +20639,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.surlybrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             213 => 
             array (
@@ -20656,8 +20656,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             214 => 
             array (
@@ -20673,8 +20673,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.greatamericanrestaurants.com/sweetMainSter/index.htm',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             215 => 
             array (
@@ -20690,8 +20690,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.sweetwaterbrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             216 => 
             array (
@@ -20707,8 +20707,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             217 => 
             array (
@@ -20724,8 +20724,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             218 => 
             array (
@@ -20741,8 +20741,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             219 => 
             array (
@@ -20758,8 +20758,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             220 => 
             array (
@@ -20775,8 +20775,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             221 => 
             array (
@@ -20792,8 +20792,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             222 => 
             array (
@@ -20809,8 +20809,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tablerockbrewpub.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             223 => 
             array (
@@ -20826,8 +20826,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tailgatebeer.com/indexmain.php',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             224 => 
             array (
@@ -20843,8 +20843,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             225 => 
             array (
@@ -20860,8 +20860,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             226 => 
             array (
@@ -20877,8 +20877,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.taproom21.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             227 => 
             array (
@@ -20894,8 +20894,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             228 => 
             array (
@@ -20911,8 +20911,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             229 => 
             array (
@@ -20928,8 +20928,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             230 => 
             array (
@@ -20945,8 +20945,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tempo.co.il/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             231 => 
             array (
@@ -20962,8 +20962,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             232 => 
             array (
@@ -20979,8 +20979,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             233 => 
             array (
@@ -20996,8 +20996,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             234 => 
             array (
@@ -21013,8 +21013,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.terrapinbeer.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             235 => 
             array (
@@ -21030,8 +21030,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.alchemistbeer.com/',
                 'filepath' => '',
                 'descript' => 'The Alchemist is a 7 barrel brew pub specializing in hand-crafted beer and casual pub fare. All of our ales are brewed in our basement brewery, which was designed and installed by our brewer and co-proprietor John Kimmich. We use only the finest imported malts and domestic hops available to bring you the tastiest and finest selection of beers in Vermont!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             236 => 
             array (
@@ -21047,8 +21047,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.blindbatbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             237 => 
             array (
@@ -21064,8 +21064,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thebruery.com/',
                 'filepath' => '',
                 'descript' => 'We are A small craft brewery located in Orange County, California. Our simple but often confusing name is a fusion of \'brewery\' with our family name, Rue. Our calling is to create beers with character and depth using the simplest and purest of means. We do not filter or pasteurize our beers. All of our bottled beers gain carbonation through 100% bottle conditioning, allowing carbonation to naturally occur through a secondary bottle fermentation. We strive to use unconventional ingredients, and we will proudly state what we put in our beers. We enjoy serving you, your friends and your family.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             238 => 
             array (
@@ -21081,8 +21081,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.cambridgebrewhouse.com/',
                 'filepath' => '',
                 'descript' => 'The best brewery in the Connecticut river valley.  Hands down!  It serves 2 beers that have won a total of 3 gold medals at big beer fests.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             239 => 
             array (
@@ -21098,8 +21098,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://churchbrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             240 => 
             array (
@@ -21115,8 +21115,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hopyard.com/',
                 'filepath' => '',
                 'descript' => 'Good rotating selection of beers from distinct breweries. Good food as well.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             241 => 
             array (
@@ -21132,8 +21132,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://liverybrew.com/',
                 'filepath' => '',
                 'descript' => 'All of our Hand Forged Microbrews here at the Livery are painstakingly created by brewmaster Steve Berthel and his assistant, Wally Rouse, on a 10bbl. system of his own design. Closed fermenters allow for the use of many different yeast strains to assure that all our beer styles have their own unique flavor profile. Many of our high gravity beers are aged in a selection of oak barrels for up to a year.  We feature 3 real ales every day, poured to perfection from our antique beer engines. Every 4th. Sunday of the month is Freakin\' Firkin Sunday where we have live Irish Music, home made Ruebens, and 2 Firkins of real ale. We do not bottle our beer at this time, but we do offer our beer to retailers in 1/4 bbls. or 1/2 bbls. Please feel free to contact Steve at steve@liverybrew.com for more info. on distribution in your area. Cheers!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             242 => 
             array (
@@ -21149,8 +21149,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.lostabbey.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             243 => 
             array (
@@ -21166,8 +21166,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.narragansettbeer.com',
                 'filepath' => '',
                 'descript' => 'Famous New England Brand, went defunct in the 1980\'s but has been revived in 2005, with a tasty lager. Locally available in New England',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             244 => 
             array (
@@ -21183,8 +21183,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.roundbarnwinery.com/brewery.php',
                 'filepath' => '',
                 'descript' => 'With more than 30 years of fermentation experience and an award-winning reputation in the industry, our line of hand-crafted brews embody the satisfying bold taste you\'ve come to expect from The Round Barn.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             245 => 
             array (
@@ -21200,8 +21200,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thirdstreetaleworks.com',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             246 => 
             array (
@@ -21217,8 +21217,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thirstydog.com',
                 'filepath' => '',
                 'descript' => 'Here at the Thirsty Dog Brewing Company, full flavor, delicate balance, texture & aroma combine to make beer an infinitely complex experience, and one that can be thoroughly enjoyable. Each of our beers are meticulously hand crafted in small batches using the finest ingredients. High quality malted barley is the source of the beer\'s sweetness & body. Select American & European hops are used to balance the malt sweetness, and , at times, add special flavors & aromas to the beer. Our careful selection of ingredients, along with specially designed recipes & brewing processes, give Thirsty Dog beers their unique flavor profiles that can be hard to find in today\'s mass market. one size fits all society. Our microbrewed beers are far more diverse in range and character then the small spectrum of mass-marketed beers offered to the American public by the large national breweries. Enjoy the diversity, Unleash the flavor today., Welcome to Thirsty Dog Brewing Company, and welcome to great beer!',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             247 => 
             array (
@@ -21234,8 +21234,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             248 => 
             array (
@@ -21251,8 +21251,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             249 => 
             array (
@@ -21268,8 +21268,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.hookerbeer.com/',
                 'filepath' => '',
                 'descript' => 'Tastings every Saturday from 12-6pm, and 1st and 3rd Friday of every month from 5-8.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             250 => 
             array (
@@ -21285,8 +21285,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             251 => 
             array (
@@ -21302,8 +21302,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.threefloydspub.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             252 => 
             array (
@@ -21319,8 +21319,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => 'Freshly-brewed self and local beers, as well as a small but decent selection of beers on tap. Red felt pool table in the back, and friendly barstaff.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             253 => 
             array (
@@ -21336,8 +21336,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.thundercanyonbrewery.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             254 => 
             array (
@@ -21353,8 +21353,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             255 => 
             array (
@@ -21370,8 +21370,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             256 => 
             array (
@@ -21387,8 +21387,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             257 => 
             array (
@@ -21404,8 +21404,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.anthonymartin.be/',
                 'filepath' => '',
             'descript' => 'Timmermans brews only traditional Lambic; the basic beer that, from spontaneous fermentation, is used throughout the entire range. Brewing Lambic, without adding yeast, is a complex and subtle art requiring recipes and patience passed on by the family. Lambics survive thanks to a handful of Brussels breweries and the presence of two micro-organisms that exist only in the Senne Valley: Brettanomyces Bruxellensis and Brettanomyces Lambicus. By adding fruit and spices, the magic of traditionallymade beers unravels: Strawberry, Kriek, Pêche, Framboise, Forest Fruit, but also Oude Gueuze, Kriek Retro, Gueuze, Faro or Lambicus Blanche. A unique site: open daily (including weekends), booking required. Possibilities for your meetings and banquets.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             258 => 
             array (
@@ -21421,8 +21421,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             259 => 
             array (
@@ -21438,8 +21438,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             260 => 
             array (
@@ -21455,8 +21455,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             261 => 
             array (
@@ -21472,8 +21472,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             262 => 
             array (
@@ -21489,8 +21489,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tommyknocker.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             263 => 
             array (
@@ -21506,8 +21506,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             264 => 
             array (
@@ -21523,8 +21523,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tongerlo.be',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             265 => 
             array (
@@ -21540,8 +21540,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             266 => 
             array (
@@ -21557,8 +21557,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             267 => 
             array (
@@ -21574,8 +21574,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             268 => 
             array (
@@ -21591,8 +21591,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             269 => 
             array (
@@ -21608,8 +21608,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             270 => 
             array (
@@ -21625,8 +21625,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             271 => 
             array (
@@ -21642,8 +21642,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             272 => 
             array (
@@ -21659,8 +21659,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             273 => 
             array (
@@ -21676,8 +21676,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://trinitybrew.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             274 => 
             array (
@@ -21693,8 +21693,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             275 => 
             array (
@@ -21710,8 +21710,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.triumphbrewing.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             276 => 
             array (
@@ -21727,8 +21727,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => '',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             277 => 
             array (
@@ -21744,8 +21744,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.troegs.com/',
                 'filepath' => '',
             'descript' => 'Tröegs Brewing Company was established in 1997. Today, the brewery produces nine different beers including Hopback Amber Ale, Troegenator Doublebock, Rugged Trail Ale, Tröegs Pale Ale, Nugget Nectar (seasonal) Dead Reckoning Porter (seasonal), Sunshine Pils (seasonal), The Mad Elf (seasonal), and distributes its product in Pennsylvania, New Jersey, Maryland, Delaware and Virginia.',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             278 => 
             array (
@@ -21761,8 +21761,8 @@ class BreweriesTableSeeder extends Seeder
                 'website' => 'http://www.tropbevco.com/',
                 'filepath' => '',
                 'descript' => '',
-                'add_user' => '0',
-                'last_mod' => '2010-07-22 20:00:20',
+                'addUser' => '0',
+                'lastMod' => '2010-07-22 20:00:20',
             ),
             279 => 
             array (
@@ -21778,8 +21778,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.troutriverbrewing.com/',
             'filepath' => '',
             'descript' => 'Trout River Brewing prides itself on creating and serving fresh, all natural, premium ales and lagers. Our beers are made with pure Vermont water, the best imported and domestic malts and hops, and quality yeasts. Nothing else is added and we take nothing away!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         280 => 
         array (
@@ -21795,8 +21795,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         281 => 
         array (
@@ -21812,8 +21812,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         282 => 
         array (
@@ -21829,8 +21829,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         283 => 
         array (
@@ -21846,8 +21846,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         284 => 
         array (
@@ -21863,8 +21863,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         285 => 
         array (
@@ -21880,8 +21880,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         286 => 
         array (
@@ -21897,8 +21897,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         287 => 
         array (
@@ -21914,8 +21914,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         288 => 
         array (
@@ -21931,8 +21931,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.twistedpinebrewing.com/',
             'filepath' => '',
             'descript' => 'Established in 1995, Twisted Pine Brewing Company produces only 100% natural, unpasteurized pure malt ales, batch brewed and hand-crafted. Because we believe that craft beer is best enjoyed fresh, Twisted Pine ales can only be found throughout Colorado. By maintaining only a local presence we feel proud that our beers capture the full flavor and variety of style found at our brewery. It is our intention to bring to you a select family of individually distinctive ales that we as brewers would enjoy drinking ourselves. That is our final measure. We ignore costs, fads, and difficulty in creating our ales. And, while we are very serious about the art and business of beer making, we try to avoid taking ourselves too seriously. After all, we realize brewing a fine beer isn\'t exactly nuclear physics. It\'s something far more important. -Twistedpine.com',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         289 => 
         array (
@@ -21948,8 +21948,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.twobrosbrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         290 => 
         array (
@@ -21965,8 +21965,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         291 => 
         array (
@@ -21982,8 +21982,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         292 => 
         array (
@@ -21999,8 +21999,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.tyranena.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         293 => 
         array (
@@ -22016,8 +22016,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.tyskie.pl/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         294 => 
         array (
@@ -22033,8 +22033,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         295 => 
         array (
@@ -22050,8 +22050,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.uintabrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         296 => 
         array (
@@ -22067,8 +22067,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         297 => 
         array (
@@ -22084,8 +22084,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         298 => 
         array (
@@ -22101,8 +22101,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.unibroue.com',
             'filepath' => '',
             'descript' => 'There is more to certain beers than simple refreshment. Unibroue has raised the standards of conventional beer in by brewing craftsman beers for savouring.  Of incomparable quality and a taste, the beers at Unibroue are entirely natural, contain no chemical additives or preservatives, and are made with first quality ingredients.  Rediscover beer with Unibroue. You will never taste beer the same way again!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         299 => 
         array (
@@ -22118,8 +22118,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.unicer.pt',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         300 => 
         array (
@@ -22135,8 +22135,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.unionbarrelworks.com/',
             'filepath' => '',
             'descript' => 'Union Barrel Works is a restaurant and brew pub located in Reamstown, Pennsylvania in an historic building which originally functioned as a hardware store. It later became Reamstown Garment and was a sewing factory. The building itself was built in 1911 and still has the original hardwood maple floors and authentic tin ceiling. Come visit us for a great atmosphere, better food and excellent beer!',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         301 => 
         array (
@@ -22152,8 +22152,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         302 => 
         array (
@@ -22169,8 +22169,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         303 => 
         array (
@@ -22186,8 +22186,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         304 => 
         array (
@@ -22203,8 +22203,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.uplandbeer.com',
             'filepath' => '',
         'descript' => 'Located in downtown Bloomington, just a few blocks from Courthouse Square, we are open (and brewing award-winning beers) every day of the year except Thanksgiving, Christmas Day, and New Year\'s Day. The Tap Room and Biergarten has six everyday Upland beers on tap with additional Seasonal brews (Oktoberfest, Winter Warmer, Chocolate Stout, Maibock�yea springtime!) throughout the year. (Check the News section opposite for seasonal release dates and related celebrations.) The Tap Room restaurant offers an eclectic menu of great pub grub (signature nachos, rib tips like no others) plus dinner fare that addresses sophisticated palates with cuisines from around the world. (Yes, we\'re a brew pub, but our wine list is excellent). Better yet, sign on to our Upland Update to learn who\'s performing. And while you\'re here be sure to check out the weekly dinner specials from the fertile imaginations of our excellent restaurant crew. Part of a group that\'s interested in brewing? Arrange for a brewery tour. We are proud of our hand-crafted, award-winning beers and would be delighted to guide you through the many stages involved in the brewing process. In the meantime, take the Virtual Tour for an inside look at how glorious stainless steel can be when directed to perform a noble task! Most of all, everyone here welcomes you to come by and partake of the Upland Experience�where great food, great beer, and great friends come together. Can\'t get to Bloomington? No problemo. As Indiana\'s largest microbrewer, you can find Upland beers in better stores, taverns, and restaurants throughout the state of Indiana.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         305 => 
         array (
@@ -22220,8 +22220,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         306 => 
         array (
@@ -22237,8 +22237,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         307 => 
         array (
@@ -22254,8 +22254,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.upstreambrewing.com/',
             'filepath' => '',
             'descript' => 'Derived from the Native American meaning of Omaha, upstream or against the current, the Upstream Brewing Company is just that�a restaurant different from the rest. Since opening in 1996, the Upstream has been all about fresh�from the handcrafted beers to the locally grown produce to the lively atmosphere. Not to mention the friendly, knowledgeable staff. So stop in today, and find out why we\'ve been named one of Omaha\'s Best several years running.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         308 => 
         array (
@@ -22271,8 +22271,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         309 => 
         array (
@@ -22288,8 +22288,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.utahbeers.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         310 => 
         array (
@@ -22305,8 +22305,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         311 => 
         array (
@@ -22322,8 +22322,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.valleybrew.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         312 => 
         array (
@@ -22339,8 +22339,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         313 => 
         array (
@@ -22356,8 +22356,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         314 => 
         array (
@@ -22373,8 +22373,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         315 => 
         array (
@@ -22390,8 +22390,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.vermontbrewery.com/',
             'filepath' => '',
             'descript' => 'VPB is the third oldest brewpub on the East Coast.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         316 => 
         array (
@@ -22407,8 +22407,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.brauhaus-vetter.de',
             'filepath' => '',
             'descript' => 'Founded 1987, Vetter Old Heidelberg Brewpub, was the first Bewpub in Heidelberg.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         317 => 
         array (
@@ -22424,8 +22424,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.victorybeer.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         318 => 
         array (
@@ -22441,8 +22441,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         319 => 
         array (
@@ -22458,8 +22458,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.vintage50.com/',
             'filepath' => '',
             'descript' => 'Vintage 50, at this Leesburg, Virginia classically modern brewery.  Whether you enjoy a fine California cabernet paired with innovative New American fare, or a cold beer brewed on-site paired with classic comfort food, you will feel at home at Vintage 50. Guests will relax in style while enjoying libations from near and far as well as a menu that features fresh, seasonal ingredients.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         320 => 
         array (
@@ -22475,8 +22475,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         321 => 
         array (
@@ -22492,8 +22492,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.voodoobrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         322 => 
         array (
@@ -22509,8 +22509,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         323 => 
         array (
@@ -22526,8 +22526,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.wachusettbrew.com',
             'filepath' => '',
             'descript' => 'History Wachusett Brewery founders Ned, Kevin and Peter developed a significant appreciation for beer while attending Worcester Polytechnic Institute. Adventures in biking, canoeing, and hiking that led the trio to the northern New England states allowed them to visit some of the first operating craft breweries. Armed with a we can do this attitude the three cast off from their careers in engineering and biology to found the Wachusett Brewing Co. in 1993. Wachusett Country Ale was introduced to beer fans of Massachusetts the next year after lots of experimenting to get the formula just right. When Wachusett opened, the three designed and built most of the equipment; did the brewing and filling, selling and delivering, and everything else that a small startup brewery needed. Ned, Kevin and Peter are now backed by some of the most passionate and capable co-workers in the industry. Wachusett Ales continue to be hand crafted with the finest ingredients available, bottled and kegged in our Westminster facility. The three have never strayed from their plan to brew and sell the freshest, highest quality beers possible.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         324 => 
         array (
@@ -22543,8 +22543,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         325 => 
         array (
@@ -22560,8 +22560,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         326 => 
         array (
@@ -22577,8 +22577,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.walkingmanbrewing.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         327 => 
         array (
@@ -22594,8 +22594,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://walldorffbrewpub.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         328 => 
         array (
@@ -22611,8 +22611,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         329 => 
         array (
@@ -22628,8 +22628,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         330 => 
         array (
@@ -22645,8 +22645,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         331 => 
         array (
@@ -22662,8 +22662,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         332 => 
         array (
@@ -22679,8 +22679,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
         'descript' => '(No longer brewing)',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         333 => 
         array (
@@ -22696,8 +22696,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         334 => 
         array (
@@ -22713,8 +22713,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         335 => 
         array (
@@ -22730,8 +22730,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         336 => 
         array (
@@ -22747,8 +22747,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         337 => 
         array (
@@ -22764,8 +22764,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         338 => 
         array (
@@ -22781,8 +22781,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         339 => 
         array (
@@ -22798,8 +22798,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.bombardier.co.uk/bombardier',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         340 => 
         array (
@@ -22815,8 +22815,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.wernesgruener.de/',
             'filepath' => '',
             'descript' => 'founded 1436',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         341 => 
         array (
@@ -22832,8 +22832,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.wernesgruener.de/',
             'filepath' => '',
             'descript' => 'The Wernesgrüner Brewery or Wernesgrüner Brauerei GmbH is a brewery in Steinberg-Wernesgrün, Saxony, Germany. The brewery was founded in 1436 when the brothers Schorer acquired the rights to brew and open a tavern. After establishing property for bottling they soon began brewing on what would become the foundations of the Wernesgrüner Pils Legend. It is known as the aforementioned Pils Legend, because it was a bitter specialty during the communist period in Germany. [1] Throughout the company\'s history it has endured numerous changes of ownership. In 1762 the Günnel family bought the Schorer brewery. In 1774 the Männel family took over the bottling properties. Even though at the end of the 19th century the label now had five independent breweries, the families were still competing with each other. By 1910 the company had established itself throughout Germany and the Netherlands, and was even served on the renowned Hapag-Lloyd ships that ran from Hamburg to America.[1] The company was acquired by the Bitburger Braugruppe GmbH in 2002. The current output is 850,000 hl per year.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         342 => 
         array (
@@ -22849,8 +22849,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         343 => 
         array (
@@ -22866,8 +22866,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.weyerbacher.com/',
             'filepath' => '',
         'descript' => 'At Weyerbacher, we\'re passionate about our brews. That passion is reflected in the diversity of our offerings. We currently offer over twenty styles of beers. These range from our flagship beers Double Simcoe IPA, Hops Infusion, Merry Monks\' Ale, Old Heathen and Blithering Idiot Barleywine to our big seasonals like QUAD and Imperial Pumpkin Ale. And don\'t forget our bourbon barrel beers: Heresy, Insanity, and Blasphemy ( and yes, we actually age them in real bourbon barrels, and we only use the barrels once). We practically have a new seasonal every month.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         344 => 
         array (
@@ -22883,8 +22883,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         345 => 
         array (
@@ -22900,8 +22900,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.thewharfrat.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         346 => 
         array (
@@ -22917,8 +22917,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         347 => 
         array (
@@ -22934,8 +22934,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         348 => 
         array (
@@ -22951,8 +22951,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.redbrickstation.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         349 => 
         array (
@@ -22968,8 +22968,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         350 => 
         array (
@@ -22985,8 +22985,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         351 => 
         array (
@@ -23002,8 +23002,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         352 => 
         array (
@@ -23019,8 +23019,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         353 => 
         array (
@@ -23036,8 +23036,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         354 => 
         array (
@@ -23053,8 +23053,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.wildgoosebrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         355 => 
         array (
@@ -23070,8 +23070,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         356 => 
         array (
@@ -23087,8 +23087,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         357 => 
         array (
@@ -23104,8 +23104,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         358 => 
         array (
@@ -23121,8 +23121,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         359 => 
         array (
@@ -23138,8 +23138,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         360 => 
         array (
@@ -23155,8 +23155,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         361 => 
         array (
@@ -23172,8 +23172,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         362 => 
         array (
@@ -23189,8 +23189,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         363 => 
         array (
@@ -23206,8 +23206,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => 'Closed.',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         364 => 
         array (
@@ -23223,8 +23223,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         365 => 
         array (
@@ -23240,8 +23240,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         366 => 
         array (
@@ -23257,8 +23257,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         367 => 
         array (
@@ -23274,8 +23274,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         368 => 
         array (
@@ -23291,8 +23291,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         369 => 
         array (
@@ -23308,8 +23308,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         370 => 
         array (
@@ -23325,8 +23325,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.wynkoop.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         371 => 
         array (
@@ -23342,8 +23342,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         372 => 
         array (
@@ -23359,8 +23359,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         373 => 
         array (
@@ -23376,8 +23376,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         374 => 
         array (
@@ -23393,8 +23393,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         375 => 
         array (
@@ -23410,8 +23410,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.marshallwharf.com',
             'filepath' => 'mwLogo1.png',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         376 => 
         array (
@@ -23427,8 +23427,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.youngs.co.uk',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '1',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '1',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         377 => 
         array (
@@ -23444,8 +23444,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.zearestaurants.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         378 => 
         array (
@@ -23461,8 +23461,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         379 => 
         array (
@@ -23478,8 +23478,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.yuengling.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         380 => 
         array (
@@ -23495,8 +23495,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.york-brewery.co.uk',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         381 => 
         array (
@@ -23512,8 +23512,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.yellowstonevalleybrew.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         382 => 
         array (
@@ -23529,8 +23529,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.yazoobrew.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         383 => 
         array (
@@ -23546,8 +23546,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '0',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '0',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         384 => 
         array (
@@ -23563,8 +23563,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => '',
             'filepath' => '',
             'descript' => 'Planned to begin brewing in fall 2010.',
-            'add_user' => '4',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '4',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         385 => 
         array (
@@ -23580,8 +23580,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.aviatorbrew.com/',
             'filepath' => 'LIGHTGREY2.jpg',
             'descript' => '',
-            'add_user' => '55',
-            'last_mod' => '2010-07-22 20:00:20',
+            'addUser' => '55',
+            'lastMod' => '2010-07-22 20:00:20',
         ),
         386 => 
         array (
@@ -23597,8 +23597,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://aspenbrewingcompany.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '141',
-            'last_mod' => '2010-11-08 08:40:44',
+            'addUser' => '141',
+            'lastMod' => '2010-11-08 08:40:44',
         ),
         387 => 
         array (
@@ -23614,8 +23614,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.tallgrassbeer.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '146',
-            'last_mod' => '2010-11-11 19:21:21',
+            'addUser' => '146',
+            'lastMod' => '2010-11-11 19:21:21',
         ),
         388 => 
         array (
@@ -23631,8 +23631,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://inyourguts.blogspot.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '149',
-            'last_mod' => '2010-11-14 11:17:07',
+            'addUser' => '149',
+            'lastMod' => '2010-11-14 11:17:07',
         ),
         389 => 
         array (
@@ -23648,8 +23648,8 @@ class BreweriesTableSeeder extends Seeder
             'website' => 'http://www.njbeerco.com',
             'filepath' => 'NJBClogo1.jpg',
             'descript' => 'New Jersey Beer Co. is dedicated to crafting quality beer for all; from the occasional beer drinker to the beer aficionado. We believe that good products come from good people, and strive to do our very best for our community and our customers. We believe we can provide happiness through doing what we love, and that a good beer can make the good times great.',
-            'add_user' => '153',
-            'last_mod' => '2010-11-17 14:11:59',
+            'addUser' => '153',
+            'lastMod' => '2010-11-17 14:11:59',
         ),
         390 => 
         array (
@@ -23671,8 +23671,8 @@ When we created our first product, FINNEGANS Irish Amber, we made the decision t
 What a journey it\'s been.
 
 FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dakota. Since first being profitable in 2003, we have donated over $150,000 to the FINNEGANS Community Fund, which in turn has given grants to non-profits across the Midwest to support life-changing programs for the working poor. We plan to roll out a new FINNEGANS product in 2011, and eventually have an entire line of FINNEGANS branded products',
-            'add_user' => '172',
-            'last_mod' => '2010-12-03 17:53:48',
+            'addUser' => '172',
+            'lastMod' => '2010-12-03 17:53:48',
         ),
         391 => 
         array (
@@ -23688,8 +23688,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
             'website' => 'http://www.halfpintsbrewing.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '195',
-            'last_mod' => '2010-12-13 19:30:01',
+            'addUser' => '195',
+            'lastMod' => '2010-12-13 19:30:01',
         ),
         392 => 
         array (
@@ -23705,8 +23705,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
             'website' => 'http://www.wvwinery.com',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '179',
-            'last_mod' => '2010-12-20 16:17:52',
+            'addUser' => '179',
+            'lastMod' => '2010-12-20 16:17:52',
         ),
         393 => 
         array (
@@ -23722,8 +23722,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '292',
-            'last_mod' => '2011-02-10 01:47:16',
+            'addUser' => '292',
+            'lastMod' => '2011-02-10 01:47:16',
         ),
         394 => 
         array (
@@ -23739,8 +23739,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
             'website' => 'http://http://www.schlafly.com',
             'filepath' => 'schlafly.3color_.jpg',
             'descript' => 'The Schlafly Tap Room first opened its doors in 1991 and proudly holds the distinction of being the first new brewpub in Missouri since Prohibition.',
-            'add_user' => '295',
-            'last_mod' => '2011-02-10 07:49:03',
+            'addUser' => '295',
+            'lastMod' => '2011-02-10 07:49:03',
         ),
         395 => 
         array (
@@ -23762,8 +23762,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
 * Product is exported to 42 countries
 * 10 breweries: 2 factories in St. Petersburg and factories in Rostov-on-Don, Tula, Samara, Khabarovsk, Yaroslavl, Voronezh, Chelyabinsk, and Krasnoyarsk.
 * Around 12,000 employees',
-            'add_user' => '303',
-            'last_mod' => '2011-02-15 19:35:41',
+            'addUser' => '303',
+            'lastMod' => '2011-02-15 19:35:41',
         ),
         396 => 
         array (
@@ -23785,8 +23785,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
 * Product is exported to 42 countries
 * 10 breweries: 2 factories in St. Petersburg and factories in Rostov-on-Don, Tula, Samara, Khabarovsk, Yaroslavl, Voronezh, Chelyabinsk, and Krasnoyarsk.
 * Around 12,000 employees',
-            'add_user' => '303',
-            'last_mod' => '2011-02-15 19:35:47',
+            'addUser' => '303',
+            'lastMod' => '2011-02-15 19:35:47',
         ),
         397 => 
         array (
@@ -23804,8 +23804,8 @@ FINNEGANS Irish Amber is now sold throughout Minnesota, Wisconsin, and North Dak
             'descript' => 'The Catawba Valley Brewing Company grew out of a simple gift, and the love of good beer.  A beginner\'s home brewing kit given years ago began a passion for brewing that could only culminate with production on a larger scale.  It seemed natural to take production from a few gallons to a few barrels and beyond. During the summer of 1999 the business that is now Catawba Valley Brewing Company was born.
 
 In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganton, NC.  In the process we didn\'t lose a customer or miss a delivery.  In fact we achieved record spring sales.  In addition to relocating we\'ve also opened our taproom to the public.  We encourage those interested in finely crafted beers to stop by and try our selection of beers.  Getting a fresher beer is a near impossibility.',
-            'add_user' => '305',
-            'last_mod' => '2011-02-16 12:36:49',
+            'addUser' => '305',
+            'lastMod' => '2011-02-16 12:36:49',
         ),
         398 => 
         array (
@@ -23821,8 +23821,8 @@ In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganto
             'website' => 'http://www.walnutbrewery.com/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '329',
-            'last_mod' => '2011-03-01 13:26:24',
+            'addUser' => '329',
+            'lastMod' => '2011-03-01 13:26:24',
         ),
         399 => 
         array (
@@ -23838,8 +23838,8 @@ In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganto
             'website' => 'www.columbusbrewingco.com',
             'filepath' => 'columbus_brewing_company.jpg',
             'descript' => 'Located just south of downtown Columbus, Ohio, adjacent to German Village in the historic Brewery District, Columbus Brewing Company Restaurant features award-winning food and beer in an upscale-casual setting.',
-            'add_user' => '337',
-            'last_mod' => '2011-03-08 12:19:07',
+            'addUser' => '337',
+            'lastMod' => '2011-03-08 12:19:07',
         ),
         400 => 
         array (
@@ -23855,8 +23855,8 @@ In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganto
             'website' => 'http://www.osobrewing.com/Home.php',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '348',
-            'last_mod' => '2011-03-16 09:05:15',
+            'addUser' => '348',
+            'lastMod' => '2011-03-16 09:05:15',
         ),
         401 => 
         array (
@@ -23872,8 +23872,8 @@ In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganto
             'website' => 'http://www.elementbeer.com',
             'filepath' => '',
             'descript' => 'Nano Brewery specializing in bottle conditioned ales.',
-            'add_user' => '412',
-            'last_mod' => '2011-04-18 05:17:29',
+            'addUser' => '412',
+            'lastMod' => '2011-04-18 05:17:29',
         ),
         402 => 
         array (
@@ -23893,8 +23893,8 @@ In April of 2007 the brewery relocated from Glen Alpine, NC to downtown Morganto
 Cain had begun his brewing career aged 24 when he purchased a pub and brewed his own ales. Within 25 years of founding his brewery, Cain had established over 200 pubs. Robert Cain passed away in 1907 and the brewery still lives on to this day. 
 
 One of the most iconic beer brands in the UK Cain\'s has gone from strength to strength since being taken over by Indian brothers Sudarghara and Ajmail Dusanj in 2002. Cains now exports it\'s famous beers worldwide to the USA, Denmark, China, Ireland, India and Australia.',
-            'add_user' => '455',
-            'last_mod' => '2011-05-17 03:05:10',
+            'addUser' => '455',
+            'lastMod' => '2011-05-17 03:05:10',
         ),
         403 => 
         array (
@@ -23913,8 +23913,8 @@ One of the most iconic beer brands in the UK Cain\'s has gone from strength to s
 We chose this location because it is in the last frontier of Asheville.
 We chose this specific space because it is a perfect fit for our brewing system and gives
 us great outdoor potential.',
-            'add_user' => '462',
-            'last_mod' => '2011-05-23 10:34:59',
+            'addUser' => '462',
+            'lastMod' => '2011-05-23 10:34:59',
         ),
         404 => 
         array (
@@ -23936,8 +23936,8 @@ In the 1860s there were 155 registered breweries in Ontario, and countless small
 The equipment at Black Creek Historic Brewery is made mainly of wood and copper, and the beer ferments the way it was done in the old days, with wooden barrels to age the beer. Malted barley is shoveled by hand into the wort tun where it is boiled into a mash. After filtering the solids through a linen cloth, the sugary liquid is boiled and hops are added, both for flavouring and as a natural preservative. Once the boiling is complete, the beer is put in barrels where the yeast is added. A short time later, the beer is ready!
 
 Visitors can sample the beer at cellar temperature, the way it was enjoyed in the past, or drink a chilled pint in the pub, the way many people prefer it today. Either way, you',
-            'add_user' => '483',
-            'last_mod' => '2011-06-08 07:07:47',
+            'addUser' => '483',
+            'lastMod' => '2011-06-08 07:07:47',
         ),
         405 => 
         array (
@@ -23953,8 +23953,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => 'http://www.hertogjan.nl/site/',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '490',
-            'last_mod' => '2011-06-15 04:59:30',
+            'addUser' => '490',
+            'lastMod' => '2011-06-15 04:59:30',
         ),
         406 => 
         array (
@@ -23974,8 +23974,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
 1. Our love of the tradition and artistic approach of the Belgian & French styles of beers
 2. Devotion to using local sources for ingredients and running our business according to the three pillars of sustainability; Environmental Integrity, Social Equity, and Economic Viability
 3. Sharing the experience of how beer and food can be paired to uplift the enjoyment of both',
-            'add_user' => '494',
-            'last_mod' => '2011-06-22 12:19:30',
+            'addUser' => '494',
+            'lastMod' => '2011-06-22 12:19:30',
         ),
         407 => 
         array (
@@ -23991,8 +23991,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '516',
-            'last_mod' => '2011-07-07 07:42:42',
+            'addUser' => '516',
+            'lastMod' => '2011-07-07 07:42:42',
         ),
         408 => 
         array (
@@ -24008,8 +24008,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '516',
-            'last_mod' => '2011-07-07 07:44:13',
+            'addUser' => '516',
+            'lastMod' => '2011-07-07 07:44:13',
         ),
         409 => 
         array (
@@ -24025,8 +24025,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => 'http://www.echigo-beer.jp/',
             'filepath' => 'echigo.png',
             'descript' => '',
-            'add_user' => '535',
-            'last_mod' => '2011-07-23 20:36:03',
+            'addUser' => '535',
+            'lastMod' => '2011-07-23 20:36:03',
         ),
         410 => 
         array (
@@ -24042,8 +24042,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '539',
-            'last_mod' => '2011-07-28 19:03:35',
+            'addUser' => '539',
+            'lastMod' => '2011-07-28 19:03:35',
         ),
         411 => 
         array (
@@ -24059,8 +24059,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => 'http://www.dcbrau.com/',
             'filepath' => 'logo.png',
             'descript' => 'The first brewery to open in the nation\'s capital since Prohibition.',
-            'add_user' => '553',
-            'last_mod' => '2011-08-08 19:02:40',
+            'addUser' => '553',
+            'lastMod' => '2011-08-08 19:02:40',
         ),
         412 => 
         array (
@@ -24076,8 +24076,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => '',
             'filepath' => '',
             'descript' => '',
-            'add_user' => '590',
-            'last_mod' => '2011-09-27 00:35:48',
+            'addUser' => '590',
+            'lastMod' => '2011-09-27 00:35:48',
         ),
         413 => 
         array (
@@ -24093,8 +24093,8 @@ Visitors can sample the beer at cellar temperature, the way it was enjoyed in th
             'website' => '',
             'filepath' => '',
             'descript' => 'La Brasserie du Bouffay est situ',
-            'add_user' => '602',
-            'last_mod' => '2011-10-04 00:24:33',
+            'addUser' => '602',
+            'lastMod' => '2011-10-04 00:24:33',
         ),
     ));
         

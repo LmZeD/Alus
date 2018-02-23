@@ -9,6 +9,7 @@ use Behat\Gherkin\Node\TableNode;
 use Behat\Mink\Driver\Selenium2Driver;
 use Behat\MinkExtension\Context\MinkContext;
 use App\Http\Controllers\TripController;
+use Illuminate\Support\Facades\Config;
 use PHPUnit\Framework\Assert;
 use Behat\MinkExtension\Context\RawMinkContext;
 use Illuminate\Support\Facades\URL;
@@ -18,7 +19,7 @@ use Illuminate\Support\Facades\URL;
  */
 class FeatureContext extends RawMinkContext implements Context, SnippetAcceptingContext
 {
-    private $trip;
+
 
     /**
      * Initializes context.
@@ -29,9 +30,7 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function __construct()
     {
-        $this->trip = new TripController();
     }
-
 
     /**
      * @Given I am in root page
@@ -53,35 +52,13 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
     }
 
     /**
-     * @Then I get redirected to output page
-     */
-    public function iGetRedirectedToOutputPage()
-    {
-        Assert::assertSame(
-            $this->getSession()->getCurrentUrl(),
-            'http://127.0.0.1:8000/results?longitude=19.43295600&latitude=51.742503'
-        );
-    }
-
-    /**
      * @Then I get data of visited breweries
      */
     public function iGetDataOfVisitedBreweries()
     {
         Assert::assertSame(
-            $this->getSession()->getPage()->find('css', '.heading')->getText(),
-            'Results'
-        );
-    }
-
-    /**
-     * @Then I get redirected to root page
-     */
-    public function iGetRedirectedToRootPage()
-    {
-        Assert::assertSame(
-            $this->getSession()->getCurrentUrl(),
-            'http://127.0.0.1:8000/'
+            'Results',
+            $this->getSession()->getPage()->find('css', '.heading')->getText()
         );
     }
 
@@ -91,9 +68,37 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
     public function iGetMessageThatNoBreweriesAreNearby()
     {
         Assert::assertSame(
-            $this->getSession()->getPage()->find('css', '.alert-danger')->getText(),
-            'No breweries are close enough...'
+            'No breweries are close enough...',
+            $this->getSession()->getPage()->find('css', '.alert-danger')->getText()
         );
     }
 
+    /**
+     * @Then I get redirected to root page
+     */
+    public function iGetRedirectedToRootPage()
+    {
+        $baseUrl = \config('app.url');
+        //workaround 'url/' isn't equal to 'url', but when you add / to second url, first one loses /
+        if ($baseUrl != $this->getSession()->getCurrentUrl()) {
+            $baseUrl=$baseUrl.'/';
+        }
+        Assert::assertEquals(
+            $baseUrl,
+            $this->getSession()->getCurrentUrl()
+        );
+    }
+
+    /**
+     * @Then I get redirected to output page with argument values: :arg1 :arg2
+     */
+    public function iGetRedirectedToOutputPageWithArgumentValues($arg1, $arg2)
+    {
+        $baseUrl = \config('app.url').'/';
+        $actualValue=$baseUrl.'results?longitude='.$arg1.'&latitude='.$arg2;
+        Assert::assertSame(
+            $actualValue,
+            $this->getSession()->getCurrentUrl()
+        );
+    }
 }

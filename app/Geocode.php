@@ -7,10 +7,12 @@ use Illuminate\Database\Eloquent\Model;
 class Geocode extends Model
 {
     protected $table = 'geocodes';
-    protected $fillable = ['brewery_id', 'latitude', 'longitude'];
+    protected $fillable = ['breweryId', 'latitude', 'longitude'];
+    protected $primaryKey = 'id';
+    public $timestamps = false;
 
-    public static function getGeocodeForBrewery($breweryId)
+    public function brewery()
     {
-        return Geocode::where('brewery_id', $breweryId)->select('latitude', 'longitude')->first();
+        return $this->belongsTo('App\Brewery', 'breweryId');
     }
 }
