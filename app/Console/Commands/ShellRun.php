@@ -31,6 +31,8 @@ class ShellRun extends Command
 
     /**
      * Create a new command instance.
+     * @param $tripMakingService
+     * @param $outputDataFetchingService
      *
      * @return void
      */
@@ -66,6 +68,10 @@ class ShellRun extends Command
         //services
 
         $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
+        if (empty($resultArray)) {
+            echo('No breweries are close enough...');
+            exit(0);
+        }
         $results = $this->outputDataFetchingService->fetchDataForOutput(
             $resultArray['usedIndexes'],
             $resultArray['breweriesData'],
@@ -74,6 +80,7 @@ class ShellRun extends Command
             $resultArray['startLongitude'],
             $resultArray['tripDistance']
         );
+
         if ($results === 'failed' || $results == null) {
             echo('No breweries are close enough...');
             exit(0);

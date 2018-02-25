@@ -35,8 +35,10 @@ class TripMakingService
         if (!isDistance($tripDistance) || !validateLongitude($startLongitude) || !validateLatitude($startLatitude)) {
             return [];
         }
-
         $breweriesData = $this->setUpData($startLongitude, $startLatitude, $tripDistance);
+        if ($breweriesData === []) {//nothing in range found
+            return [];
+        }
         $routeData = $this->calculateRouteData($startLongitude, $startLatitude, $tripDistance, $breweriesData);
 
         $usedIndexes = $routeData['usedIndexes'];
@@ -57,17 +59,16 @@ class TripMakingService
     {
         $latitudeDifferenceAllowed = differenceAllowed($tripDistance);
         $longitudeDifferenceAllowed = differenceAllowed($tripDistance);
-
         $breweriesData = $this->breweriesDataFetchingService->setUpBreweriesData(
             $startLongitude,
             $startLatitude,
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-
         return $breweriesData;
     }
 
+    //maybe this should go to 'calculateWholeTrip' method? On the other hand code looks much cleaner.
     private function calculateRouteData($startLongitude, $startLatitude, $tripDistance, $breweriesData)
     {
         $routeData = $this->routeCalculationService->calculateRoute(
@@ -76,7 +77,6 @@ class TripMakingService
             $tripDistance,
             $breweriesData
         );
-
         return $routeData;
     }
 }

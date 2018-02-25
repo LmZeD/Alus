@@ -2,13 +2,33 @@
 
 namespace Tests\Unit;
 
-use App\Services\TripMakingService;
+use function App\Http\dataFactory;
+use App\Services\DistanceCalculationService;
+use App\Services\FindClosestPointService;
 use Tests\TestCase;
-use Illuminate\Foundation\Testing\WithFaker;
-use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class FindClosestPointTest extends TestCase
+class FindClosestPointServiceTest extends TestCase
 {
+    private $findClosestPointService;
+    private $distanceCalculationServiceMock;
+
+    public function __construct(
+        string $name = null,
+        array $data = [],
+        string $dataName = ''
+    ) {
+        parent::__construct($name, $data, $dataName);
+        $this->setUpMocks();
+        $this->findClosestPointService = new FindClosestPointService(
+            $this->distanceCalculationServiceMock
+        );
+    }
+
+    protected function setUpMocks()
+    {
+        $this->distanceCalculationServiceMock = \Mockery::mock(DistanceCalculationService::class);
+    }
+
     /**
      * Test where all arguments passed as null
      *
@@ -18,14 +38,13 @@ class FindClosestPointTest extends TestCase
      */
     public function testNullAsAllInputs()
     {
-        $tripMakingService = new TripMakingService();
         $currentLong = null;
         $currentLat = null;
         $usedIndexes = null;
         $distanceLeft = null;
         $breweriesData = null;
 
-        $result = $tripMakingService->findClosestPoint(
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -45,14 +64,15 @@ class FindClosestPointTest extends TestCase
      */
     public function testNullAsArrayInputs()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')->
+        once()->andReturn('0');
         $currentLong = 10.10;
         $currentLat = 10.55;
         $usedIndexes = null;
         $distanceLeft = 1000;
         $breweriesData = null;
 
-        $result = $tripMakingService->findClosestPoint(
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -72,14 +92,15 @@ class FindClosestPointTest extends TestCase
      */
     public function testValidZeroInputs()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('0');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 0;
         $breweriesData = [];
 
-        $result = $tripMakingService->findClosestPoint(
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -99,21 +120,16 @@ class FindClosestPointTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsZero()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 0;
-        $breweriesData = [];
-        for ($i = 0; $i < 1; $i++) {
-            $breweriesData[$i]['beersCount'] = $i * 2;
-            $breweriesData[$i]['breweryId'] = 9999;
-            $breweriesData[$i]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(1, 0);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -133,22 +149,17 @@ class FindClosestPointTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsNotZeroButDistanceLeftISZero()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 0;
-        $breweriesData = [];
         $offset = 1000;
-        for ($i = 0; $i < 1; $i++) {
-            $breweriesData[$i + $offset]['beersCount'] = $i * 2;
-            $breweriesData[$i + $offset]['breweryId'] = 9999;
-            $breweriesData[$i + $offset]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i + $offset]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i + $offset]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(1, $offset);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -168,22 +179,17 @@ class FindClosestPointTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsNotZero()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 1000;
-        $breweriesData = [];
         $offset = 1000;
-        for ($i = 0; $i < 1; $i++) {
-            $breweriesData[$i + $offset]['beersCount'] = $i * 2;
-            $breweriesData[$i + $offset]['breweryId'] = 9999;
-            $breweriesData[$i + $offset]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i + $offset]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i + $offset]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(1, $offset);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -203,22 +209,16 @@ class FindClosestPointTest extends TestCase
      */
     public function testManyPointsAvailableButNoTripDistance()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 0;
-        $breweriesData = [];
-        $offset = 1000;
-        for ($i = 0; $i < 10; $i++) {
-            $breweriesData[$i]['beersCount'] = $i * 2;
-            $breweriesData[$i]['breweryId'] = 9999;
-            $breweriesData[$i]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(10, 0);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -238,22 +238,17 @@ class FindClosestPointTest extends TestCase
      */
     public function testManyPointsAvailableWithOffsetButNoDistanceLeft()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 0;
-        $breweriesData = [];
         $offset = 1000;
-        for ($i = 0; $i < 10; $i++) {
-            $breweriesData[$i + $offset]['beersCount'] = $i * 2;
-            $breweriesData[$i + $offset]['breweryId'] = 9999;
-            $breweriesData[$i + $offset]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i + $offset]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i + $offset]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(10, $offset);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,
@@ -273,22 +268,17 @@ class FindClosestPointTest extends TestCase
      */
     public function testManyPointsAvailableWithOffset()
     {
-        $tripMakingService = new TripMakingService();
+        $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
+            ->once()->andReturn('10');
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
         $distanceLeft = 1000;
-        $breweriesData = [];
         $offset = 1000;
-        for ($i = 0; $i < 10; $i++) {
-            $breweriesData[$i + $offset]['beersCount'] = $i * 2;
-            $breweriesData[$i + $offset]['breweryId'] = 9999;
-            $breweriesData[$i + $offset]['latitude'] = $i * 0.321 + 1;
-            $breweriesData[$i + $offset]['longitude'] = $i * 0.123 + 1;
-            $breweriesData[$i + $offset]['distanceFromHome'] = 5 * $i;
-        }
 
-        $result = $tripMakingService->findClosestPoint(
+        $breweriesData = dataFactory(10, $offset);
+
+        $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
             $usedIndexes,

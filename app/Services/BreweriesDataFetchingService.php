@@ -2,11 +2,7 @@
 
 namespace App\Services;
 
-use App\Beer;
 use App\Brewery;
-use App\Geocode;
-use Illuminate\Support\Facades\DB;
-use function Symfony\Component\VarDumper\Dumper\esc;
 
 class BreweriesDataFetchingService
 {
@@ -29,6 +25,48 @@ class BreweriesDataFetchingService
      */
     public function setUpBreweriesData($startLong, $startLat, $longitudeDifferenceAllowed, $latitudeDifferenceAllowed)
     {
+        $breweries = $this->getBreweriesWithGeocodes(
+            $startLong,
+            $startLat,
+            $longitudeDifferenceAllowed,
+            $latitudeDifferenceAllowed
+        );
+        $breweriesData = [];//array for return data
+        //setting up data for calculations
+        $cnt = 0;
+        foreach ($breweries as $geocode) {
+            if ($geocode->id != null) {
+                $breweriesData[$cnt] = $this->setBreweriesDataObj($geocode, $startLong, $startLat);
+                $cnt++;
+            }
+        }
+        return $breweriesData;
+    }
+
+    private function setBreweriesDataObj($geocode, $startLong, $startLat)
+    {
+        $brewery = $geocode->brewery;
+        $beersInBrewery = $brewery->getBeersInBreweryCount();
+        $breweriesDataObj['beersCount'] = $beersInBrewery;
+        $breweriesDataObj['brewery'] = $brewery;
+        $breweriesDataObj['latitude'] = $geocode['latitude'];
+        $breweriesDataObj['longitude'] = $geocode['longitude'];
+        $breweriesDataObj['distanceFromHome'] =
+            $this->distanceCalculationService->calculateDistanceBetweenTwoPoints(
+                $startLong,
+                $startLat,
+                $geocode->longitude,
+                $geocode->latitude
+            );
+        return $breweriesDataObj;
+    }
+
+    private function getBreweriesWithGeocodes(
+        $startLong,
+        $startLat,
+        $longitudeDifferenceAllowed,
+        $latitudeDifferenceAllowed
+    ) {
         //db select of breweries with geocodes
         $breweries = Brewery::getBreweriesWithGeocodes(
             $startLong,
@@ -36,28 +74,6 @@ class BreweriesDataFetchingService
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-
-        $breweriesData = [];//array for return data
-        //setting up data for calculations
-        $cnt = 0;
-        foreach ($breweries as $geocode) {
-            if ($geocode->id != null) {
-                $brewery = $geocode->brewery;
-                $beersInBrewery = $brewery->getBeersInBreweryCount();
-                $breweriesData[$cnt]['beersCount'] = $beersInBrewery;
-                $breweriesData[$cnt]['brewery'] = $brewery;
-                $breweriesData[$cnt]['latitude'] = $geocode['latitude'];
-                $breweriesData[$cnt]['longitude'] = $geocode['longitude'];
-                $breweriesData[$cnt]['distanceFromHome'] =
-                    $this->distanceCalculationService->calculateDistanceBetweenTwoPoints(
-                        $startLong,
-                        $startLat,
-                        $geocode->longitude,
-                        $geocode->latitude
-                    );
-                $cnt++;
-            }
-        }
-        return $breweriesData;
+        return $breweries;
     }
 }

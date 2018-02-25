@@ -2,6 +2,10 @@
 
 namespace App\Services;
 
+use function App\Http\isDistance;
+use function App\Http\validateLatitude;
+use function App\Http\validateLongitude;
+
 class RouteCalculationService
 {
     private $findClosestPointService;
@@ -23,6 +27,9 @@ class RouteCalculationService
      */
     public function calculateRoute($startLongitude, $startLatitude, $tripDistance, $breweriesData)
     {
+        if (!$this->validateParams($startLongitude, $startLatitude, $tripDistance, $breweriesData)) {
+            return [];
+        }
         $currentLong = $startLongitude;
         $currentLat = $startLatitude;
         $usedIndexes = [];//contains indexes of visited breweries
@@ -39,16 +46,35 @@ class RouteCalculationService
                 $distanceLeft,
                 $breweriesData
             );
+            try {
+                if (in_array($closestData['closestBreweryIndex'], $usedIndexes)) {
+                    return [
+                        'usedIndexes' => $usedIndexes,
+                        'distanceLeft' => $distanceLeft,
+                        'breweriesData' => $breweriesData
+                    ];
+                }
+                $usedIndexes[$i] = $closestData['closestBreweryIndex'];//inserts index of found point to visited indexes
+                $distanceLeft = $distanceLeft - $closestData['closestDistance'];//subtracts trip distance
 
-            $usedIndexes[$i] = $closestData['closestBreweryIndex'];//inserts index of found point to visited indexes
-            $distanceLeft = $distanceLeft - $closestData['closestDistance'];//subtracts trip distance
-
-            //setting up values for next iteration
-            $breweriesData[$closestData['closestBreweryIndex']]['distance'] = $closestData['closestDistance'];
-            $currentLat = $breweriesData[$closestData['closestBreweryIndex']]['latitude'];
-            $currentLong = $breweriesData[$closestData['closestBreweryIndex']]['longitude'];
-            $i++;
+                //setting up values for next iteration
+                $breweriesData[$closestData['closestBreweryIndex']]['distance'] = $closestData['closestDistance'];
+                $currentLat = $breweriesData[$closestData['closestBreweryIndex']]['latitude'];
+                $currentLong = $breweriesData[$closestData['closestBreweryIndex']]['longitude'];
+                $i++;
+            } catch (\ErrorException $ex) {
+                return $ex;
+            }
         }
         return ['usedIndexes' => $usedIndexes, 'distanceLeft' => $distanceLeft, 'breweriesData' => $breweriesData];
+    }
+
+    private function validateParams($startLongitude, $startLatitude, $tripDistance, $breweriesData)
+    {
+        if (!validateLatitude($startLatitude) || !validateLongitude($startLongitude) || !isDistance($tripDistance)
+            || !is_array($breweriesData) || (count($breweriesData) == 0)) {
+            return false;
+        }
+        return true;
     }
 }

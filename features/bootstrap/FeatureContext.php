@@ -19,8 +19,6 @@ use Illuminate\Support\Facades\URL;
  */
 class FeatureContext extends RawMinkContext implements Context, SnippetAcceptingContext
 {
-
-
     /**
      * Initializes context.
      *
@@ -81,7 +79,7 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
         $baseUrl = \config('app.url');
         //workaround 'url/' isn't equal to 'url', but when you add / to second url, first one loses /
         if ($baseUrl != $this->getSession()->getCurrentUrl()) {
-            $baseUrl=$baseUrl.'/';
+            $baseUrl = $baseUrl . '/';
         }
         Assert::assertEquals(
             $baseUrl,
@@ -94,8 +92,8 @@ class FeatureContext extends RawMinkContext implements Context, SnippetAccepting
      */
     public function iGetRedirectedToOutputPageWithArgumentValues($arg1, $arg2)
     {
-        $baseUrl = \config('app.url').'/';
-        $actualValue=$baseUrl.'results?longitude='.$arg1.'&latitude='.$arg2;
+        $baseUrl = \config('app.url') . '/';
+        $actualValue = $baseUrl . 'results?longitude=' . $arg1 . '&latitude=' . $arg2;
         Assert::assertSame(
             $actualValue,
             $this->getSession()->getCurrentUrl()

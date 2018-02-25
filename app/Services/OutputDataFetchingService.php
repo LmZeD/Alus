@@ -2,8 +2,6 @@
 
 namespace App\Services;
 
-use App\Beer;
-use App\Brewery;
 use function App\Http\isDistance;
 use ErrorException;
 
@@ -35,7 +33,9 @@ class OutputDataFetchingService
         try {
             foreach ($usedIndexes as $index) {
                 $results = $this->getBeerAndBreweryDataByIndex($results, $index, $i, $breweriesData);
-                $beerCount = $beerCount + count($results[$i]['beer']);
+                if (array_key_exists($i, $results)) {
+                    $beerCount = $beerCount + count($results[$i]['beer']);
+                }
                 $i++;
             }
         } catch (ErrorException $ex) {
@@ -67,13 +67,16 @@ class OutputDataFetchingService
      * @param $results - array for inserting
      * @param $index - index of brewery
      * @param $indexForResults - insertion index
-     * @param $breweriesData - value of starting longitude
+     * @param $breweriesData - selected breweries
      *
      * @return array - $results array with additional value
      */
-    public function getBeerAndBreweryDataByIndex($results, $index, $indexForResults, $breweriesData)
+    private function getBeerAndBreweryDataByIndex($results, $index, $indexForResults, $breweriesData)
     {
         $brewery = $breweriesData[$index]['brewery'];
+        if ($brewery === null) {
+            return $results;
+        }
         $beerFound = $brewery->beers;
         $results[$indexForResults]['brewery'] = $brewery;
         $results[$indexForResults]['beer'] = $beerFound;
@@ -98,7 +101,7 @@ class OutputDataFetchingService
      *
      * @return array - $results array with additional value
      */
-    public function setLastDataBeforeOutput(
+    private function setLastDataBeforeOutput(
         $index,
         $results,
         $lat,
@@ -138,7 +141,7 @@ class OutputDataFetchingService
      * @return array
      */
     //maybe should be in helpers, but wasn't sure because it isn't abstract enough
-    public function unsetSameBeer($results)
+    private function unsetSameBeer($results)
     {
         if ($results == null) {//validation block, just in case
             return null;

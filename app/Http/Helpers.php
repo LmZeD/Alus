@@ -2,7 +2,7 @@
 
 namespace App\Http;
 
-use ErrorException;
+use App\Brewery;
 
 function getCurrentTime()
 {
@@ -56,4 +56,18 @@ function isDistance($argument)
         }
     }
     return false;
+}
+
+function dataFactory($count, $offset)//used for testing
+{
+    $breweriesData = [];
+    for ($i = 0; $i < $count; $i++) {
+        $breweriesData[$i + $offset]['beersCount'] = $i * 2;
+        $breweriesData[$i + $offset]['brewery'] = Brewery::find($i);
+        $breweriesData[$i + $offset]['latitude'] = $i * 0.321 + 1;
+        $breweriesData[$i + $offset]['longitude'] = $i * 0.123 + 1;
+        $breweriesData[$i + $offset]['distance'] = 5 * $i - 2.2;
+        $breweriesData[$i + $offset]['distanceFromHome'] = 5 * $i;
+    }
+    return $breweriesData;
 }

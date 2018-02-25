@@ -3,10 +3,17 @@
 namespace App\Exceptions;
 
 use Exception;
+use Illuminate\Contracts\Container\Container;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
 class Handler extends ExceptionHandler
 {
+
+    public function __construct(Container $container)
+    {
+        parent::__construct($container);
+    }
+
     /**
      * A list of the exception types that are not reported.
      *

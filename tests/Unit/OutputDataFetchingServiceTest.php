@@ -2,14 +2,20 @@
 
 namespace Tests\Unit;
 
-use function App\Http\isDistance;
+use function App\Http\dataFactory;
 use App\Services\OutputDataFetchingService;
 use Tests\TestCase;
-use Illuminate\Foundation\Testing\WithFaker;
-use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class OutputDataFetchingTest extends TestCase
+class OutputDataFetchingServiceTest extends TestCase
 {
+    private $outputDataFetchingService;
+
+    public function __construct(string $name = null, array $data = [], string $dataName = '')
+    {
+        parent::__construct($name, $data, $dataName);
+        $this->outputDataFetchingService = new OutputDataFetchingService();
+    }
+
     /**
      * Testing fetchDataForOutput with null parameters
      *
@@ -19,8 +25,7 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testAllNull()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             null,
             null,
             null,
@@ -28,6 +33,7 @@ class OutputDataFetchingTest extends TestCase
             null,
             null
         );
+
         $this->assertNull($result);
     }
 
@@ -35,15 +41,14 @@ class OutputDataFetchingTest extends TestCase
      * Testing fetchDataForOutput with null parameters (except usedIndexes)
      * Idea: first error handle block is at usedIndexes, now let it pass and provide null in other parts
      *
-     * Result must be NOT empty (must be data selected using indexes from usedIndexes array)
+     * Result must be null (no breweriesData provided)
      *
      * @return void
      */
     public function testAllNullExceptUsedIndexes()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
-        $usedIndexes = [0, 1, 2];
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $usedIndexes = [1, 2, 3];
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             null,
             null,
@@ -51,7 +56,7 @@ class OutputDataFetchingTest extends TestCase
             null,
             null
         );
-        $this->assertNotEmpty($result);
+        $this->assertNull($result);
     }
 
     /**
@@ -66,23 +71,13 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testAllNullExceptUsedIndexesAndBreweriesData()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
         $usedIndexes = [0, 1, 2];
-        $breweriesData = [];
-        for ($i = 0; $i < 3; $i++) {
-            $breweriesData[$i]['beersCount'] = $i + 5;
-            $breweriesData[$i]['breweryId'] = $i;
-            $breweriesData[$i]['latitude'] = 15.05489 * 7 / ($i + 1);
-            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-            $breweriesData[$i]['distance'] = 10 * $i;
-            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-        }
+        $breweriesData = dataFactory(3, 0);
         $distanceLeft = null;
         $long = null;
         $lat = null;
         $tripDistance = null;
-
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             $breweriesData,
             $distanceLeft,
@@ -90,7 +85,6 @@ class OutputDataFetchingTest extends TestCase
             $lat,
             $tripDistance
         );
-
         $this->assertEquals(
             $breweriesData[end($usedIndexes)]['distanceFromHome'],
             $result[count($usedIndexes)]['distance']
@@ -112,23 +106,14 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testDistanceLeftInvalidValue()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
         $usedIndexes = [0, 1, 2];
-        $breweriesData = [];
-        for ($i = 0; $i < 3; $i++) {
-            $breweriesData[$i]['beersCount'] = $i + 5;
-            $breweriesData[$i]['breweryId'] = $i;
-            $breweriesData[$i]['latitude'] = 15.05489 * 7 / ($i + 1);
-            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-            $breweriesData[$i]['distance'] = 10 * $i;
-            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-        }
+        $breweriesData = dataFactory(3, 0);
         $distanceLeft = 'invalidValue'; //'123.123a'
         $long = null;
         $lat = null;
         $tripDistance = null;
 
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             $breweriesData,
             $distanceLeft,
@@ -155,23 +140,14 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testDistanceLeftValidValue()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
         $usedIndexes = [0, 1, 2];
-        $breweriesData = [];
-        for ($i = 0; $i < 3; $i++) {
-            $breweriesData[$i]['beersCount'] = $i + 5;
-            $breweriesData[$i]['breweryId'] = $i;
-            $breweriesData[$i]['latitude'] = 15.15489 * 7 / ($i + 1);
-            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-            $breweriesData[$i]['distance'] = 10 * $i;
-            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-        }
+        $breweriesData = dataFactory(3, 0);
         $distanceLeft = '363.11';
         $long = null;
         $lat = null;
         $tripDistance = null;
 
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             $breweriesData,
             $distanceLeft,
@@ -203,23 +179,14 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testTripDistanceInvalidValue()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
         $usedIndexes = [0, 1, 2];
-        $breweriesData = [];
-        for ($i = 0; $i < 3; $i++) {
-            $breweriesData[$i]['beersCount'] = $i + 5;
-            $breweriesData[$i]['breweryId'] = $i;
-            $breweriesData[$i]['latitude'] = 15.15489 * 7 / ($i + 1);
-            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-            $breweriesData[$i]['distance'] = 10 * $i;
-            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-        }
+        $breweriesData = dataFactory(3, 0);
         $distanceLeft = '363.11';
         $tripDistance = 'invalidValue';//'123.123a'
         $long = null;
         $lat = null;
 
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             $breweriesData,
             $distanceLeft,
@@ -248,23 +215,14 @@ class OutputDataFetchingTest extends TestCase
      */
     public function testTripDistanceValidValue()
     {
-        $outputDataFetchingService = new OutputDataFetchingService();
         $usedIndexes = [0, 1, 2];
-        $breweriesData = [];
-        for ($i = 0; $i < 3; $i++) {
-            $breweriesData[$i]['beersCount'] = $i + 5;
-            $breweriesData[$i]['breweryId'] = $i;
-            $breweriesData[$i]['latitude'] = 15.15489 * 7 / ($i + 1);
-            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-            $breweriesData[$i]['distance'] = 10 * $i;
-            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-        }
+        $breweriesData = dataFactory(3, 0);
         $distanceLeft = '363.11';
         $tripDistance = '2000';//'2000.11'
         $long = 10.1000;
         $lat = 11.1111;
 
-        $result = $outputDataFetchingService->fetchDataForOutput(
+        $result = $this->outputDataFetchingService->fetchDataForOutput(
             $usedIndexes,
             $breweriesData,
             $distanceLeft,
@@ -275,4 +233,18 @@ class OutputDataFetchingTest extends TestCase
 
         $this->assertEquals($tripDistance, $result['maxTripDistance']);
     }
+
+//    private function dataFactory($count)
+//    {
+//        $breweriesData = [];
+//        for ($i = 0; $i < $count; $i++) {
+//            $breweriesData[$i]['beersCount'] = $i + 5;
+//            $breweriesData[$i]['brewery'] = Brewery::find($i);
+//            $breweriesData[$i]['latitude'] = 15.15489 * 7 / ($i + 1);
+//            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
+//            $breweriesData[$i]['distance'] = 10 * $i;
+//            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
+//        }
+//        return $breweriesData;
+//    }
 }
