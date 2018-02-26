@@ -77,9 +77,10 @@ class OutputDataFetchingService
         if ($brewery === null) {
             return $results;
         }
-        if (property_exists($brewery, 'beers')) {
+
+        try {
             $beerFound = $brewery->beers;
-        } else {
+        } catch (\Exception $e) { //no beer found
             $beerFound = null;
         }
 

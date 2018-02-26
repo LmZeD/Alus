@@ -2,6 +2,7 @@
 
 namespace App\Http;
 
+use App\Beer;
 use App\Brewery;
 
 function getCurrentTime()
