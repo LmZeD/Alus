@@ -3,18 +3,27 @@
 namespace Tests\Unit;
 
 use App\Services\DistanceCalculationService;
+use App\Services\ValidateCoordinatesService;
 use Tests\TestCase;
 
 class DistanceCalculationServiceTest extends TestCase
 {
     private $distanceCalculationService;
+    private $validateCoordinatesServiceMock;
 
     public function __construct(string $name = null, array $data = [], string $dataName = '')
     {
         parent::__construct($name, $data, $dataName);
-        $this->distanceCalculationService = new DistanceCalculationService();
+        $this->setUpMocks();
+        $this->distanceCalculationService = new DistanceCalculationService(
+            $this->validateCoordinatesServiceMock
+        );
     }
 
+    private function setUpMocks()
+    {
+        $this->validateCoordinatesServiceMock = \Mockery::mock(ValidateCoordinatesService::class);
+    }
     /**
      * Test distance calculation with zeros as all parameters
      *
@@ -24,6 +33,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testZeroValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = 0;
         $lat1 = 0;
         $long2 = 0;
@@ -47,6 +60,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testEqualIntegerValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = 1;
         $lat1 = 1;
         $long2 = 1;
@@ -70,6 +87,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testEqualDoubleValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = 1.111;
         $lat1 = 1.111;
         $long2 = 1.111;
@@ -93,6 +114,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testEqualStringsValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = '1.111';
         $lat1 = '1.111';
         $long2 = '1.111';
@@ -116,6 +141,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testNotEqualValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = 12.9999;
         $lat1 = 82.9879;
         $long2 = 17.555;
@@ -131,60 +160,18 @@ class DistanceCalculationServiceTest extends TestCase
     }
 
     /**
-     * Test distance calculation with 'invalidParameter' as all parameters
+     * Test when validation fails
      *
      * Result must be null
      *
      * @return void
      */
-    public function testInvalidStringValues()
+    public function testValidationFailed()
     {
-        $long1 = 'invalidParameter';
-        $lat1 = 'invalidParameter';
-        $long2 = 'invalidParameter';
-        $lat2 = 'invalidParameter';
-
-        $result = $this->distanceCalculationService->calculateDistanceBetweenTwoPoints(
-            $long1,
-            $lat1,
-            $long2,
-            $lat2
-        );
-        $this->assertNull($result);
-    }
-
-    /**
-     * Test distance calculation with outside boundaries values (too big)
-     *
-     * Result must be null
-     *
-     * @return void
-     */
-    public function testTooBigInvalidValues()
-    {
-        $long1 = 185;
-        $lat1 = 90;
-        $long2 = 185;
-        $lat2 = 90;
-
-        $result = $this->distanceCalculationService->calculateDistanceBetweenTwoPoints(
-            $long1,
-            $lat1,
-            $long2,
-            $lat2
-        );
-        $this->assertNull($result);
-    }
-
-    /**
-     * Test distance calculation with outside boundaries values (too low)
-     *
-     * Result must be null
-     *
-     * @return void
-     */
-    public function testTooLowInvalidValues()
-    {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(false);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(false);
         $long1 = -185;
         $lat1 = -90;
         $long2 = -185;
@@ -208,6 +195,10 @@ class DistanceCalculationServiceTest extends TestCase
      */
     public function testOnBoundariesValues()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->
+        andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->
+        andReturn(true);
         $long1 = -180;
         $lat1 = -85;
         $long2 = 180;

@@ -97,7 +97,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-        $this->assertEquals(1, count($result));
+        $this->assertCount(1, $result);
     }
 
     /**
@@ -124,7 +124,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-        $this->assertEquals($breweriesCount, count($result));
+        $this->assertCount($breweriesCount, $result);
     }
 
     /**
@@ -152,7 +152,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-        $this->assertEquals($breweriesCount, count($result));
+        $this->assertCount($breweriesCount, $result);
     }
 
     /**
@@ -180,6 +180,6 @@ class BreweriesDataFetchingServiceTest extends TestCase
             $longitudeDifferenceAllowed,
             $latitudeDifferenceAllowed
         );
-        $this->assertEquals($breweriesCount, count($result));
+        $this->assertCount($breweriesCount, $result);
     }
 }

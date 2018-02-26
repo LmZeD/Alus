@@ -5,12 +5,14 @@ namespace Tests\Unit;
 use function App\Http\dataFactory;
 use App\Services\DistanceCalculationService;
 use App\Services\FindClosestPointService;
+use App\Services\ValidateCoordinatesService;
 use Tests\TestCase;
 
 class FindClosestPointServiceTest extends TestCase
 {
     private $findClosestPointService;
     private $distanceCalculationServiceMock;
+    private $validateCoordinatesServiceMock;
 
     public function __construct(
         string $name = null,
@@ -20,12 +22,14 @@ class FindClosestPointServiceTest extends TestCase
         parent::__construct($name, $data, $dataName);
         $this->setUpMocks();
         $this->findClosestPointService = new FindClosestPointService(
-            $this->distanceCalculationServiceMock
+            $this->distanceCalculationServiceMock,
+            $this->validateCoordinatesServiceMock
         );
     }
 
     protected function setUpMocks()
     {
+        $this->validateCoordinatesServiceMock = \Mockery::mock(ValidateCoordinatesService::class);
         $this->distanceCalculationServiceMock = \Mockery::mock(DistanceCalculationService::class);
     }
 
@@ -43,7 +47,8 @@ class FindClosestPointServiceTest extends TestCase
         $usedIndexes = null;
         $distanceLeft = null;
         $breweriesData = null;
-
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(false);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(false);
         $result = $this->findClosestPointService->findClosestPoint(
             $currentLong,
             $currentLat,
@@ -65,7 +70,9 @@ class FindClosestPointServiceTest extends TestCase
     public function testNullAsArrayInputs()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')->
-        once()->andReturn('0');
+            once()->andReturn('0');
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $currentLong = 10.10;
         $currentLat = 10.55;
         $usedIndexes = null;
@@ -92,6 +99,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testValidZeroInputs()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('0');
         $currentLong = 0;
@@ -120,6 +129,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsZero()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;
@@ -149,6 +160,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsNotZeroButDistanceLeftISZero()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;
@@ -179,6 +192,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testOnlyOnePointAvailableAndIndexIsNotZero()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;
@@ -209,6 +224,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testManyPointsAvailableButNoTripDistance()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;
@@ -238,6 +255,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testManyPointsAvailableWithOffsetButNoDistanceLeft()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;
@@ -268,6 +287,8 @@ class FindClosestPointServiceTest extends TestCase
      */
     public function testManyPointsAvailableWithOffset()
     {
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
             ->once()->andReturn('10');
         $currentLong = 0;

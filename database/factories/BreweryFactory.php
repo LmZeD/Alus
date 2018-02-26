@@ -15,17 +15,18 @@ use Faker\Generator as Faker;
 
 $factory->define(App\Brewery::class, function (Faker $faker) {
     return [
-        'id' => $faker->unique()->numberBetween(1, 10000),
-        'name' => $faker->name,
-        'address1' => str_random(10),
-        'address2' => str_random(10),
-        'city' => str_random(10),
+        //'id' => $faker->unique()->randomDigitNotNull(),
+        'name' => str_random(10),
+        'address1' => $faker->address(),
+        'address2' => $faker->address(),
+        'city' => $faker->city(),
         'state' => str_random(10),
         'code' => rand(10000, 99999),
-        'country' => str_random(10),
-        'phone' => str_random(10),
-        'website' => str_random(10).'.com',
-        'descript' => str_random(100),
+        'country' => $faker->country(),
+        'phone' => $faker->phoneNumber(),
+        'filepath' => str_random(10),
+        'website' => $faker->url(),
+        'descript' => $faker->sentence(),
         'addUser' => 0,
         'lastMod' => $faker->dateTime()
     ];

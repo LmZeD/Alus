@@ -233,18 +233,4 @@ class OutputDataFetchingServiceTest extends TestCase
 
         $this->assertEquals($tripDistance, $result['maxTripDistance']);
     }
-
-//    private function dataFactory($count)
-//    {
-//        $breweriesData = [];
-//        for ($i = 0; $i < $count; $i++) {
-//            $breweriesData[$i]['beersCount'] = $i + 5;
-//            $breweriesData[$i]['brewery'] = Brewery::find($i);
-//            $breweriesData[$i]['latitude'] = 15.15489 * 7 / ($i + 1);
-//            $breweriesData[$i]['longitude'] = 75.05489 * 3 / ($i + 1);
-//            $breweriesData[$i]['distance'] = 10 * $i;
-//            $breweriesData[$i]['distanceFromHome'] = 150 * $i;
-//        }
-//        return $breweriesData;
-//    }
 }

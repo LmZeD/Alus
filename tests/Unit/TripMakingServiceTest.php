@@ -2,11 +2,12 @@
 
 namespace Tests\Unit;
 
+use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\dataFactory;
-use function App\Http\isValidNumber;
 use App\Services\BreweriesDataFetchingService;
 use App\Services\RouteCalculationService;
 use App\Services\TripMakingService;
+use App\Services\ValidateCoordinatesService;
 use Tests\TestCase;
 
 class TripMakingServiceTest extends TestCase
@@ -14,6 +15,7 @@ class TripMakingServiceTest extends TestCase
     private $tripMakingService;
     private $breweriesDataFetchingMock;
     private $routeCalculationServiceMock;
+    private $validateCoordinatesServiceMock;
 
     public function __construct(string $name = null, array $data = [], string $dataName = '')
     {
@@ -21,7 +23,8 @@ class TripMakingServiceTest extends TestCase
         $this->setUpMocks();
         $this->tripMakingService = new TripMakingService(
             $this->breweriesDataFetchingMock,
-            $this->routeCalculationServiceMock
+            $this->routeCalculationServiceMock,
+            $this->validateCoordinatesServiceMock
         );
     }
 
@@ -29,22 +32,27 @@ class TripMakingServiceTest extends TestCase
     {
         $this->breweriesDataFetchingMock = \Mockery::mock(BreweriesDataFetchingService::class);
         $this->routeCalculationServiceMock = \Mockery::mock(RouteCalculationService::class);
+        $this->validateCoordinatesServiceMock = \Mockery::mock(ValidateCoordinatesService::class);
     }
 
     /**
      * calculateWholeTrip test with invalid argument data provided
      *
      * @return void
+     *
      */
     public function testInvalidData()
     {
         $startLongitude = '100ab';//'1000'
         $startLatitude = 1000.484;
         $tripDistance = -2000;
-
-        $result = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
-
-        $this->assertEmpty($result);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(false);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(false);
+        try {
+            $result = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
+        } catch (NoBreweriesFoundException $ex) {
+             $this->assertNotNull($ex);
+        }
     }
 
     /**
@@ -53,6 +61,7 @@ class TripMakingServiceTest extends TestCase
      * result array must contain key 'maxTripDistance' with value $tripDistance (0)
      *
      * @return void
+     * @throws \App\Exceptions\NoBreweriesFoundException
      */
     public function testValidOnBoundariesData()
     {
@@ -63,6 +72,8 @@ class TripMakingServiceTest extends TestCase
                 'usedIndexes' => [],
                 'distanceLeft' => 0,
                 'breweriesData' => dataFactory(10, 0)]);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $startLongitude = 180.000;//-180
         $startLatitude = -85.000;//85
         $tripDistance = 0;
@@ -77,6 +88,7 @@ class TripMakingServiceTest extends TestCase
      * result must have empty usedIndexes array
      *
      * @return void
+     * @throws \App\Exceptions\NoBreweriesFoundException
      */
     public function testValidData()
     {
@@ -87,6 +99,8 @@ class TripMakingServiceTest extends TestCase
                 'usedIndexes' => [1, 2, 54],
                 'distanceLeft' => 1000,
                 'breweriesData' => dataFactory(10, 0)]);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
+        $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $startLongitude = -179.15;
         $startLatitude = -80.484;
         $tripDistance = 2000;
