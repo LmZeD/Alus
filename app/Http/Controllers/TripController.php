@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\Exceptions\TripControllerException;
+use App\Brewery;
+use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\getCurrentTime;
 use function App\Http\getTotalRunTime;
 use App\Http\Requests\CoordinatesRequest;
@@ -36,7 +37,6 @@ class TripController extends Controller
      * @param $request
      *
      * @return view
-     * @throws TripControllerException
      */
     public function makeATrip(CoordinatesRequest $request)
     {
@@ -50,20 +50,18 @@ class TripController extends Controller
         $tripDistance = 2000;//km
         try {
             $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
-            $results = $this->outputDataFetchingService->fetchDataForOutput(
-                $resultArray['usedIndexes'],
-                $resultArray['breweriesData'],
-                $resultArray['distanceLeft'],
-                $resultArray['startLatitude'],
-                $resultArray['startLongitude'],
-                $resultArray['tripDistance']
-            );
-            if ($results === 'failed' || $results == null) {
-                throw new TripControllerException('No breweries are close enough...');
-            }
-        } catch (\Exception $ex) {//if there are no breweries in range results array will be empty
-            throw new TripControllerException($ex->getMessage());
+        } catch (NoBreweriesFoundException $ex) {//if there are no breweries in range results array will be empty
+            return $ex->render();
         }
+
+        $results = $this->outputDataFetchingService->fetchDataForOutput(
+            $resultArray['usedIndexes'],
+            $resultArray['breweriesData'],
+            $resultArray['distanceLeft'],
+            $resultArray['startLatitude'],
+            $resultArray['startLongitude'],
+            $resultArray['tripDistance']
+        );
 
         $runTime = getTotalRunTime($startTime);
         return view('outputScreen', ['results' => $results, 'startLatitude' => $startLatitude,
