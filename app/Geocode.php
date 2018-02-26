@@ -13,6 +13,6 @@ class Geocode extends Model
 
     public function brewery()
     {
-        return $this->belongsTo('App\Brewery', 'breweryId');
+        return $this->belongsTo(Brewery::class, 'breweryId');
     }
 }

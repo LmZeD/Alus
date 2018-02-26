@@ -36,16 +36,16 @@ class Brewery extends Model
     public function getBeersInBreweryCount()
     {
         //doing this inside method slows it down quite a bit, so defining method here makes a difference
-        return count($this->beers());
+        return $this->beers()->count();
     }
 
     public function beers()
     {
-        return $this->hasMany('App\Beer', 'breweryId');
+        return $this->hasMany(Beer::class, 'breweryId');
     }
 
     public function geocode()
     {
-        return $this->hasOne('App\Geocode', 'breweryId');
+        return $this->hasOne(Geocode::class, 'breweryId');
     }
 }
