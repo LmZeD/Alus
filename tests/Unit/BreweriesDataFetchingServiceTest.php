@@ -85,7 +85,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
     public function testZeroDifferenceAllowedAndStartIsBrewery()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('0');
+            ->once()->andReturn(0);
         $longitude = 20.600299835205;
         $latitude = 49.962200164795;
         $longitudeDifferenceAllowed = 0;//longitude range is roughly -180;180
@@ -110,7 +110,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
     public function testAllGlobeTrip()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('0');
+            ->once()->andReturn(0);
         $breweries = new Brewery();
         $breweriesCount = $breweries->getBreweriesWithCoordinatesCount();
         $longitude = 0;
@@ -138,7 +138,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
     public function testAllGlobeTripWithTooBigDifferenceAllowed()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->andReturn('0');
+            ->andReturn(0);
         $breweries = new Brewery();
         $breweriesCount = $breweries->getBreweriesWithCoordinatesCount();
         $longitude = 0;
@@ -166,7 +166,7 @@ class BreweriesDataFetchingServiceTest extends TestCase
     public function testAllGlobeTripWithTooBigDifferenceAllowedAndCustomStartPoint()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->andReturn('0');
+            ->andReturn(0);
         $breweries = new Brewery();
         $breweriesCount = $breweries->getBreweriesWithCoordinatesCount();
         $longitude = 100;

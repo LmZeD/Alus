@@ -70,7 +70,7 @@ class FindClosestPointServiceTest extends TestCase
     public function testNullAsArrayInputs()
     {
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')->
-            once()->andReturn('0');
+            once()->andReturn(0);
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $currentLong = 10.10;
@@ -102,7 +102,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('0');
+            ->once()->andReturn(0);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -132,7 +132,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -163,7 +163,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -195,7 +195,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -227,7 +227,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -258,7 +258,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];
@@ -290,7 +290,7 @@ class FindClosestPointServiceTest extends TestCase
         $this->validateCoordinatesServiceMock->shouldReceive('isLatitudeValid')->andReturn(true);
         $this->validateCoordinatesServiceMock->shouldReceive('isLongitudeValid')->andReturn(true);
         $this->distanceCalculationServiceMock->shouldReceive('calculateDistanceBetweenTwoPoints')
-            ->once()->andReturn('10');
+            ->once()->andReturn(10);
         $currentLong = 0;
         $currentLat = 0;
         $usedIndexes = [];

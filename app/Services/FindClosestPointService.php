@@ -3,8 +3,6 @@
 namespace App\Services;
 
 use function App\Http\isDistance;
-use function App\Http\validateLatitude;
-use function App\Http\validateLongitude;
 
 /**
  *  Calculates best route using logic 'closest neighbor'

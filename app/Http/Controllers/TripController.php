@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Brewery;
 use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\getCurrentTime;
 use function App\Http\getTotalRunTime;

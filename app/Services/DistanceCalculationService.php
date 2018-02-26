@@ -2,8 +2,6 @@
 
 namespace App\Services;
 
-use ErrorException;
-
 class DistanceCalculationService
 {
     private $validateCoordinatesService;
