@@ -77,7 +77,12 @@ class OutputDataFetchingService
         if ($brewery === null) {
             return $results;
         }
-        $beerFound = $brewery->beers;
+        if (property_exists($brewery, 'beers')) {
+            $beerFound = $brewery->beers;
+        } else {
+            $beerFound = null;
+        }
+
         $results[$indexForResults]['brewery'] = $brewery;
         $results[$indexForResults]['beer'] = $beerFound;
         $results[$indexForResults]['latitude'] = $breweriesData[$index]['latitude'];
@@ -151,15 +156,15 @@ class OutputDataFetchingService
         $j = 0;//index for results
         foreach ($results as $result) {
             if (is_array($result) && array_key_exists('beer', $result)) {
-                foreach ($result['beer'] as $beer) {
-                    //this is faster by (on average when trip distance is 2000) 0.03 seconds than just merge everything
-                    //to array and then use array_unique()
-                    if (!in_array($beer['name'], $allBeer)) {//if beer is not unique
-                        $allBeer[$i++] = $beer['name'];
+                if (!$result['beer'] == null) {
+                    foreach ($result['beer'] as $beer) {
+                        if (!in_array($beer['name'], $allBeer)) {//if beer is not unique
+                            $allBeer[$i++] = $beer['name'];
+                        }
                     }
+                    unset($result['beer']);//to get rid of unnecessary data duplications
+                    $results[$j++] = $result;
                 }
-                unset($result['beer']);//to get rid of unnecessary data duplications
-                $results[$j++] = $result;
             }
         }
         $results['uniqueBeer'] = $allBeer;//uniques left, merged to one array

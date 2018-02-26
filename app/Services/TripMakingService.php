@@ -2,22 +2,23 @@
 
 namespace App\Services;
 
-use function App\Http\differenceAllowed;
+use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\isDistance;
-use function App\Http\validateLatitude;
-use function App\Http\validateLongitude;
 
 class TripMakingService
 {
     private $breweriesDataFetchingService;
     private $routeCalculationService;
+    private $validateCoordinatesService;
 
     public function __construct(
         BreweriesDataFetchingService $breweriesDataFetchingService,
-        RouteCalculationService $routeCalculationService
+        RouteCalculationService $routeCalculationService,
+        ValidateCoordinatesService $validateCoordinatesService
     ) {
         $this->breweriesDataFetchingService = $breweriesDataFetchingService;
         $this->routeCalculationService = $routeCalculationService;
+        $this->validateCoordinatesService = $validateCoordinatesService;
     }
 
     /**
@@ -28,16 +29,16 @@ class TripMakingService
      * @param $tripDistance - distance allowed
      *
      * @return array
+     * @throws NoBreweriesFoundException
      */
     public function calculateWholeTrip($startLongitude, $startLatitude, $tripDistance)
     {
-        //input validation block
-        if (!isDistance($tripDistance) || !validateLongitude($startLongitude) || !validateLatitude($startLatitude)) {
-            return [];
+        if (!$this->validateInputFields($startLongitude, $startLatitude, $tripDistance)) {
+            throw new NoBreweriesFoundException();
         }
         $breweriesData = $this->setUpData($startLongitude, $startLatitude, $tripDistance);
         if ($breweriesData === []) {//nothing in range found
-            return [];
+            throw new NoBreweriesFoundException();
         }
         $routeData = $this->calculateRouteData($startLongitude, $startLatitude, $tripDistance, $breweriesData);
 
@@ -57,8 +58,8 @@ class TripMakingService
 
     private function setUpData($startLongitude, $startLatitude, $tripDistance)
     {
-        $latitudeDifferenceAllowed = differenceAllowed($tripDistance);
-        $longitudeDifferenceAllowed = differenceAllowed($tripDistance);
+        $latitudeDifferenceAllowed = $this->differenceAllowed($tripDistance);
+        $longitudeDifferenceAllowed = $this->differenceAllowed($tripDistance);
         $breweriesData = $this->breweriesDataFetchingService->setUpBreweriesData(
             $startLongitude,
             $startLatitude,
@@ -78,5 +79,20 @@ class TripMakingService
             $breweriesData
         );
         return $routeData;
+    }
+
+    private function validateInputFields($startLongitude, $startLatitude, $tripDistance)
+    {
+        if (!isDistance($tripDistance) ||
+            !$this->validateCoordinatesService->isLongitudeValid($startLongitude) ||
+            !$this->validateCoordinatesService->isLatitudeValid($startLatitude)) {
+            return false;
+        }
+        return true;
+    }
+
+    private function differenceAllowed($tripDistance)
+    {
+        return $tripDistance / 100 + 1;
     }
 }

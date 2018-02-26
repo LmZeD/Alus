@@ -20,10 +20,14 @@ use function App\Http\validateLongitude;
 class FindClosestPointService
 {
     private $distanceCalculationService;
+    private $validateCoordinatesService;
 
-    public function __construct(DistanceCalculationService $distanceCalculationService)
-    {
+    public function __construct(
+        DistanceCalculationService $distanceCalculationService,
+        ValidateCoordinatesService $validateCoordinatesService
+    ) {
         $this->distanceCalculationService = $distanceCalculationService;
+        $this->validateCoordinatesService = $validateCoordinatesService;
     }
 
     public function findClosestPoint(
@@ -85,8 +89,11 @@ class FindClosestPointService
 
     private function validateInputFields($currentLong, $currentLat, $breweriesData, $distanceLeft, $usedIndexes)
     {
-        if (!validateLongitude($currentLong) || !validateLatitude($currentLat) || !is_array($breweriesData)
-            || !isDistance($distanceLeft) || !is_array($usedIndexes)) {
+        if (!$this->validateCoordinatesService->isLongitudeValid($currentLong) ||
+            !$this->validateCoordinatesService->isLatitudeValid($currentLat) ||
+            !is_array($breweriesData) ||
+            !isDistance($distanceLeft) ||
+            !is_array($usedIndexes)) {
             return false;
         }
         return true;

@@ -2,12 +2,16 @@
 
 namespace App\Services;
 
-use function App\Http\validateLatitude;
-use function App\Http\validateLongitude;
 use ErrorException;
 
 class DistanceCalculationService
 {
+    private $validateCoordinatesService;
+
+    public function __construct(ValidateCoordinatesService $validateCoordinatesService)
+    {
+        $this->validateCoordinatesService = $validateCoordinatesService;
+    }
     /**
      *  Returns distance between two points using harversine formula
      *
@@ -22,18 +26,14 @@ class DistanceCalculationService
     public function calculateDistanceBetweenTwoPoints($long1, $lat1, $long2, $lat2)
     {
         $R = 6373;//radius of Earth in km
-        try {
-            if (!validateLatitude($lat1) || !validateLatitude($lat2) || !validateLongitude($long1)
-                || !validateLongitude($long2)) {
-                return null;
-            }
-            $long1 = deg2rad($long1);
-            $long2 = deg2rad($long2);
-            $lat1 = deg2rad($lat1);
-            $lat2 = deg2rad($lat2);
-        } catch (ErrorException $ex) {//wrong parameter(-s) supplied
+        if (!$this->validateInputFields($long1, $lat1, $long2, $lat2)) {
             return null;
         }
+        $long1 = deg2rad($long1);
+        $long2 = deg2rad($long2);
+        $lat1 = deg2rad($lat1);
+        $lat2 = deg2rad($lat2);
+
 
         $deltaLong = $long2 - $long1;
         $deltaLat = $lat2 - $lat1;
@@ -46,5 +46,16 @@ class DistanceCalculationService
         $km = round($km, 3);
 
         return $km;
+    }
+
+    private function validateInputFields($long1, $lat1, $long2, $lat2)
+    {
+        if (!$this->validateCoordinatesService->isLatitudeValid($lat1) ||
+            !$this->validateCoordinatesService->isLatitudeValid($lat2) ||
+            !$this->validateCoordinatesService->isLongitudeValid($long1)
+            || !$this->validateCoordinatesService->isLongitudeValid($long2)) {
+            return false;
+        }
+        return true;
     }
 }
