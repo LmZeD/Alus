@@ -33,17 +33,17 @@
 (for testing: php artisan runShell -- 19.43295600 51.742503 )
 
 **UPDATE NOTES**
-1. DB seeds wasn't hardcoded. I used .csv to sql converter, made type changes (column variable types), then
-   reverse migrated and ran inverse seed using "orangehill/iseed". I mean, why write .csv values reading scripts (and 
-   they don't work good enough without extensions, for example: description has commas, ect.). Why write code when you
-   can use tools? Of course, I can do it, if I have to, but all I wanted to say, that none of this was hardcoded.
-2. snake_case and camelCase. My bad, I was used to use snake_case for database.
-3. Re-made queries (added relations to models, added foreign key constraints, updated functions accordingly);
-4. Re-made services: added new ones to simplify logic. Also, I've split some methods: some logic was taken out 
-   to private functions.
-5. Changes to Geocodes DB seeder: some geocodes don't have valid breweryId, so I turned foreign_key_check off.
-   Just for that table.
-6. Created TripControllerException to handle possible errors thrown.
-7. Re-made tests: now they are using mocks, so tests look much cleaner and tests focus only on one class per test
-   (as it should be).
-   
+1. TripMakingServiceTest: is error handling tested properly? In theory it works, but maybe
+   there is a better way;
+2. Helpers.php: isDistance function is used in two services, but it's very small function.
+   Is it bad decision to let it stay there? Should I create service just for this?
+3. About geocode table seeds: can't found anything to solve my problem, so I came along with two solutions.
+   a) (implemented already) Added static function to geocode model which takes array as argument, goes foreach
+   if there are violations, just continues foreach loop.
+   b) (maybe bad practice but much much faster) I could take current database (with ignored key checks)
+   and delete geocodes which don't have brewery, then run reverse seeds and it would be valid data only
+   + it would work fast.
+4. Custom exception now named 'NoBreweriesFoundException'. Render method just redirects with message. 
+   TripMakingController now catches NoBreweriesFoundException error (thrown in service) and executes
+   render method.
+5. Added BreweryFactory to generate test data. 
