@@ -2,12 +2,14 @@
 
 namespace App\Console\Commands;
 
+use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\getCurrentTime;
 use function App\Http\getTotalRunTime;
 use function App\Http\validateLatitude;
 use function App\Http\validateLongitude;
 use App\Services\OutputDataFetchingService;
 use App\Services\TripMakingService;
+use App\Services\ValidateCoordinatesService;
 use Illuminate\Console\Command;
 
 class ShellRun extends Command
@@ -28,47 +30,45 @@ class ShellRun extends Command
 
     protected $tripMakingService;
     protected $outputDataFetchingService;
+    protected $validateCoordinatesService;
 
     /**
      * Create a new command instance.
      * @param $tripMakingService
      * @param $outputDataFetchingService
+     * @param $validateCoordinatesService
      *
      * @return void
      */
     public function __construct(
         TripMakingService $tripMakingService,
-        OutputDataFetchingService $outputDataFetchingService
+        OutputDataFetchingService $outputDataFetchingService,
+        ValidateCoordinatesService $validateCoordinatesService
     ) {
         parent::__construct();
         $this->tripMakingService = $tripMakingService;
-        $this->outputDataFetchingService =$outputDataFetchingService;
+        $this->outputDataFetchingService = $outputDataFetchingService;
+        $this->validateCoordinatesService = $validateCoordinatesService;
     }
 
     /**
      * Execute the console command.
      *
-     * @return mixed
+     * @return void
      */
     public function handle()
     {
         ini_set('max_execution_time', 600);
         $startTime = getCurrentTime();//time tracking
-        //no need to validate here? Normally it is validated in Coordinates request.
-        //validation here is overkill?
+
         $startLongitude = $this->argument('longitude');
         $startLatitude = $this->argument('latitude');
-        if (!validateLatitude($startLatitude) || !validateLongitude($startLongitude)) {
-            echo("\nPlease enter valid values.\n");
-            echo("How to use: php artisan runShell {longitude} {latitude}\n");
-            echo("Where: -180 < longitude < 180 AND -85 < latitude < 85\n");
-            exit(0);
-        }
+        $this->validateCoordinates($startLongitude, $startLatitude);
         $tripDistance = 2000;//km
-        //services
 
-        $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
-        if (empty($resultArray)) {
+        try {
+            $resultArray = $this->tripMakingService->calculateWholeTrip($startLongitude, $startLatitude, $tripDistance);
+        } catch (NoBreweriesFoundException $ex) {
             echo('No breweries are close enough...');
             exit(0);
         }
@@ -86,6 +86,25 @@ class ShellRun extends Command
             exit(0);
         }
 
+        $this->outputResults($results, $startLongitude, $startLatitude);
+
+        $runTime = getTotalRunTime($startTime);
+        echo("\nRun time: " . $runTime . " s");
+    }
+
+    private function validateCoordinates($startLongitude, $startLatitude)
+    {
+        if (!$this->validateCoordinatesService->isLatitudeValid($startLatitude) ||
+            !$this->validateCoordinatesService->isLongitudeValid($startLongitude)) {
+            echo("\nPlease enter valid values.\n");
+            echo("How to use: php artisan runShell {longitude} {latitude}\n");
+            echo("Where: -180 < longitude < 180 AND -85 < latitude < 85\n");
+            exit(0);
+        }
+    }
+
+    private function outputResults($results, $startLongitude, $startLatitude)
+    {
         $i = 1;
         echo("Coordinates format: longitude,latitude \n");
         echo("Found " . (count($results) - 5) . " breweries \n");//4 non brewery data holding fields, 1 return home
@@ -109,8 +128,5 @@ class ShellRun extends Command
             echo($i . ". " . $beer . "\n");
             $i++;
         }
-
-        $runTime = getTotalRunTime($startTime);
-        echo("\nRun time: " . $runTime . " s");
     }
 }
