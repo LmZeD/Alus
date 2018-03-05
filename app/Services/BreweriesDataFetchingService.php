@@ -43,6 +43,15 @@ class BreweriesDataFetchingService
         return $breweriesData;
     }
 
+    /**
+     *  Collects data of brewery
+     *
+     * @param $geocode - geocode object
+     * @param $startLong - start point longitude
+     * @param $startLat - start point latitude
+     *
+     * @return array
+     */
     private function setBreweriesDataObj($geocode, $startLong, $startLat)
     {
         $brewery = $geocode->brewery;
@@ -61,13 +70,23 @@ class BreweriesDataFetchingService
         return $breweriesDataObj;
     }
 
+    /**
+     *  Gets breweries with geocodes
+     *
+     * @param $startLong - start point longitude
+     * @param $startLat - start point latitude
+     * @param $longitudeDifferenceAllowed - determines available range to select longitude
+     * @param $latitudeDifferenceAllowed - determines available range to select latitude
+     *
+     * @return array
+     */
+
     private function getBreweriesWithGeocodes(
         $startLong,
         $startLat,
         $longitudeDifferenceAllowed,
         $latitudeDifferenceAllowed
     ) {
-        //db select of breweries with geocodes
         $breweries = Brewery::getBreweriesWithGeocodes(
             $startLong,
             $startLat,

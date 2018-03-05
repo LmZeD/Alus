@@ -30,7 +30,7 @@ class RouteCalculationService
      */
     public function calculateRoute($startLongitude, $startLatitude, $tripDistance, $breweriesData)
     {
-        if (!$this->validateParams($startLongitude, $startLatitude, $tripDistance, $breweriesData)) {
+        if (!$this->validateInputFields($startLongitude, $startLatitude, $tripDistance, $breweriesData)) {
             return [];
         }
         $currentLong = $startLongitude;
@@ -69,20 +69,39 @@ class RouteCalculationService
         return ['usedIndexes' => $usedIndexes, 'distanceLeft' => $distanceLeft, 'breweriesData' => $breweriesData];
     }
 
-    private function validateParams($startLongitude, $startLatitude, $tripDistance, $breweriesData)
+    /**
+     *  Validates input fields
+     *
+     * @param $startLongitude - start point longitude
+     * @param $startLatitude - start point latitude
+     * @param $tripDistance - allowed trip distance
+     * @param $breweriesData - data of breweries in range
+     *
+     * @return bool
+     *
+     */
+    private function validateInputFields($startLongitude, $startLatitude, $tripDistance, $breweriesData)
     {
         if (!$this->validateCoordinatesService->isLatitudeValid($startLatitude) ||
             !$this->validateCoordinatesService->isLongitudeValid($startLongitude) ||
             !isDistance($tripDistance) ||
             !is_array($breweriesData) ||
             (count($breweriesData) == 0 ||
-            !$this->validateBreweriesData($breweriesData))
+                !$this->validateBreweriesData($breweriesData))
         ) {
             return false;
         }
         return true;
     }
 
+    /**
+     *  Validates breweriesData (if array is fully set)
+     *
+     * @param $breweriesData
+     *
+     * @return bool
+     *
+     */
     private function validateBreweriesData($breweriesData)
     {
         if (!str_contains(json_encode($breweriesData), 'brewery') ||

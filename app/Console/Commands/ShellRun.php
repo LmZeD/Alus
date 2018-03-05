@@ -5,8 +5,6 @@ namespace App\Console\Commands;
 use App\Exceptions\NoBreweriesFoundException;
 use function App\Http\getCurrentTime;
 use function App\Http\getTotalRunTime;
-use function App\Http\validateLatitude;
-use function App\Http\validateLongitude;
 use App\Services\OutputDataFetchingService;
 use App\Services\TripMakingService;
 use App\Services\ValidateCoordinatesService;
@@ -80,11 +78,6 @@ class ShellRun extends Command
             $resultArray['startLongitude'],
             $resultArray['tripDistance']
         );
-
-        if ($results === 'failed' || $results == null) {
-            echo('No breweries are close enough...');
-            exit(0);
-        }
 
         $this->outputResults($results, $startLongitude, $startLatitude);
 

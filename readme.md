@@ -47,3 +47,4 @@
    TripMakingController now catches NoBreweriesFoundException error (thrown in service) and executes
    render method.
 5. Added BreweryFactory to generate test data. 
+6. Fixed shellRun console command; made private functions for data validation and output;

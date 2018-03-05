@@ -46,6 +46,16 @@ class DistanceCalculationService
         return $km;
     }
 
+    /**
+     * Validates input fields
+     *
+     * @param $long1
+     * @param $lat1
+     * @param $long2
+     * @param $lat2
+     *
+     * @return bool
+     */
     private function validateInputFields($long1, $lat1, $long2, $lat2)
     {
         if (!$this->validateCoordinatesService->isLatitudeValid($lat1) ||

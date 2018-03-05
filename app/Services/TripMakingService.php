@@ -56,6 +56,15 @@ class TripMakingService
         ];
     }
 
+    /**
+     * Gets data for calculations
+     *
+     * @param $startLongitude - start point longitude
+     * @param $startLatitude - start point latitude
+     * @param $tripDistance - distance allowed
+     *
+     * @return array
+     */
     private function setUpData($startLongitude, $startLatitude, $tripDistance)
     {
         $latitudeDifferenceAllowed = $this->differenceAllowed($tripDistance);
@@ -69,7 +78,16 @@ class TripMakingService
         return $breweriesData;
     }
 
-    //maybe this should go to 'calculateWholeTrip' method? On the other hand code looks much cleaner.
+    /**
+     * Calculates route
+     *
+     * @param $startLongitude
+     * @param $startLatitude
+     * @param $tripDistance
+     * @param $breweriesData
+     *
+     * @return array
+     */
     private function calculateRouteData($startLongitude, $startLatitude, $tripDistance, $breweriesData)
     {
         $routeData = $this->routeCalculationService->calculateRoute(
@@ -81,6 +99,15 @@ class TripMakingService
         return $routeData;
     }
 
+    /**
+     * Validates input fields
+     *
+     * @param $startLongitude
+     * @param $startLatitude
+     * @param $tripDistance
+     *
+     * @return bool
+     */
     private function validateInputFields($startLongitude, $startLatitude, $tripDistance)
     {
         if (!isDistance($tripDistance) ||

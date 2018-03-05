@@ -69,6 +69,16 @@ class FindClosestPointService
         return $closestData;
     }
 
+    /**
+     *  Tests calculation conditions (if point found is valid)
+     *
+     * @param $closestIndex
+     * @param $distanceLeft
+     * @param $closestDistance
+     * @param $breweriesData - data of breweries in range
+     *
+     * @return bool
+     */
     private function testDataAfterCalculations($closestIndex, $distanceLeft, $closestDistance, $breweriesData)
     {
         if ($closestIndex == -1) {//nothing in range found
@@ -85,6 +95,17 @@ class FindClosestPointService
         return true;
     }
 
+    /**
+     *  Validates input fields
+     *
+     * @param $currentLong - current point longitude
+     * @param $currentLat - current point latitude
+     * @param $usedIndexes - array which contains indexes of visited breweries
+     * @param $distanceLeft - distance left for traveling
+     * @param $breweriesData - data of breweries in range
+     *
+     * @return bool
+     */
     private function validateInputFields($currentLong, $currentLat, $breweriesData, $distanceLeft, $usedIndexes)
     {
         if (!$this->validateCoordinatesService->isLongitudeValid($currentLong) ||

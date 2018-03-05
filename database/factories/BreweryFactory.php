@@ -15,7 +15,6 @@ use Faker\Generator as Faker;
 
 $factory->define(App\Brewery::class, function (Faker $faker) {
     return [
-        //'id' => $faker->unique()->randomDigitNotNull(),
         'name' => str_random(10),
         'address1' => $faker->address(),
         'address2' => $faker->address(),
